@@ -10,75 +10,75 @@
     "name": "Lyckobricka",
     "cost": { "coins": 5, "diamonds": 0 },
     "type": "in-game",
-    "description": "Ger 4× belöning på nästa fråga. Endast en gång per spelomgång",
+    "description": "Ger 10× belöning på nästa fråga. Endast en gång per spelomgång",
     "image": "images/lucky-token.png"
   },
   {
     "name": "Nyckel",
-    "cost": { "coins": 8, "diamonds": 1 },
+    "cost": { "coins": 8, "diamonds": 0 },
     "type": "in-game",
     "description": "Låser upp diamantrutor",
     "image": "images/key.png"
   },
   {
     "name": "Klistermärken",
-    "cost": { "coins": 10, "diamonds": 2 },
+    "cost": { "coins": 20, "diamonds": 2 },
     "type": "out-game",
     "description": "",
     "image": "images/stickers.png"
   },
   {
     "name": "Fin penna",
-    "cost": { "coins": 12, "diamonds": 0 },
+    "cost": { "coins": 25, "diamonds": 0 },
     "type": "out-game",
     "description": "",
     "image": "images/pen.png"
   },
   {
     "name": "Nagellack",
-    "cost": { "coins": 10, "diamonds": 2 },
+    "cost": { "coins": 30, "diamonds": 1 },
     "type": "out-game",
     "description": "",
     "image": "images/nail-polish.png"
   },
     {
     "name": "Squishy-boll",
-    "cost": { "coins": 12, "diamonds": 0 },
+    "cost": { "coins": 30, "diamonds": 1 },
     "type": "out-game",
     "description": "",
     "image": "images/squishy-ball.png"
   },
   {
     "name": "Bok",
-    "cost": { "coins": 12, "diamonds": 1 },
+    "cost": { "coins": 25, "diamonds": 2 },
     "type": "out-game",
     "description": "",
     "image": "images/book.png"
   },
   {
     "name": "Ring",
-    "cost": { "coins": 12, "diamonds": 0 },
+    "cost": { "coins": 10, "diamonds": 3 },
     "type": "out-game",
     "description": "",
     "image": "images/ring.png"
   },
   {
     "name": "Halsband",
-    "cost": { "coins": 8, "diamonds": 3 },
+    "cost": { "coins": 20, "diamonds": 4 },
     "type": "out-game",
     "description": "",
     "image": "images/necklace.png"
   },
   {
     "name": "Biobiljett",
-    "cost": { "coins": 10, "diamonds": 2 },
+    "cost": { "coins": 30, "diamonds": 4 },
     "type": "out-game",
     "description": "",
     "image": "images/cinema-ticket.png"
   },
   {
     "name": "Hemlig pysselbox",
-    "cost": { "coins": 12, "diamonds": 3 },
+    "cost": { "coins": 30, "diamonds": 5 },
     "type": "out-game",
     "description": "",
     "image": "images/crafts-box.png"

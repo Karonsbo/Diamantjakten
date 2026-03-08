@@ -30,8 +30,8 @@
     {
       "level": 1,
       "addition": {
-        "q": "9 + 14 = ?",
-        "a": "23"
+        "q": "9 + 24 = ?",
+        "a": "33"
       },
       "subtraktion": {
         "q": "58 − 19 = ?",
@@ -131,8 +131,8 @@
         "a": "13:55"
       },
       "kreativ": {
-        "q": "Rita en cirkel",
-        "a": "◯"
+        "q": "Rita en cirkel och mät diametern.",
+        "a": "◯. Fråga någon som vet om det stämmer."
       }
     },
 
@@ -187,8 +187,8 @@
         "a": "Fråga någon som vet om ditt svar stämmer"
       },
       "kreativ": {
-        "q": "Rita en romb",
-        "a": "◇"
+        "q": "Rita en romb. hur många hörn har den?",
+        "a": "◇ = fyra hörn"
       }
     },
 
@@ -243,8 +243,8 @@
         "a": "08:15"
       },
       "kreativ": {
-        "q": "Rita en pentagon",
-        "a": "⬠"
+        "q": "Rita en pentagon. Hur många hörn har den?",
+        "a": "⬠ = fem hörn"
       }
     },
 
@@ -299,8 +299,8 @@
         "a": "Fråga någon som vet om ditt svar stämmer"
       },
       "kreativ": {
-        "q": "Rita en rektangel",
-        "a": "▭"
+        "q": "Rita en rektangel. Måste alla sidor vara lika långa?",
+        "a": "▭ Nej, bara de motstående sidorna måste vara lika långa."
       }
     },
 
@@ -383,8 +383,8 @@
         "a": "Fråga någon som vet om ditt svar stämmer"
       },
       "kreativ": {
-        "q": "Rita en stjärna",
-        "a": "☆"
+        "q": "Rita en femuddig stjärna. Hur många trianglar kan du hitta?",
+        "a": "☆ = 5 trianglar – en i varje spets"
       }
     },
 
@@ -1275,8 +1275,8 @@
         "a": "29"
       },
       "kreativ": {
-        "q": "Gör 8 + 5 klappar",
-        "a": "13 klapp genomförda"
+        "q": "Gör 8 + 2 upphopp",
+        "a": "10 upphopp genomförda"
       }
     },
     {
@@ -1576,6 +1576,141 @@
         "a": "Fråga någon som vet om det stämmer"
       }
     },
+{
+"level":1,
+"addition":{"q":"18 + 9 = ?","a":"27"},
+"subtraktion":{"q":"64 − 27 = ?","a":"37"},
+"multiplikation":{"q":"6 × 4 = ?","a":"24"},
+"division":{"q":"32 ÷ 8 = ?","a":"4"},
+"klockan":{"q":"Vad är klockan 15 minuter efter 10:20?","a":"10:35"},
+"kreativ":{"q":"Rita en triangel där en sida är 4 cm. Mät med linjal.","a":"Fråga någon som vet om det stämmer"}
+},
+{
+"level":1,
+"addition":{"q":"21 + 16 = ?","a":"37"},
+"subtraktion":{"q":"75 − 28 = ?","a":"47"},
+"multiplikation":{"q":"7 × 6 = ?","a":"42"},
+"division":{"q":"45 ÷ 5 = ?","a":"9"},
+"klockan":{"q":"Hur många minuter är 1 timme och 20 minuter?","a":"80"},
+"kreativ":{"q":"Rita en kvadrat där varje sida är 3 cm.","a":"Fråga någon som vet om det stämmer"}
+},
+{
+"level":1,
+"addition":{"q":"24 + 15 = ?","a":"39"},
+"subtraktion":{"q":"83 − 36 = ?","a":"47"},
+"multiplikation":{"q":"8 × 3 = ?","a":"24"},
+"division":{"q":"63 ÷ 9 = ?","a":"7"},
+"klockan":{"q":"Vad är klockan 10 minuter före 14:00?","a":"13:50"},
+"kreativ":{"q":"Rita en cirkel och dela den i två lika stora delar.","a":"Fråga någon som vet om det stämmer"}
+},
+{
+"level":1,
+"addition":{"q":"13 + 26 = ?","a":"39"},
+"subtraktion":{"q":"71 − 29 = ?","a":"42"},
+"multiplikation":{"q":"9 × 4 = ?","a":"36"},
+"division":{"q":"54 ÷ 6 = ?","a":"9"},
+"klockan":{"q":"Hur många sekunder är 4 minuter?","a":"240"},
+"kreativ":{"q":"Rita en rektangel som är 2 cm bred och 5 cm lång.","a":"Fråga någon som vet om det stämmer"}
+},
+{
+"level":1,
+"addition":{"q":"27 + 18 = ?","a":"45"},
+"subtraktion":{"q":"92 − 44 = ?","a":"48"},
+"multiplikation":{"q":"5 × 7 = ?","a":"35"},
+"division":{"q":"36 ÷ 4 = ?","a":"9"},
+"klockan":{"q":"Vad är klockan 30 minuter efter 07:10?","a":"07:40"},
+"kreativ":{"q":"Rita två olika trianglar.","a":"Fråga någon som vet om de är olika"}
+},
+{
+"level":1,
+"addition":{"q":"19 + 22 = ?","a":"41"},
+"subtraktion":{"q":"68 − 24 = ?","a":"44"},
+"multiplikation":{"q":"4 × 8 = ?","a":"32"},
+"division":{"q":"72 ÷ 9 = ?","a":"8"},
+"klockan":{"q":"Hur många minuter går det på 4 timmar?","a":"240"},
+"kreativ":{"q":"Rita en cirkel och markera mitten.","a":"Fråga någon som vet om det stämmer"}
+},
+{
+"level":1,
+"addition":{"q":"32 + 11 = ?","a":"43"},
+"subtraktion":{"q":"84 − 39 = ?","a":"45"},
+"multiplikation":{"q":"6 × 7 = ?","a":"42"},
+"division":{"q":"27 ÷ 9 = ?","a":"3"},
+"klockan":{"q":"Vad är klockan 25 minuter efter 12:30?","a":"12:55"},
+"kreativ":{"q":"Rita en triangel och markera alla hörn.","a":"3 hörn"}
+},
+{
+"level":1,
+"addition":{"q":"14 + 28 = ?","a":"42"},
+"subtraktion":{"q":"93 − 48 = ?","a":"45"},
+"multiplikation":{"q":"3 × 9 = ?","a":"27"},
+"division":{"q":"56 ÷ 7 = ?","a":"8"},
+"klockan":{"q":"Hur många sekunder är 1 minut och 30 sekunder?","a":"90"},
+"kreativ":{"q":"Rita en kvadrat och rita båda diagonalerna.","a":"Fråga någon som vet om det stämmer"}
+},
+{
+"level":1,
+"addition":{"q":"17 + 24 = ?","a":"41"},
+"subtraktion":{"q":"79 − 33 = ?","a":"46"},
+"multiplikation":{"q":"7 × 3 = ?","a":"21"},
+"division":{"q":"48 ÷ 6 = ?","a":"8"},
+"klockan":{"q":"Vad är klockan 20 minuter före 16:00?","a":"15:40"},
+"kreativ":{"q":"Rita en figur med exakt 5 hörn.","a":"Fråga någon som vet om det stämmer"}
+},
+{
+"level":1,
+"addition":{"q":"23 + 18 = ?","a":"41"},
+"subtraktion":{"q":"66 − 19 = ?","a":"47"},
+"multiplikation":{"q":"8 × 5 = ?","a":"40"},
+"division":{"q":"24 ÷ 3 = ?","a":"8"},
+"klockan":{"q":"Hur många minuter är 2 timmar och 10 minuter?","a":"130"},
+"kreativ":{"q":"Rita en rektangel och räkna hur många hörn den har.","a":"4"}
+},
+{
+"level":1,
+"addition":{"q":"15 + 29 = ?","a":"44"},
+"subtraktion":{"q":"87 − 41 = ?","a":"46"},
+"multiplikation":{"q":"9 × 2 = ?","a":"18"},
+"division":{"q":"18 ÷ 3 = ?","a":"6"},
+"klockan":{"q":"Vad är klockan 45 minuter efter 09:15?","a":"10:00"},
+"kreativ":{"q":"Rita tre olika fyrhörningar.","a":"Fråga någon som vet om det stämmer"}
+},
+{
+"level":1,
+"addition":{"q":"28 + 16 = ?","a":"44"},
+"subtraktion":{"q":"74 − 29 = ?","a":"45"},
+"multiplikation":{"q":"4 × 6 = ?","a":"24"},
+"division":{"q":"64 ÷ 8 = ?","a":"8"},
+"klockan":{"q":"Hur många sekunder är 5 minuter?","a":"300"},
+"kreativ":{"q":"Rita en cirkel och dela den i fyra lika delar.","a":"Fråga någon som vet om det stämmer"}
+},
+{
+"level":1,
+"addition":{"q":"26 + 19 = ?","a":"45"},
+"subtraktion":{"q":"82 − 37 = ?","a":"45"},
+"multiplikation":{"q":"5 × 6 = ?","a":"30"},
+"division":{"q":"81 ÷ 9 = ?","a":"9"},
+"klockan":{"q":"Vad är klockan 35 minuter efter 11:20?","a":"11:55"},
+"kreativ":{"q":"Rita en kvadrat och mät en sida i centimeter.","a":"Fråga någon som vet om det stämmer"}
+},
+{
+"level":1,
+"addition":{"q":"31 + 14 = ?","a":"45"},
+"subtraktion":{"q":"90 − 44 = ?","a":"46"},
+"multiplikation":{"q":"7 × 4 = ?","a":"28"},
+"division":{"q":"30 ÷ 6 = ?","a":"5"},
+"klockan":{"q":"Hur många minuter går det på ett halvt dygn?","a":"720"},
+"kreativ":{"q":"Rita en triangel där alla sidor är lika långa.","a":"Fråga någon som vet om det stämmer"}
+},
+{
+"level":1,
+"addition":{"q":"22 + 24 = ?","a":"46"},
+"subtraktion":{"q":"78 − 32 = ?","a":"46"},
+"multiplikation":{"q":"6 × 8 = ?","a":"48"},
+"division":{"q":"40 ÷ 5 = ?","a":"8"},
+"klockan":{"q":"Vad är klockan 15 minuter före 18:10?","a":"17:55"},
+"kreativ":{"q":"Rita en figur med minst 6 hörn.","a":"Fråga någon som vet om det stämmer"}
+},
     {
       "level": 2,
       "addition": {
@@ -2436,8 +2571,8 @@
         "a": "Fråga någon som vet om ditt svar stämmer"
       },
       "kreativ": {
-        "q": "Gör 12 + 11 klappar",
-        "a": "23 klapp genomförda"
+        "q": "Gör 12 + 11 jämfotahopp",
+        "a": "23 jämfotahopp genomförda"
       }
     },
     {
@@ -4569,8 +4704,8 @@
         "a": "275"
       },
       "kreativ": {
-        "q": "Gör 20 + 15 klappar",
-        "a": "35 klapp genomförda"
+        "q": "Gör 3 + 15 upphopp",
+        "a": "18 upphopp genomförda"
       }
     },
     {
