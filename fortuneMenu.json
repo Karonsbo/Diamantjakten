@@ -22,14 +22,14 @@
   },
   {
     "name": "Klistermärken",
-    "cost": { "coins": 20, "diamonds": 2 },
+    "cost": { "coins": 20, "diamonds": 1 },
     "type": "out-game",
     "description": "",
     "image": "images/stickers.png"
   },
   {
     "name": "Fin penna",
-    "cost": { "coins": 25, "diamonds": 0 },
+    "cost": { "coins": 25, "diamonds": 1 },
     "type": "out-game",
     "description": "",
     "image": "images/pen.png"
