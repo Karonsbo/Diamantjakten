@@ -111,8 +111,8 @@
     {
       "level": 1,
       "addition": {
-        "q": "23 + 18 = ?",
-        "a": "41"
+        "q": "3 + 18 = ?",
+        "a": "21"
       },
       "subtraktion": {
         "q": "64 − 29 = ?",
@@ -135,12 +135,11 @@
         "a": "◯. Fråga någon som vet om det stämmer."
       }
     },
-
     {
       "level": 1,
       "addition": {
-        "q": "31 + 9 = ?",
-        "a": "40"
+        "q": "51 + 9 = ?",
+        "a": "60"
       },
       "subtraktion": {
         "q": "70 − 22 = ?",
@@ -163,12 +162,11 @@
         "a": "13 situps genomförda"
       }
     },
-
     {
       "level": 1,
       "addition": {
-        "q": "26 + 15 = ?",
-        "a": "41"
+        "q": "66 + 15 = ?",
+        "a": "81"
       },
       "subtraktion": {
         "q": "53 − 17 = ?",
@@ -191,12 +189,11 @@
         "a": "◇ = fyra hörn"
       }
     },
-
     {
       "level": 1,
       "addition": {
-        "q": "14 + 28 = ?",
-        "a": "42"
+        "q": "14 + 12 = ?",
+        "a": "28"
       },
       "subtraktion": {
         "q": "81 − 39 = ?",
@@ -219,12 +216,11 @@
         "a": "13 benböj genomförda"
       }
     },
-
     {
       "level": 1,
       "addition": {
-        "q": "19 + 24 = ?",
-        "a": "43"
+        "q": "39 + 24 = ?",
+        "a": "63"
       },
       "subtraktion": {
         "q": "66 − 21 = ?",
@@ -247,16 +243,15 @@
         "a": "⬠ = fem hörn"
       }
     },
-
     {
       "level": 1,
       "addition": {
-        "q": "21 + 22 = ?",
-        "a": "43"
+        "q": "11 + 11 = ?",
+        "a": "22"
       },
       "subtraktion": {
-        "q": "74 − 28 = ?",
-        "a": "46"
+        "q": "14 − 9 = ?",
+        "a": "5"
       },
       "multiplikation": {
         "q": "Skriv hela 10:ans tabell (1–10)",
@@ -275,12 +270,11 @@
         "a": "14 tåhävningar genomförda"
       }
     },
-
     {
       "level": 1,
       "addition": {
-        "q": "24 + 13 = ?",
-        "a": "37"
+        "q": "44 + 13 = ?",
+        "a": "57"
       },
       "subtraktion": {
         "q": "60 − 25 = ?",
@@ -303,16 +297,15 @@
         "a": "▭ Nej, bara de motstående sidorna måste vara lika långa."
       }
     },
-
     {
       "level": 1,
       "addition": {
-        "q": "35 + 11 = ?",
-        "a": "46"
+        "q": "35 + 10 = ?",
+        "a": "45"
       },
       "subtraktion": {
-        "q": "58 − 12 = ?",
-        "a": "46"
+        "q": "88 − 12 = ?",
+        "a": "76"
       },
       "multiplikation": {
         "q": "7 × 4 = ?",
@@ -331,16 +324,15 @@
         "a": "Fråga någon som vet om det stämmer"
       }
     },
-
     {
       "level": 1,
       "addition": {
-        "q": "28 + 18 = ?",
-        "a": "46"
+        "q": "18 + 7 = ?",
+        "a": "25"
       },
       "subtraktion": {
-        "q": "69 − 23 = ?",
-        "a": "46"
+        "q": "39 − 23 = ?",
+        "a": "16"
       },
       "multiplikation": {
         "q": "9 × 3 = ?",
@@ -359,16 +351,15 @@
         "a": "13 tåhävningar genomförda"
       }
     },
-
     {
       "level": 1,
       "addition": {
-        "q": "27 + 20 = ?",
-        "a": "47"
+        "q": "57 + 20 = ?",
+        "a": "77"
       },
       "subtraktion": {
-        "q": "91 − 46 = ?",
-        "a": "45"
+        "q": "91 − 3 = ?",
+        "a": "88"
       },
       "multiplikation": {
         "q": "5 × 9 = ?",
@@ -387,24 +378,23 @@
         "a": "☆ = 5 trianglar – en i varje spets"
       }
     },
-
     {
       "level": 1,
       "addition": {
-        "q": "22 + 25 = ?",
-        "a": "47"
+        "q": "20 + 55 = ?",
+        "a": "75"
       },
       "subtraktion": {
-        "q": "84 − 39 = ?",
-        "a": "45"
+        "q": "84 − 10 = ?",
+        "a": "74"
       },
       "multiplikation": {
         "q": "2 × 9 = ?",
         "a": "18"
       },
       "division": {
-        "q": "36 ÷ 4 = ?",
-        "a": "9"
+        "q": "36 ÷ 6 = ?",
+        "a": "6"
       },
       "klockan": {
         "q": "Hur många minuter är det från 06:30 till 07:15?",
@@ -422,8 +412,8 @@
         "a": "46"
       },
       "subtraktion": {
-        "q": "59 − 13 = ?",
-        "a": "46"
+        "q": "19 − 13 = ?",
+        "a": "6"
       },
       "multiplikation": {
         "q": "3 × 7 = ?",
@@ -445,12 +435,12 @@
     {
       "level": 1,
       "addition": {
-        "q": "32 + 14 = ?",
-        "a": "46"
+        "q": "32 + 24 = ?",
+        "a": "56"
       },
       "subtraktion": {
-        "q": "93 − 47 = ?",
-        "a": "46"
+        "q": "93 − 12 = ?",
+        "a": "81"
       },
       "multiplikation": {
         "q": "9 × 2 = ?",
@@ -476,8 +466,8 @@
         "a": "47"
       },
       "subtraktion": {
-        "q": "62 − 15 = ?",
-        "a": "47"
+        "q": "80 − 15 = ?",
+        "a": "65"
       },
       "multiplikation": {
         "q": "8 × 4 = ?",
@@ -499,12 +489,12 @@
     {
       "level": 1,
       "addition": {
-        "q": "37 + 9 = ?",
-        "a": "46"
+        "q": "17 + 9 = ?",
+        "a": "26"
       },
       "subtraktion": {
-        "q": "59 − 13 = ?",
-        "a": "46"
+        "q": "79 − 13 = ?",
+        "a": "66"
       },
       "multiplikation": {
         "q": "3 × 7 = ?",
@@ -526,20 +516,20 @@
     {
       "level": 1,
       "addition": {
-        "q": "32 + 14 = ?",
-        "a": "46"
+        "q": "12 + 14 = ?",
+        "a": "26"
       },
       "subtraktion": {
-        "q": "93 − 47 = ?",
-        "a": "46"
+        "q": "99 − 19 = ?",
+        "a": "80"
       },
       "multiplikation": {
-        "q": "9 × 2 = ?",
-        "a": "18"
+        "q": "3 × 8 = ?",
+        "a": "24"
       },
       "division": {
-        "q": "81 ÷ 9 = ?",
-        "a": "9"
+        "q": "27 ÷ 9 = ?",
+        "a": "3"
       },
       "klockan": {
         "q": "Ställ klockan på 20:30",
@@ -553,16 +543,16 @@
     {
       "level": 1,
       "addition": {
-        "q": "24 + 23 = ?",
-        "a": "47"
+        "q": "44 + 23 = ?",
+        "a": "67"
       },
       "subtraktion": {
         "q": "62 − 15 = ?",
         "a": "47"
       },
       "multiplikation": {
-        "q": "8 × 4 = ?",
-        "a": "32"
+        "q": "8 × 5 = ?",
+        "a": "40"
       },
       "division": {
         "q": "72 ÷ 9 = ?",
@@ -580,12 +570,12 @@
     {
       "level": 1,
       "addition": {
-        "q": "45 + 2 = ?",
-        "a": "47"
+        "q": "45 + 11 = ?",
+        "a": "56"
       },
       "subtraktion": {
-        "q": "80 − 35 = ?",
-        "a": "45"
+        "q": "80 − 25 = ?",
+        "a": "55"
       },
       "multiplikation": {
         "q": "2 × 8 = ?",
@@ -611,8 +601,8 @@
         "a": "46"
       },
       "subtraktion": {
-        "q": "71 − 24 = ?",
-        "a": "47"
+        "q": "26 − 24 = ?",
+        "a": "2"
       },
       "multiplikation": {
         "q": "5 × 7 = ?",
@@ -634,12 +624,12 @@
     {
       "level": 1,
       "addition": {
-        "q": "21 + 26 = ?",
-        "a": "47"
+        "q": "11 + 26 = ?",
+        "a": "37"
       },
       "subtraktion": {
-        "q": "95 − 48 = ?",
-        "a": "47"
+        "q": "95 − 58 = ?",
+        "a": "37"
       },
       "multiplikation": {
         "q": "9 × 4 = ?",
@@ -661,12 +651,12 @@
     {
       "level": 1,
       "addition": {
-        "q": "34 + 13 = ?",
-        "a": "47"
+        "q": "24 + 11 = ?",
+        "a": "35"
       },
       "subtraktion": {
-        "q": "76 − 29 = ?",
-        "a": "47"
+        "q": "76 − 42 = ?",
+        "a": "34"
       },
       "multiplikation": {
         "q": "7 × 3 = ?",
@@ -688,12 +678,12 @@
     {
       "level": 1,
       "addition": {
-        "q": "39 + 8 = ?",
-        "a": "47"
+        "q": "44 + 8 = ?",
+        "a": "52"
       },
       "subtraktion": {
-        "q": "87 − 40 = ?",
-        "a": "47"
+        "q": "97 − 40 = ?",
+        "a": "57"
       },
       "multiplikation": {
         "q": "6 × 6 = ?",
@@ -715,12 +705,12 @@
     {
       "level": 1,
       "addition": {
-        "q": "33 + 14 = ?",
-        "a": "47"
+        "q": "33 + 33 = ?",
+        "a": "66"
       },
       "subtraktion": {
-        "q": "78 − 31 = ?",
-        "a": "47"
+        "q": "28 − 11 = ?",
+        "a": "17"
       },
       "multiplikation": {
         "q": "8 × 5 = ?",
@@ -742,16 +732,16 @@
     {
       "level": 1,
       "addition": {
-        "q": "26 + 21 = ?",
-        "a": "47"
+        "q": "26 + 51 = ?",
+        "a": "77"
       },
       "subtraktion": {
         "q": "92 − 44 = ?",
         "a": "48"
       },
       "multiplikation": {
-        "q": "9 × 1 = ?",
-        "a": "9"
+        "q": "9 × 2 = ?",
+        "a": "18"
       },
       "division": {
         "q": "16 ÷ 2 = ?",
@@ -769,8 +759,8 @@
     {
       "level": 1,
       "addition": {
-        "q": "28 + 19 = ?",
-        "a": "47"
+        "q": "28 + 30 = ?",
+        "a": "58"
       },
       "subtraktion": {
         "q": "86 − 38 = ?",
@@ -781,8 +771,8 @@
         "a": "14"
       },
       "division": {
-        "q": "27 ÷ 3 = ?",
-        "a": "9"
+        "q": "27 ÷ 9 = ?",
+        "a": "3"
       },
       "klockan": {
         "q": "Hur skrivs fem över 1 på natten i digital form?",
@@ -796,8 +786,8 @@
     {
       "level": 1,
       "addition": {
-        "q": "41 + 7 = ?",
-        "a": "48"
+        "q": "71 + 7 = ?",
+        "a": "78"
       },
       "subtraktion": {
         "q": "64 − 16 = ?",
@@ -827,8 +817,8 @@
         "a": "48"
       },
       "subtraktion": {
-        "q": "77 − 28 = ?",
-        "a": "49"
+        "q": "77 − 12 = ?",
+        "a": "65"
       },
       "multiplikation": {
         "q": "5 × 6 = ?",
@@ -850,12 +840,12 @@
     {
       "level": 1,
       "addition": {
-        "q": "36 + 12 = ?",
-        "a": "48"
+        "q": "36 + 40 = ?",
+        "a": "76"
       },
       "subtraktion": {
-        "q": "93 − 45 = ?",
-        "a": "48"
+        "q": "93 − 20 = ?",
+        "a": "73"
       },
       "multiplikation": {
         "q": "3 × 6 = ?",
@@ -877,8 +867,8 @@
     {
       "level": 1,
       "addition": {
-        "q": "27 + 22 = ?",
-        "a": "49"
+        "q": "27 + 4 = ?",
+        "a": "31"
       },
       "subtraktion": {
         "q": "88 − 40 = ?",
@@ -904,16 +894,16 @@
     {
       "level": 1,
       "addition": {
-        "q": "26 + 23 = ?",
-        "a": "49"
+        "q": "26 + 30 = ?",
+        "a": "56"
       },
       "subtraktion": {
         "q": "67 − 19 = ?",
         "a": "48"
       },
       "multiplikation": {
-        "q": "9 × 5 = ?",
-        "a": "45"
+        "q": "7 × 5 = ?",
+        "a": "35"
       },
       "division": {
         "q": "36 ÷ 9 = ?",
@@ -931,12 +921,12 @@
     {
       "level": 1,
       "addition": {
-        "q": "35 + 14 = ?",
-        "a": "49"
+        "q": "35 + 16 = ?",
+        "a": "51"
       },
       "subtraktion": {
-        "q": "72 − 24 = ?",
-        "a": "48"
+        "q": "72 − 32 = ?",
+        "a": "40"
       },
       "multiplikation": {
         "q": "8 × 1 = ?",
@@ -958,12 +948,12 @@
     {
       "level": 1,
       "addition": {
-        "q": "41 + 8 = ?",
-        "a": "49"
+        "q": "20 + 20 = ?",
+        "a": "40"
       },
       "subtraktion": {
-        "q": "84 − 35 = ?",
-        "a": "49"
+        "q": "84 − 13 = ?",
+        "a": "71"
       },
       "multiplikation": {
         "q": "2 × 7 = ?",
@@ -985,16 +975,16 @@
     {
       "level": 1,
       "addition": {
-        "q": "33 + 16 = ?",
-        "a": "49"
+        "q": "33 + 50 = ?",
+        "a": "83"
       },
       "subtraktion": {
         "q": "96 − 47 = ?",
         "a": "49"
       },
       "multiplikation": {
-        "q": "3 × 9 = ?",
-        "a": "27"
+        "q": "3 × 6 = ?",
+        "a": "18"
       },
       "division": {
         "q": "42 ÷ 6 = ?",
@@ -1012,8 +1002,8 @@
     {
       "level": 1,
       "addition": {
-        "q": "28 + 21 = ?",
-        "a": "49"
+        "q": "28 + 70 = ?",
+        "a": "98"
       },
       "subtraktion": {
         "q": "79 − 30 = ?",
@@ -1039,12 +1029,12 @@
     {
       "level": 1,
       "addition": {
-        "q": "25 + 24 = ?",
-        "a": "49"
+        "q": "50 + 50 = ?",
+        "a": "100"
       },
       "subtraktion": {
-        "q": "83 − 34 = ?",
-        "a": "49"
+        "q": "77 − 66 = ?",
+        "a": "11"
       },
       "multiplikation": {
         "q": "6 × 3 = ?",
@@ -1066,12 +1056,12 @@
     {
       "level": 1,
       "addition": {
-        "q": "22 + 27 = ?",
-        "a": "49"
+        "q": "10 + 70 = ?",
+        "a": "80"
       },
       "subtraktion": {
-        "q": "71 − 22 = ?",
-        "a": "49"
+        "q": "33 − 21 = ?",
+        "a": "12"
       },
       "multiplikation": {
         "q": "9 × 6 = ?",
@@ -1093,8 +1083,8 @@
     {
       "level": 1,
       "addition": {
-        "q": "31 + 18 = ?",
-        "a": "49"
+        "q": "12 + 12 = ?",
+        "a": "24"
       },
       "subtraktion": {
         "q": "68 − 20 = ?",
@@ -1120,12 +1110,12 @@
     {
       "level": 1,
       "addition": {
-        "q": "23 + 26 = ?",
-        "a": "49"
+        "q": "40 + 40 = ?",
+        "a": "80"
       },
       "subtraktion": {
-        "q": "65 − 16 = ?",
-        "a": "49"
+        "q": "65 − 20 = ?",
+        "a": "45"
       },
       "multiplikation": {
         "q": "7 × 5 = ?",
@@ -1147,12 +1137,12 @@
     {
       "level": 1,
       "addition": {
-        "q": "27 + 22 = ?",
-        "a": "49"
+        "q": "17 + 22 = ?",
+        "a": "39"
       },
       "subtraktion": {
-        "q": "90 − 42 = ?",
-        "a": "48"
+        "q": "90 − 52 = ?",
+        "a": "38"
       },
       "multiplikation": {
         "q": "5 × 5 = ?",
@@ -1174,12 +1164,12 @@
     {
       "level": 1,
       "addition": {
-        "q": "28 + 18 = ?",
-        "a": "46"
+        "q": "20 + 18 = ?",
+        "a": "38"
       },
       "subtraktion": {
-        "q": "73 − 25 = ?",
-        "a": "48"
+        "q": "73 − 63 = ?",
+        "a": "10"
       },
       "multiplikation": {
         "q": "9 × 4 = ?",
@@ -1205,8 +1195,8 @@
         "a": "46"
       },
       "subtraktion": {
-        "q": "74 − 27 = ?",
-        "a": "47"
+        "q": "74 − 67 = ?",
+        "a": "7"
       },
       "multiplikation": {
         "q": "8 × 2 = ?",
@@ -1232,8 +1222,8 @@
         "a": "46"
       },
       "subtraktion": {
-        "q": "88 − 43 = ?",
-        "a": "45"
+        "q": "88 − 78 = ?",
+        "a": "10"
       },
       "multiplikation": {
         "q": "6 × 5 = ?",
@@ -1255,12 +1245,12 @@
     {
       "level": 1,
       "addition": {
-        "q": "25 + 22 = ?",
-        "a": "47"
+        "q": "15 + 45 = ?",
+        "a": "60"
       },
       "subtraktion": {
-        "q": "65 − 18 = ?",
-        "a": "47"
+        "q": "65 − 8 = ?",
+        "a": "57"
       },
       "multiplikation": {
         "q": "4 × 6 = ?",
@@ -1282,12 +1272,12 @@
     {
       "level": 1,
       "addition": {
-        "q": "37 + 9 = ?",
-        "a": "46"
+        "q": "67 + 9 = ?",
+        "a": "76"
       },
       "subtraktion": {
-        "q": "59 − 13 = ?",
-        "a": "46"
+        "q": "59 − 8 = ?",
+        "a": "51"
       },
       "multiplikation": {
         "q": "3 × 7 = ?",
@@ -1309,12 +1299,12 @@
     {
       "level": 1,
       "addition": {
-        "q": "32 + 14 = ?",
-        "a": "46"
+        "q": "30 + 8 = ?",
+        "a": "38"
       },
       "subtraktion": {
-        "q": "93 − 47 = ?",
-        "a": "46"
+        "q": "93 − 4 = ?",
+        "a": "89"
       },
       "multiplikation": {
         "q": "9 × 2 = ?",
@@ -1336,8 +1326,8 @@
     {
       "level": 1,
       "addition": {
-        "q": "33 + 15 = ?",
-        "a": "48"
+        "q": "33 + 7 = ?",
+        "a": "40"
       },
       "subtraktion": {
         "q": "92 − 36 = ?",
@@ -1390,8 +1380,8 @@
     {
       "level": 1,
       "addition": {
-        "q": "19 + 26 = ?",
-        "a": "45"
+        "q": "19 + 7 = ?",
+        "a": "26"
       },
       "subtraktion": {
         "q": "87 − 33 = ?",
@@ -1417,12 +1407,12 @@
     {
       "level": 1,
       "addition": {
-        "q": "29 + 15 = ?",
-        "a": "44"
+        "q": "19 + 5 = ?",
+        "a": "24"
       },
       "subtraktion": {
-        "q": "75 − 28 = ?",
-        "a": "47"
+        "q": "75 − 7 = ?",
+        "a": "68"
       },
       "multiplikation": {
         "q": "4 × 5 = ?",
@@ -1448,8 +1438,8 @@
         "a": "40"
       },
       "subtraktion": {
-        "q": "63 − 19 = ?",
-        "a": "44"
+        "q": "63 − 10 = ?",
+        "a": "53"
       },
       "multiplikation": {
         "q": "3 × 8 = ?",
@@ -1471,12 +1461,12 @@
     {
       "level": 1,
       "addition": {
-        "q": "32 + 17 = ?",
-        "a": "49"
+        "q": "32 + 9 = ?",
+        "a": "41"
       },
       "subtraktion": {
-        "q": "90 − 47 = ?",
-        "a": "43"
+        "q": "90 − 6 = ?",
+        "a": "84"
       },
       "multiplikation": {
         "q": "7 × 8 = ?",
@@ -1529,8 +1519,8 @@
         "a": "51"
       },
       "subtraktion": {
-        "q": "67 − 22 = ?",
-        "a": "45"
+        "q": "67 − 7 = ?",
+        "a": "60"
       },
       "multiplikation": {
         "q": "6 × 8 = ?",
@@ -1552,12 +1542,12 @@
     {
       "level": 1,
       "addition": {
-        "q": "17 + 29 = ?",
-        "a": "46"
+        "q": "17 + 8 = ?",
+        "a": "25"
       },
       "subtraktion": {
-        "q": "95 − 48 = ?",
-        "a": "47"
+        "q": "95 − 20 = ?",
+        "a": "75"
       },
       "multiplikation": {
         "q": "8 × 2 = ?",
@@ -1576,141 +1566,411 @@
         "a": "Fråga någon som vet om det stämmer"
       }
     },
-{
-"level":1,
-"addition":{"q":"18 + 9 = ?","a":"27"},
-"subtraktion":{"q":"64 − 27 = ?","a":"37"},
-"multiplikation":{"q":"6 × 4 = ?","a":"24"},
-"division":{"q":"32 ÷ 8 = ?","a":"4"},
-"klockan":{"q":"Vad är klockan 15 minuter efter 10:20?","a":"10:35"},
-"kreativ":{"q":"Rita en triangel där en sida är 4 cm. Mät med linjal.","a":"Fråga någon som vet om det stämmer"}
-},
-{
-"level":1,
-"addition":{"q":"21 + 16 = ?","a":"37"},
-"subtraktion":{"q":"75 − 28 = ?","a":"47"},
-"multiplikation":{"q":"7 × 6 = ?","a":"42"},
-"division":{"q":"45 ÷ 5 = ?","a":"9"},
-"klockan":{"q":"Hur många minuter är 1 timme och 20 minuter?","a":"80"},
-"kreativ":{"q":"Rita en kvadrat där varje sida är 3 cm.","a":"Fråga någon som vet om det stämmer"}
-},
-{
-"level":1,
-"addition":{"q":"24 + 15 = ?","a":"39"},
-"subtraktion":{"q":"83 − 36 = ?","a":"47"},
-"multiplikation":{"q":"8 × 3 = ?","a":"24"},
-"division":{"q":"63 ÷ 9 = ?","a":"7"},
-"klockan":{"q":"Vad är klockan 10 minuter före 14:00?","a":"13:50"},
-"kreativ":{"q":"Rita en cirkel och dela den i två lika stora delar.","a":"Fråga någon som vet om det stämmer"}
-},
-{
-"level":1,
-"addition":{"q":"13 + 26 = ?","a":"39"},
-"subtraktion":{"q":"71 − 29 = ?","a":"42"},
-"multiplikation":{"q":"9 × 4 = ?","a":"36"},
-"division":{"q":"54 ÷ 6 = ?","a":"9"},
-"klockan":{"q":"Hur många sekunder är 4 minuter?","a":"240"},
-"kreativ":{"q":"Rita en rektangel som är 2 cm bred och 5 cm lång.","a":"Fråga någon som vet om det stämmer"}
-},
-{
-"level":1,
-"addition":{"q":"27 + 18 = ?","a":"45"},
-"subtraktion":{"q":"92 − 44 = ?","a":"48"},
-"multiplikation":{"q":"5 × 7 = ?","a":"35"},
-"division":{"q":"36 ÷ 4 = ?","a":"9"},
-"klockan":{"q":"Vad är klockan 30 minuter efter 07:10?","a":"07:40"},
-"kreativ":{"q":"Rita två olika trianglar.","a":"Fråga någon som vet om de är olika"}
-},
-{
-"level":1,
-"addition":{"q":"19 + 22 = ?","a":"41"},
-"subtraktion":{"q":"68 − 24 = ?","a":"44"},
-"multiplikation":{"q":"4 × 8 = ?","a":"32"},
-"division":{"q":"72 ÷ 9 = ?","a":"8"},
-"klockan":{"q":"Hur många minuter går det på 4 timmar?","a":"240"},
-"kreativ":{"q":"Rita en cirkel och markera mitten.","a":"Fråga någon som vet om det stämmer"}
-},
-{
-"level":1,
-"addition":{"q":"32 + 11 = ?","a":"43"},
-"subtraktion":{"q":"84 − 39 = ?","a":"45"},
-"multiplikation":{"q":"6 × 7 = ?","a":"42"},
-"division":{"q":"27 ÷ 9 = ?","a":"3"},
-"klockan":{"q":"Vad är klockan 25 minuter efter 12:30?","a":"12:55"},
-"kreativ":{"q":"Rita en triangel och markera alla hörn.","a":"3 hörn"}
-},
-{
-"level":1,
-"addition":{"q":"14 + 28 = ?","a":"42"},
-"subtraktion":{"q":"93 − 48 = ?","a":"45"},
-"multiplikation":{"q":"3 × 9 = ?","a":"27"},
-"division":{"q":"56 ÷ 7 = ?","a":"8"},
-"klockan":{"q":"Hur många sekunder är 1 minut och 30 sekunder?","a":"90"},
-"kreativ":{"q":"Rita en kvadrat och rita båda diagonalerna.","a":"Fråga någon som vet om det stämmer"}
-},
-{
-"level":1,
-"addition":{"q":"17 + 24 = ?","a":"41"},
-"subtraktion":{"q":"79 − 33 = ?","a":"46"},
-"multiplikation":{"q":"7 × 3 = ?","a":"21"},
-"division":{"q":"48 ÷ 6 = ?","a":"8"},
-"klockan":{"q":"Vad är klockan 20 minuter före 16:00?","a":"15:40"},
-"kreativ":{"q":"Rita en figur med exakt 5 hörn.","a":"Fråga någon som vet om det stämmer"}
-},
-{
-"level":1,
-"addition":{"q":"23 + 18 = ?","a":"41"},
-"subtraktion":{"q":"66 − 19 = ?","a":"47"},
-"multiplikation":{"q":"8 × 5 = ?","a":"40"},
-"division":{"q":"24 ÷ 3 = ?","a":"8"},
-"klockan":{"q":"Hur många minuter är 2 timmar och 10 minuter?","a":"130"},
-"kreativ":{"q":"Rita en rektangel och räkna hur många hörn den har.","a":"4"}
-},
-{
-"level":1,
-"addition":{"q":"15 + 29 = ?","a":"44"},
-"subtraktion":{"q":"87 − 41 = ?","a":"46"},
-"multiplikation":{"q":"9 × 2 = ?","a":"18"},
-"division":{"q":"18 ÷ 3 = ?","a":"6"},
-"klockan":{"q":"Vad är klockan 45 minuter efter 09:15?","a":"10:00"},
-"kreativ":{"q":"Rita tre olika fyrhörningar.","a":"Fråga någon som vet om det stämmer"}
-},
-{
-"level":1,
-"addition":{"q":"28 + 16 = ?","a":"44"},
-"subtraktion":{"q":"74 − 29 = ?","a":"45"},
-"multiplikation":{"q":"4 × 6 = ?","a":"24"},
-"division":{"q":"64 ÷ 8 = ?","a":"8"},
-"klockan":{"q":"Hur många sekunder är 5 minuter?","a":"300"},
-"kreativ":{"q":"Rita en cirkel och dela den i fyra lika delar.","a":"Fråga någon som vet om det stämmer"}
-},
-{
-"level":1,
-"addition":{"q":"26 + 19 = ?","a":"45"},
-"subtraktion":{"q":"82 − 37 = ?","a":"45"},
-"multiplikation":{"q":"5 × 6 = ?","a":"30"},
-"division":{"q":"81 ÷ 9 = ?","a":"9"},
-"klockan":{"q":"Vad är klockan 35 minuter efter 11:20?","a":"11:55"},
-"kreativ":{"q":"Rita en kvadrat och mät en sida i centimeter.","a":"Fråga någon som vet om det stämmer"}
-},
-{
-"level":1,
-"addition":{"q":"31 + 14 = ?","a":"45"},
-"subtraktion":{"q":"90 − 44 = ?","a":"46"},
-"multiplikation":{"q":"7 × 4 = ?","a":"28"},
-"division":{"q":"30 ÷ 6 = ?","a":"5"},
-"klockan":{"q":"Hur många minuter går det på ett halvt dygn?","a":"720"},
-"kreativ":{"q":"Rita en triangel där alla sidor är lika långa.","a":"Fråga någon som vet om det stämmer"}
-},
-{
-"level":1,
-"addition":{"q":"22 + 24 = ?","a":"46"},
-"subtraktion":{"q":"78 − 32 = ?","a":"46"},
-"multiplikation":{"q":"6 × 8 = ?","a":"48"},
-"division":{"q":"40 ÷ 5 = ?","a":"8"},
-"klockan":{"q":"Vad är klockan 15 minuter före 18:10?","a":"17:55"},
-"kreativ":{"q":"Rita en figur med minst 6 hörn.","a":"Fråga någon som vet om det stämmer"}
-},
+    {
+      "level": 1,
+      "addition": {
+        "q": "18 + 9 = ?",
+        "a": "27"
+      },
+      "subtraktion": {
+        "q": "64 − 27 = ?",
+        "a": "37"
+      },
+      "multiplikation": {
+        "q": "6 × 4 = ?",
+        "a": "24"
+      },
+      "division": {
+        "q": "32 ÷ 8 = ?",
+        "a": "4"
+      },
+      "klockan": {
+        "q": "Vad är klockan 15 minuter efter 10:20?",
+        "a": "10:35"
+      },
+      "kreativ": {
+        "q": "Rita en triangel där en sida är 4 cm. Mät med linjal.",
+        "a": "Fråga någon som vet om det stämmer"
+      }
+    },
+    {
+      "level": 1,
+      "addition": {
+        "q": "21 + 16 = ?",
+        "a": "37"
+      },
+      "subtraktion": {
+        "q": "75 − 28 = ?",
+        "a": "47"
+      },
+      "multiplikation": {
+        "q": "7 × 6 = ?",
+        "a": "42"
+      },
+      "division": {
+        "q": "45 ÷ 5 = ?",
+        "a": "9"
+      },
+      "klockan": {
+        "q": "Hur många minuter är 1 timme och 20 minuter?",
+        "a": "80"
+      },
+      "kreativ": {
+        "q": "Rita en kvadrat där varje sida är 3 cm.",
+        "a": "Fråga någon som vet om det stämmer"
+      }
+    },
+    {
+      "level": 1,
+      "addition": {
+        "q": "24 + 15 = ?",
+        "a": "39"
+      },
+      "subtraktion": {
+        "q": "83 − 36 = ?",
+        "a": "47"
+      },
+      "multiplikation": {
+        "q": "8 × 3 = ?",
+        "a": "24"
+      },
+      "division": {
+        "q": "63 ÷ 9 = ?",
+        "a": "7"
+      },
+      "klockan": {
+        "q": "Vad är klockan 10 minuter före 14:00?",
+        "a": "13:50"
+      },
+      "kreativ": {
+        "q": "Rita en cirkel och dela den i två lika stora delar.",
+        "a": "Fråga någon som vet om det stämmer"
+      }
+    },
+    {
+      "level": 1,
+      "addition": {
+        "q": "13 + 26 = ?",
+        "a": "39"
+      },
+      "subtraktion": {
+        "q": "71 − 29 = ?",
+        "a": "42"
+      },
+      "multiplikation": {
+        "q": "9 × 4 = ?",
+        "a": "36"
+      },
+      "division": {
+        "q": "54 ÷ 6 = ?",
+        "a": "9"
+      },
+      "klockan": {
+        "q": "Hur många sekunder är 4 minuter?",
+        "a": "240"
+      },
+      "kreativ": {
+        "q": "Rita en rektangel som är 2 cm bred och 5 cm lång.",
+        "a": "Fråga någon som vet om det stämmer"
+      }
+    },
+    {
+      "level": 1,
+      "addition": {
+        "q": "27 + 18 = ?",
+        "a": "45"
+      },
+      "subtraktion": {
+        "q": "92 − 44 = ?",
+        "a": "48"
+      },
+      "multiplikation": {
+        "q": "5 × 7 = ?",
+        "a": "35"
+      },
+      "division": {
+        "q": "36 ÷ 4 = ?",
+        "a": "9"
+      },
+      "klockan": {
+        "q": "Vad är klockan 30 minuter efter 07:10?",
+        "a": "07:40"
+      },
+      "kreativ": {
+        "q": "Rita två olika trianglar.",
+        "a": "Fråga någon som vet om de är olika"
+      }
+    },
+    {
+      "level": 1,
+      "addition": {
+        "q": "19 + 22 = ?",
+        "a": "41"
+      },
+      "subtraktion": {
+        "q": "68 − 24 = ?",
+        "a": "44"
+      },
+      "multiplikation": {
+        "q": "4 × 8 = ?",
+        "a": "32"
+      },
+      "division": {
+        "q": "72 ÷ 9 = ?",
+        "a": "8"
+      },
+      "klockan": {
+        "q": "Hur många minuter går det på 4 timmar?",
+        "a": "240"
+      },
+      "kreativ": {
+        "q": "Rita en cirkel och markera mitten.",
+        "a": "Fråga någon som vet om det stämmer"
+      }
+    },
+    {
+      "level": 1,
+      "addition": {
+        "q": "32 + 11 = ?",
+        "a": "43"
+      },
+      "subtraktion": {
+        "q": "84 − 39 = ?",
+        "a": "45"
+      },
+      "multiplikation": {
+        "q": "6 × 7 = ?",
+        "a": "42"
+      },
+      "division": {
+        "q": "27 ÷ 9 = ?",
+        "a": "3"
+      },
+      "klockan": {
+        "q": "Vad är klockan 25 minuter efter 12:30?",
+        "a": "12:55"
+      },
+      "kreativ": {
+        "q": "Rita en triangel och markera alla hörn.",
+        "a": "3 hörn"
+      }
+    },
+    {
+      "level": 1,
+      "addition": {
+        "q": "14 + 28 = ?",
+        "a": "42"
+      },
+      "subtraktion": {
+        "q": "93 − 48 = ?",
+        "a": "45"
+      },
+      "multiplikation": {
+        "q": "3 × 9 = ?",
+        "a": "27"
+      },
+      "division": {
+        "q": "56 ÷ 7 = ?",
+        "a": "8"
+      },
+      "klockan": {
+        "q": "Hur många sekunder är 1 minut och 30 sekunder?",
+        "a": "90"
+      },
+      "kreativ": {
+        "q": "Rita en kvadrat och rita båda diagonalerna.",
+        "a": "Fråga någon som vet om det stämmer"
+      }
+    },
+    {
+      "level": 1,
+      "addition": {
+        "q": "17 + 24 = ?",
+        "a": "41"
+      },
+      "subtraktion": {
+        "q": "79 − 33 = ?",
+        "a": "46"
+      },
+      "multiplikation": {
+        "q": "7 × 3 = ?",
+        "a": "21"
+      },
+      "division": {
+        "q": "48 ÷ 6 = ?",
+        "a": "8"
+      },
+      "klockan": {
+        "q": "Vad är klockan 20 minuter före 16:00?",
+        "a": "15:40"
+      },
+      "kreativ": {
+        "q": "Rita en figur med exakt 5 hörn.",
+        "a": "Fråga någon som vet om det stämmer"
+      }
+    },
+    {
+      "level": 1,
+      "addition": {
+        "q": "23 + 18 = ?",
+        "a": "41"
+      },
+      "subtraktion": {
+        "q": "66 − 19 = ?",
+        "a": "47"
+      },
+      "multiplikation": {
+        "q": "8 × 5 = ?",
+        "a": "40"
+      },
+      "division": {
+        "q": "24 ÷ 3 = ?",
+        "a": "8"
+      },
+      "klockan": {
+        "q": "Hur många minuter är 2 timmar och 10 minuter?",
+        "a": "130"
+      },
+      "kreativ": {
+        "q": "Rita en rektangel och räkna hur många hörn den har.",
+        "a": "4"
+      }
+    },
+    {
+      "level": 1,
+      "addition": {
+        "q": "15 + 29 = ?",
+        "a": "44"
+      },
+      "subtraktion": {
+        "q": "87 − 41 = ?",
+        "a": "46"
+      },
+      "multiplikation": {
+        "q": "9 × 2 = ?",
+        "a": "18"
+      },
+      "division": {
+        "q": "18 ÷ 3 = ?",
+        "a": "6"
+      },
+      "klockan": {
+        "q": "Vad är klockan 45 minuter efter 09:15?",
+        "a": "10:00"
+      },
+      "kreativ": {
+        "q": "Rita tre olika fyrhörningar.",
+        "a": "Fråga någon som vet om det stämmer"
+      }
+    },
+    {
+      "level": 1,
+      "addition": {
+        "q": "28 + 16 = ?",
+        "a": "44"
+      },
+      "subtraktion": {
+        "q": "74 − 29 = ?",
+        "a": "45"
+      },
+      "multiplikation": {
+        "q": "4 × 6 = ?",
+        "a": "24"
+      },
+      "division": {
+        "q": "64 ÷ 8 = ?",
+        "a": "8"
+      },
+      "klockan": {
+        "q": "Hur många sekunder är 5 minuter?",
+        "a": "300"
+      },
+      "kreativ": {
+        "q": "Rita en cirkel och dela den i fyra lika delar.",
+        "a": "Fråga någon som vet om det stämmer"
+      }
+    },
+    {
+      "level": 1,
+      "addition": {
+        "q": "26 + 9 = ?",
+        "a": "35"
+      },
+      "subtraktion": {
+        "q": "82 − 3 = ?",
+        "a": "79"
+      },
+      "multiplikation": {
+        "q": "5 × 6 = ?",
+        "a": "30"
+      },
+      "division": {
+        "q": "81 ÷ 9 = ?",
+        "a": "9"
+      },
+      "klockan": {
+        "q": "Vad är klockan 35 minuter efter 11:20?",
+        "a": "11:55"
+      },
+      "kreativ": {
+        "q": "Rita en kvadrat och mät en sida i centimeter.",
+        "a": "Fråga någon som vet om det stämmer"
+      }
+    },
+    {
+      "level": 1,
+      "addition": {
+        "q": "31 + 7 = ?",
+        "a": "38"
+      },
+      "subtraktion": {
+        "q": "90 − 5 = ?",
+        "a": "85"
+      },
+      "multiplikation": {
+        "q": "7 × 4 = ?",
+        "a": "28"
+      },
+      "division": {
+        "q": "30 ÷ 6 = ?",
+        "a": "5"
+      },
+      "klockan": {
+        "q": "Hur många minuter går det på ett halvt dygn?",
+        "a": "720"
+      },
+      "kreativ": {
+        "q": "Rita en triangel där alla sidor är lika långa.",
+        "a": "Fråga någon som vet om det stämmer"
+      }
+    },
+    {
+      "level": 1,
+      "addition": {
+        "q": "20 + 34 = ?",
+        "a": "54"
+      },
+      "subtraktion": {
+        "q": "78 − 8 = ?",
+        "a": "70"
+      },
+      "multiplikation": {
+        "q": "6 × 8 = ?",
+        "a": "48"
+      },
+      "division": {
+        "q": "40 ÷ 5 = ?",
+        "a": "8"
+      },
+      "klockan": {
+        "q": "Vad är klockan 15 minuter före 18:10?",
+        "a": "17:55"
+      },
+      "kreativ": {
+        "q": "Rita en figur med minst 6 hörn.",
+        "a": "Fråga någon som vet om det stämmer"
+      }
+    },
     {
       "level": 2,
       "addition": {
@@ -5776,7 +6036,6 @@
       "type": "neutral",
       "text": "Slå tärningen igen."
     },
-
     {
       "type": "neutral",
       "text": "Slå tärningen igen. vid 4–6 gå 2 steg – annars 1."
@@ -5817,7 +6076,6 @@
       "type": "neutral",
       "text": "Gå till närmsta rosa ruta."
     },
-
     {
       "type": "neutral",
       "text": "Gå till närmaste oranga ruta."
@@ -5898,7 +6156,6 @@
       "type": "neutral",
       "text": "Slå tärningen igen."
     },
-
     {
       "type": "neutral",
       "text": "Slå tärningen igen."
@@ -5988,7 +6245,6 @@
       "text": "En vänlig drake skänker dig en diamant.",
       "diamonds": 1
     },
-
     {
       "type": "positive",
       "text": "Skattkista i skogen – du hitta 4 mynt.",
@@ -6114,13 +6370,11 @@
       "text": "Sagofågel ger dig +4 mynt.",
       "coins": 4
     },
-
     {
       "type": "negative",
       "text": "En mörk förbannelse drabbar dig – du tappar en diamant.",
       "diamonds": -1
     },
-
     {
       "type": "negative",
       "text": "Tjuv i nattens skog – du blir av med 3 mynt.",
