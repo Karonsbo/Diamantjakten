@@ -49,11 +49,25 @@
     "image": "images/squishy-ball.png"
   },
   {
+    "name": "Slime",
+    "cost": { "coins": 30, "diamonds": 1 },
+    "type": "out-game",
+    "description": "",
+    "image": "images/slime.png"
+  },
+  {
     "name": "Bok",
     "cost": { "coins": 25, "diamonds": 2 },
     "type": "out-game",
-    "description": "",
+    "description": "Valfri bok.",
     "image": "images/book.png"
+  },
+  {
+    "name": "Godis",
+    "cost": { "coins": 30, "diamonds": 2 },
+    "type": "out-game",
+    "description": "Du får fylla en hel godispåse på Godishuset.",
+    "image": "images/candy.png"
   },
   {
     "name": "Ring",
@@ -61,6 +75,13 @@
     "type": "out-game",
     "description": "",
     "image": "images/ring.png"
+  },
+  {
+    "name": "Presentkort på Lekia",
+    "cost": { "coins": 15, "diamonds": 3 },
+    "type": "out-game",
+    "description": "100 kr att handla för på Lekia.",
+    "image": "images/lekia-gift-card.png"
   },
   {
     "name": "Halsband",
