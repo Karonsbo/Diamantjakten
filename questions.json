@@ -2,19 +2,19 @@
   "math": [
     {
       "level": 1,
-      "addition": {
+      "blue": {
         "q": "17 + 6 = ?",
         "a": "23"
       },
-      "subtraktion": {
+      "pink": {
         "q": "42 − 18 = ?",
         "a": "24"
       },
-      "multiplikation": {
+      "yellow": {
         "q": "7 × 8 = ?",
         "a": "56"
       },
-      "division": {
+      "green": {
         "q": "30 ÷ 5 = ?",
         "a": "6"
       },
@@ -22,26 +22,26 @@
         "q": "Ställ klockan på 10:25",
         "a": "Fråga någon som vet om ditt svar stämmer"
       },
-      "kreativ": {
+      "orange": {
         "q": "Rita en triangel",
         "a": "△"
       }
     },
     {
       "level": 1,
-      "addition": {
+      "blue": {
         "q": "9 + 24 = ?",
         "a": "33"
       },
-      "subtraktion": {
+      "pink": {
         "q": "58 − 19 = ?",
         "a": "39"
       },
-      "multiplikation": {
+      "yellow": {
         "q": "Skriv hela 2:ans tabell (1–10)",
         "a": "2×1=2, 2×2=4, 2×3=6, 2×4=8, 2×5=10, 2×6=12, 2×7=14, 2×8=16, 2×9=18, 2×10=20"
       },
-      "division": {
+      "green": {
         "q": "21 ÷ 3 = ?",
         "a": "7"
       },
@@ -49,26 +49,26 @@
         "q": "Vad är klockan 15 minuter före 09:10?",
         "a": "08:55"
       },
-      "kreativ": {
+      "orange": {
         "q": "Gör 7 + 6 upphopp",
         "a": "13 upphopp genomförda"
       }
     },
     {
       "level": 1,
-      "addition": {
+      "blue": {
         "q": "28 + 7 = ?",
         "a": "35"
       },
-      "subtraktion": {
+      "pink": {
         "q": "63 − 27 = ?",
         "a": "36"
       },
-      "multiplikation": {
+      "yellow": {
         "q": "Skriv hela 3:ans tabell (1–10)",
         "a": "3×1=3, 3×2=6, 3×3=9, 3×4=12, 3×5=15, 3×6=18, 3×7=21, 3×8=24, 3×9=27, 3×10=30"
       },
-      "division": {
+      "green": {
         "q": "40 ÷ 8 = ?",
         "a": "5"
       },
@@ -76,26 +76,26 @@
         "q": "Hur många minuter går det på 2 timmar?",
         "a": "120"
       },
-      "kreativ": {
+      "orange": {
         "q": "Rita en kvadrat",
         "a": "□"
       }
     },
     {
       "level": 1,
-      "addition": {
+      "blue": {
         "q": "12 + 19 = ?",
         "a": "31"
       },
-      "subtraktion": {
+      "pink": {
         "q": "75 − 16 = ?",
         "a": "59"
       },
-      "multiplikation": {
+      "yellow": {
         "q": "Skriv hela 4:ans tabell (1–10)",
         "a": "4×1=4, 4×2=8, 4×3=12, 4×4=16, 4×5=20, 4×6=24, 4×7=28, 4×8=32, 4×9=36, 4×10=40"
       },
-      "division": {
+      "green": {
         "q": "24 ÷ 6 = ?",
         "a": "4"
       },
@@ -103,26 +103,26 @@
         "q": "Hur många minuter är det från 08:10 till 08:45?",
         "a": "35"
       },
-      "kreativ": {
+      "orange": {
         "q": "Gör 2 + 5 armhävningar",
         "a": "7 armhävningar genomförda"
       }
     },
     {
       "level": 1,
-      "addition": {
+      "blue": {
         "q": "3 + 18 = ?",
         "a": "21"
       },
-      "subtraktion": {
+      "pink": {
         "q": "64 − 29 = ?",
         "a": "35"
       },
-      "multiplikation": {
+      "yellow": {
         "q": "Skriv hela 5:ans tabell (1–10)",
         "a": "5×1=5, 5×2=10, 5×3=15, 5×4=20, 5×5=25, 5×6=30, 5×7=35, 5×8=40, 5×9=45, 5×10=50"
       },
-      "division": {
+      "green": {
         "q": "54 ÷ 9 = ?",
         "a": "6"
       },
@@ -130,26 +130,26 @@
         "q": "Vad är klockan 20 minuter efter 13:35?",
         "a": "13:55"
       },
-      "kreativ": {
+      "orange": {
         "q": "Rita en cirkel och mät diametern.",
         "a": "◯. Fråga någon som vet om det stämmer."
       }
     },
     {
       "level": 1,
-      "addition": {
+      "blue": {
         "q": "51 + 9 = ?",
         "a": "60"
       },
-      "subtraktion": {
+      "pink": {
         "q": "70 − 22 = ?",
         "a": "48"
       },
-      "multiplikation": {
+      "yellow": {
         "q": "Skriv hela 6:ans tabell (1–10)",
         "a": "6×1=6, 6×2=12, 6×3=18, 6×4=24, 6×5=30, 6×6=36, 6×7=42, 6×8=48, 6×9=54, 6×10=60"
       },
-      "division": {
+      "green": {
         "q": "27 ÷ 3 = ?",
         "a": "9"
       },
@@ -157,26 +157,26 @@
         "q": "Hur många timmar går det på ett dygn?",
         "a": "24"
       },
-      "kreativ": {
+      "orange": {
         "q": "Gör 9 + 4 situps",
         "a": "13 situps genomförda"
       }
     },
     {
       "level": 1,
-      "addition": {
+      "blue": {
         "q": "66 + 15 = ?",
         "a": "81"
       },
-      "subtraktion": {
+      "pink": {
         "q": "53 − 17 = ?",
         "a": "36"
       },
-      "multiplikation": {
+      "yellow": {
         "q": "Skriv hela 7:ans tabell (1–10)",
         "a": "7×1=7, 7×2=14, 7×3=21, 7×4=28, 7×5=35, 7×6=42, 7×7=49, 7×8=56, 7×9=63, 7×10=70"
       },
-      "division": {
+      "green": {
         "q": "36 ÷ 6 = ?",
         "a": "6"
       },
@@ -184,26 +184,26 @@
         "q": "Ställ klockan på 18:05",
         "a": "Fråga någon som vet om ditt svar stämmer"
       },
-      "kreativ": {
+      "orange": {
         "q": "Rita en romb. hur många hörn har den?",
         "a": "◇ = fyra hörn"
       }
     },
     {
       "level": 1,
-      "addition": {
+      "blue": {
         "q": "14 + 12 = ?",
         "a": "28"
       },
-      "subtraktion": {
+      "pink": {
         "q": "81 − 39 = ?",
         "a": "42"
       },
-      "multiplikation": {
+      "yellow": {
         "q": "Skriv hela 8:ans tabell (1–10)",
         "a": "8×1=8, 8×2=16, 8×3=24, 8×4=32, 8×5=40, 8×6=48, 8×7=56, 8×8=64, 8×9=72, 8×10=80"
       },
-      "division": {
+      "green": {
         "q": "45 ÷ 5 = ?",
         "a": "9"
       },
@@ -211,26 +211,26 @@
         "q": "Hur många sekunder är 2 minuter och 30 sekunder?",
         "a": "150"
       },
-      "kreativ": {
+      "orange": {
         "q": "Gör 6 + 7 benböj",
         "a": "13 benböj genomförda"
       }
     },
     {
       "level": 1,
-      "addition": {
+      "blue": {
         "q": "39 + 24 = ?",
         "a": "63"
       },
-      "subtraktion": {
+      "pink": {
         "q": "66 − 21 = ?",
         "a": "45"
       },
-      "multiplikation": {
+      "yellow": {
         "q": "Skriv hela 9:ans tabell (1–10)",
         "a": "9×1=9, 9×2=18, 9×3=27, 9×4=36, 9×5=45, 9×6=54, 9×7=63, 9×8=72, 9×9=81, 9×10=90"
       },
-      "division": {
+      "green": {
         "q": "63 ÷ 7 = ?",
         "a": "9"
       },
@@ -238,26 +238,26 @@
         "q": "Vad är klockan 35 minuter efter 07:40?",
         "a": "08:15"
       },
-      "kreativ": {
+      "orange": {
         "q": "Rita en pentagon. Hur många hörn har den?",
         "a": "⬠ = fem hörn"
       }
     },
     {
       "level": 1,
-      "addition": {
+      "blue": {
         "q": "11 + 11 = ?",
         "a": "22"
       },
-      "subtraktion": {
+      "pink": {
         "q": "14 − 9 = ?",
         "a": "5"
       },
-      "multiplikation": {
+      "yellow": {
         "q": "Skriv hela 10:ans tabell (1–10)",
         "a": "10×1=10, 10×2=20, 10×3=30, 10×4=40, 10×5=50, 10×6=60, 10×7=70, 10×8=80, 10×9=90, 10×10=100"
       },
-      "division": {
+      "green": {
         "q": "18 ÷ 2 = ?",
         "a": "9"
       },
@@ -265,26 +265,26 @@
         "q": "Hur många minuter går det på ett dygn?",
         "a": "1440"
       },
-      "kreativ": {
+      "orange": {
         "q": "Gör 5 + 9 tåhävningar",
         "a": "14 tåhävningar genomförda"
       }
     },
     {
       "level": 1,
-      "addition": {
+      "blue": {
         "q": "44 + 13 = ?",
         "a": "57"
       },
-      "subtraktion": {
+      "pink": {
         "q": "60 − 25 = ?",
         "a": "35"
       },
-      "multiplikation": {
+      "yellow": {
         "q": "7 × 6 = ?",
         "a": "42"
       },
-      "division": {
+      "green": {
         "q": "28 ÷ 4 = ?",
         "a": "7"
       },
@@ -292,26 +292,26 @@
         "q": "Ställ klockan på 07:40",
         "a": "Fråga någon som vet om ditt svar stämmer"
       },
-      "kreativ": {
+      "orange": {
         "q": "Rita en rektangel. Måste alla sidor vara lika långa?",
         "a": "▭ Nej, bara de motstående sidorna måste vara lika långa."
       }
     },
     {
       "level": 1,
-      "addition": {
+      "blue": {
         "q": "35 + 10 = ?",
         "a": "45"
       },
-      "subtraktion": {
+      "pink": {
         "q": "88 − 12 = ?",
         "a": "76"
       },
-      "multiplikation": {
+      "yellow": {
         "q": "7 × 4 = ?",
         "a": "28"
       },
-      "division": {
+      "green": {
         "q": "63 ÷ 7 = ?",
         "a": "9"
       },
@@ -319,26 +319,26 @@
         "q": "Ställ klockan på 06:55",
         "a": "Fråga någon som vet om ditt svar stämmer"
       },
-      "kreativ": {
+      "orange": {
         "q": "Rita en figur som har exakt 4 hörn",
         "a": "Fråga någon som vet om det stämmer"
       }
     },
     {
       "level": 1,
-      "addition": {
+      "blue": {
         "q": "18 + 7 = ?",
         "a": "25"
       },
-      "subtraktion": {
+      "pink": {
         "q": "39 − 23 = ?",
         "a": "16"
       },
-      "multiplikation": {
+      "yellow": {
         "q": "9 × 3 = ?",
         "a": "27"
       },
-      "division": {
+      "green": {
         "q": "72 ÷ 8 = ?",
         "a": "9"
       },
@@ -346,26 +346,26 @@
         "q": "Hur många sekunder är 1 minut och 45 sekunder?",
         "a": "105"
       },
-      "kreativ": {
+      "orange": {
         "q": "Gör 6 + 7 tåhävningar",
         "a": "13 tåhävningar genomförda"
       }
     },
     {
       "level": 1,
-      "addition": {
+      "blue": {
         "q": "57 + 20 = ?",
         "a": "77"
       },
-      "subtraktion": {
+      "pink": {
         "q": "91 − 3 = ?",
         "a": "88"
       },
-      "multiplikation": {
+      "yellow": {
         "q": "5 × 9 = ?",
         "a": "45"
       },
-      "division": {
+      "green": {
         "q": "20 ÷ 5 = ?",
         "a": "4"
       },
@@ -373,26 +373,26 @@
         "q": "Ställ klockan på 14:50",
         "a": "Fråga någon som vet om ditt svar stämmer"
       },
-      "kreativ": {
+      "orange": {
         "q": "Rita en femuddig stjärna. Hur många trianglar kan du hitta?",
         "a": "☆ = 5 trianglar – en i varje spets"
       }
     },
     {
       "level": 1,
-      "addition": {
+      "blue": {
         "q": "20 + 55 = ?",
         "a": "75"
       },
-      "subtraktion": {
+      "pink": {
         "q": "84 − 10 = ?",
         "a": "74"
       },
-      "multiplikation": {
+      "yellow": {
         "q": "2 × 9 = ?",
         "a": "18"
       },
-      "division": {
+      "green": {
         "q": "36 ÷ 6 = ?",
         "a": "6"
       },
@@ -400,26 +400,26 @@
         "q": "Hur många minuter är det från 06:30 till 07:15?",
         "a": "45"
       },
-      "kreativ": {
+      "orange": {
         "q": "Gör 5 + 8 hoppsasteg",
         "a": "13 hoppsasteg genomförda"
       }
     },
     {
       "level": 1,
-      "addition": {
+      "blue": {
         "q": "37 + 9 = ?",
         "a": "46"
       },
-      "subtraktion": {
+      "pink": {
         "q": "19 − 13 = ?",
         "a": "6"
       },
-      "multiplikation": {
+      "yellow": {
         "q": "3 × 7 = ?",
         "a": "21"
       },
-      "division": {
+      "green": {
         "q": "49 ÷ 7 = ?",
         "a": "7"
       },
@@ -427,26 +427,26 @@
         "q": "Hur många minuter är det från 10:15 till 10:45?",
         "a": "30"
       },
-      "kreativ": {
+      "orange": {
         "q": "Är alla sidor på en kvadrat lika långa?",
         "a": "Ja"
       }
     },
     {
       "level": 1,
-      "addition": {
+      "blue": {
         "q": "32 + 24 = ?",
         "a": "56"
       },
-      "subtraktion": {
+      "pink": {
         "q": "93 − 12 = ?",
         "a": "81"
       },
-      "multiplikation": {
+      "yellow": {
         "q": "9 × 2 = ?",
         "a": "18"
       },
-      "division": {
+      "green": {
         "q": "81 ÷ 9 = ?",
         "a": "9"
       },
@@ -454,26 +454,26 @@
         "q": "Ställ klockan på 20:30",
         "a": "Fråga någon som vet om ditt svar stämmer"
       },
-      "kreativ": {
+      "orange": {
         "q": "Rita en cirkel och färglägg en fjärdedel av den.",
         "a": "Fråga någon som vet om det stämmer"
       }
     },
     {
       "level": 1,
-      "addition": {
+      "blue": {
         "q": "24 + 23 = ?",
         "a": "47"
       },
-      "subtraktion": {
+      "pink": {
         "q": "80 − 15 = ?",
         "a": "65"
       },
-      "multiplikation": {
+      "yellow": {
         "q": "8 × 4 = ?",
         "a": "32"
       },
-      "division": {
+      "green": {
         "q": "72 ÷ 9 = ?",
         "a": "8"
       },
@@ -481,26 +481,26 @@
         "q": "Hur många sekunder går det på 5 minuter?",
         "a": "300"
       },
-      "kreativ": {
+      "orange": {
         "q": "Rita en cirkel och färglägg en tredjedel av den.",
         "a": "13 mountain climbers genomförda"
       }
     },
     {
       "level": 1,
-      "addition": {
+      "blue": {
         "q": "17 + 9 = ?",
         "a": "26"
       },
-      "subtraktion": {
+      "pink": {
         "q": "79 − 13 = ?",
         "a": "66"
       },
-      "multiplikation": {
+      "yellow": {
         "q": "3 × 7 = ?",
         "a": "21"
       },
-      "division": {
+      "green": {
         "q": "49 ÷ 7 = ?",
         "a": "7"
       },
@@ -508,26 +508,26 @@
         "q": "Hur många minuter är det från 10:15 till 10:45?",
         "a": "30"
       },
-      "kreativ": {
+      "orange": {
         "q": "Rita en cirkel och färglägg en tre fjärdedelar av den.",
         "a": "Fråga någon som vet om det stämmer"
       }
     },
     {
       "level": 1,
-      "addition": {
+      "blue": {
         "q": "12 + 14 = ?",
         "a": "26"
       },
-      "subtraktion": {
+      "pink": {
         "q": "99 − 19 = ?",
         "a": "80"
       },
-      "multiplikation": {
+      "yellow": {
         "q": "3 × 8 = ?",
         "a": "24"
       },
-      "division": {
+      "green": {
         "q": "27 ÷ 9 = ?",
         "a": "3"
       },
@@ -535,26 +535,26 @@
         "q": "Ställ klockan på 20:30",
         "a": "Fråga någon som vet om ditt svar stämmer"
       },
-      "kreativ": {
+      "orange": {
         "q": "Rita ett djur med bara geometriska former.",
         "a": "Vilka former använde du?"
       }
     },
     {
       "level": 1,
-      "addition": {
+      "blue": {
         "q": "44 + 23 = ?",
         "a": "67"
       },
-      "subtraktion": {
+      "pink": {
         "q": "62 − 15 = ?",
         "a": "47"
       },
-      "multiplikation": {
+      "yellow": {
         "q": "8 × 5 = ?",
         "a": "40"
       },
-      "division": {
+      "green": {
         "q": "72 ÷ 9 = ?",
         "a": "8"
       },
@@ -562,26 +562,26 @@
         "q": "Hur många sekunder går det på 5 minuter?",
         "a": "300"
       },
-      "kreativ": {
+      "orange": {
         "q": "Rita en rektangel där den ena sidan är dubbelt så lång som den andra.",
         "a": "Fråga någon som vet om det stämmer."
       }
     },
     {
       "level": 1,
-      "addition": {
+      "blue": {
         "q": "45 + 11 = ?",
         "a": "56"
       },
-      "subtraktion": {
+      "pink": {
         "q": "80 − 25 = ?",
         "a": "55"
       },
-      "multiplikation": {
+      "yellow": {
         "q": "2 × 8 = ?",
         "a": "16"
       },
-      "division": {
+      "green": {
         "q": "16 ÷ 4 = ?",
         "a": "4"
       },
@@ -589,26 +589,26 @@
         "q": "Ställ klockan på 19:10.",
         "a": "Fråga någon som vet om det stämmer"
       },
-      "kreativ": {
+      "orange": {
         "q": "Rita en form och dela den i fyra lika delar",
         "a": "Fråga någon som vet om det stämmer"
       }
     },
     {
       "level": 1,
-      "addition": {
+      "blue": {
         "q": "38 + 8 = ?",
         "a": "46"
       },
-      "subtraktion": {
+      "pink": {
         "q": "26 − 24 = ?",
         "a": "2"
       },
-      "multiplikation": {
+      "yellow": {
         "q": "5 × 7 = ?",
         "a": "35"
       },
-      "division": {
+      "green": {
         "q": "24 ÷ 3 = ?",
         "a": "8"
       },
@@ -616,26 +616,26 @@
         "q": "Hur många minuter är det från 14:20 till 14:50?",
         "a": "30"
       },
-      "kreativ": {
+      "orange": {
         "q": "Rita en rektangel som är 2 x 3 cm. Använd linjal.",
         "a": "Fråga någon som vet om det stämmer."
       }
     },
     {
       "level": 1,
-      "addition": {
+      "blue": {
         "q": "11 + 26 = ?",
         "a": "37"
       },
-      "subtraktion": {
+      "pink": {
         "q": "95 − 58 = ?",
         "a": "37"
       },
-      "multiplikation": {
+      "yellow": {
         "q": "9 × 4 = ?",
         "a": "36"
       },
-      "division": {
+      "green": {
         "q": "27 ÷ 9 = ?",
         "a": "3"
       },
@@ -643,26 +643,26 @@
         "q": "Ställ klockan på halv fyra.",
         "a": "Fråga någon som vet om det stämmer"
       },
-      "kreativ": {
+      "orange": {
         "q": "Hitta ett föremål med fyra hörn.",
         "a": "Fråga någon som vet om det stämmer"
       }
     },
     {
       "level": 1,
-      "addition": {
+      "blue": {
         "q": "24 + 11 = ?",
         "a": "35"
       },
-      "subtraktion": {
+      "pink": {
         "q": "76 − 42 = ?",
         "a": "34"
       },
-      "multiplikation": {
+      "yellow": {
         "q": "7 × 3 = ?",
         "a": "21"
       },
-      "division": {
+      "green": {
         "q": "50 ÷ 5 = ?",
         "a": "10"
       },
@@ -670,26 +670,26 @@
         "q": "Ställ klockan på 09:15",
         "a": "Fråga någon som vet om ditt svar stämmer"
       },
-      "kreativ": {
+      "orange": {
         "q": "Räkna till 30 tyst medan någon tar tid.",
         "a": "Rätt svar inom 5 sekunder."
       }
     },
     {
       "level": 1,
-      "addition": {
+      "blue": {
         "q": "44 + 8 = ?",
         "a": "52"
       },
-      "subtraktion": {
+      "pink": {
         "q": "97 − 40 = ?",
         "a": "57"
       },
-      "multiplikation": {
+      "yellow": {
         "q": "6 × 6 = ?",
         "a": "36"
       },
-      "division": {
+      "green": {
         "q": "54 ÷ 6 = ?",
         "a": "9"
       },
@@ -697,26 +697,26 @@
         "q": "Hur många sekunder går det på 3 minuter?",
         "a": "180"
       },
-      "kreativ": {
+      "orange": {
         "q": "Ta fram en bunke och häll upp en liter. Använd decilitermått.",
         "a": "10 deciliter."
       }
     },
     {
       "level": 1,
-      "addition": {
+      "blue": {
         "q": "33 + 33 = ?",
         "a": "66"
       },
-      "subtraktion": {
+      "pink": {
         "q": "28 − 11 = ?",
         "a": "17"
       },
-      "multiplikation": {
+      "yellow": {
         "q": "8 × 5 = ?",
         "a": "40"
       },
-      "division": {
+      "green": {
         "q": "70 ÷ 7 = ?",
         "a": "10"
       },
@@ -724,26 +724,26 @@
         "q": "Vad är klockan 10 minuter före 16:20?",
         "a": "16:10"
       },
-      "kreativ": {
+      "orange": {
         "q": "Rita en triangel där alla sidor är lika långa. Använd linjal.",
         "a": "Fråga någon som vet om det stämmer"
       }
     },
     {
       "level": 1,
-      "addition": {
+      "blue": {
         "q": "26 + 51 = ?",
         "a": "77"
       },
-      "subtraktion": {
+      "pink": {
         "q": "92 − 44 = ?",
         "a": "48"
       },
-      "multiplikation": {
+      "yellow": {
         "q": "9 × 2 = ?",
         "a": "18"
       },
-      "division": {
+      "green": {
         "q": "16 ÷ 2 = ?",
         "a": "8"
       },
@@ -751,26 +751,26 @@
         "q": "Ställ klockan på 05:50",
         "a": "Fråga någon som vet om ditt svar stämmer"
       },
-      "kreativ": {
+      "orange": {
         "q": "Leta upp ett föremål som är ungefär 50 centimeter långt.",
         "a": "Mät föremålet - 40-60 cm är okej."
       }
     },
     {
       "level": 1,
-      "addition": {
+      "blue": {
         "q": "28 + 30 = ?",
         "a": "58"
       },
-      "subtraktion": {
+      "pink": {
         "q": "86 − 38 = ?",
         "a": "48"
       },
-      "multiplikation": {
+      "yellow": {
         "q": "7 × 2 = ?",
         "a": "14"
       },
-      "division": {
+      "green": {
         "q": "27 ÷ 9 = ?",
         "a": "3"
       },
@@ -778,26 +778,26 @@
         "q": "Hur skrivs fem över 1 på natten i digital form?",
         "a": "01:05"
       },
-      "kreativ": {
+      "orange": {
         "q": "Hur kan du mäta omkretsen på en boll?",
         "a": "Lägg ett snöre/måttband runt bollen och mät längden."
       }
     },
     {
       "level": 1,
-      "addition": {
+      "blue": {
         "q": "71 + 7 = ?",
         "a": "78"
       },
-      "subtraktion": {
+      "pink": {
         "q": "64 − 16 = ?",
         "a": "48"
       },
-      "multiplikation": {
+      "yellow": {
         "q": "6 × 4 = ?",
         "a": "24"
       },
-      "division": {
+      "green": {
         "q": "63 ÷ 9 = ?",
         "a": "7"
       },
@@ -805,26 +805,26 @@
         "q": "Hur många sekunder är 3 minuter och 30 sekunder?",
         "a": "210"
       },
-      "kreativ": {
+      "orange": {
         "q": "Gör 8 + 5 upphopp",
         "a": "13 upphopp genomförda"
       }
     },
     {
       "level": 1,
-      "addition": {
+      "blue": {
         "q": "29 + 19 = ?",
         "a": "48"
       },
-      "subtraktion": {
+      "pink": {
         "q": "77 − 12 = ?",
         "a": "65"
       },
-      "multiplikation": {
+      "yellow": {
         "q": "5 × 6 = ?",
         "a": "30"
       },
-      "division": {
+      "green": {
         "q": "45 ÷ 5 = ?",
         "a": "9"
       },
@@ -832,26 +832,26 @@
         "q": "Ställ klockan på 22:10",
         "a": "Fråga någon som vet om ditt svar stämmer"
       },
-      "kreativ": {
+      "orange": {
         "q": "Rita ett stapeldiagram",
         "a": "Fråga någon som vet om det stämmer"
       }
     },
     {
       "level": 1,
-      "addition": {
+      "blue": {
         "q": "36 + 40 = ?",
         "a": "76"
       },
-      "subtraktion": {
+      "pink": {
         "q": "93 − 20 = ?",
         "a": "73"
       },
-      "multiplikation": {
+      "yellow": {
         "q": "3 × 6 = ?",
         "a": "18"
       },
-      "division": {
+      "green": {
         "q": "81 ÷ 3 = ?",
         "a": "27"
       },
@@ -859,26 +859,26 @@
         "q": "Hur många minuter är det från 07:50 till 08:20?",
         "a": "30"
       },
-      "kreativ": {
+      "orange": {
         "q": "Rita ett linjediagram som visar temperatur och tid.",
         "a": "Fråga någon som vet om det stämmer"
       }
     },
     {
       "level": 1,
-      "addition": {
+      "blue": {
         "q": "27 + 4 = ?",
         "a": "31"
       },
-      "subtraktion": {
+      "pink": {
         "q": "88 − 40 = ?",
         "a": "48"
       },
-      "multiplikation": {
+      "yellow": {
         "q": "4 × 8 = ?",
         "a": "32"
       },
-      "division": {
+      "green": {
         "q": "24 ÷ 4 = ?",
         "a": "6"
       },
@@ -886,26 +886,26 @@
         "q": "Vad är klockan 18 minuter efter 10:37?",
         "a": "10:55"
       },
-      "kreativ": {
+      "orange": {
         "q": "Rita en kvadrat och mät en sida.",
         "a": "Fråga någon som vet om det stämmer"
       }
     },
     {
       "level": 1,
-      "addition": {
+      "blue": {
         "q": "26 + 30 = ?",
         "a": "56"
       },
-      "subtraktion": {
+      "pink": {
         "q": "67 − 19 = ?",
         "a": "48"
       },
-      "multiplikation": {
+      "yellow": {
         "q": "7 × 5 = ?",
         "a": "35"
       },
-      "division": {
+      "green": {
         "q": "36 ÷ 9 = ?",
         "a": "4"
       },
@@ -913,26 +913,26 @@
         "q": "Hur många minuter går det på 1 timme?",
         "a": "60"
       },
-      "kreativ": {
+      "orange": {
         "q": "Gör 6 + 7 benböj",
         "a": "13 benböj genomförda"
       }
     },
     {
       "level": 1,
-      "addition": {
+      "blue": {
         "q": "35 + 16 = ?",
         "a": "51"
       },
-      "subtraktion": {
+      "pink": {
         "q": "72 − 32 = ?",
         "a": "40"
       },
-      "multiplikation": {
+      "yellow": {
         "q": "8 × 1 = ?",
         "a": "8"
       },
-      "division": {
+      "green": {
         "q": "56 ÷ 8 = ?",
         "a": "7"
       },
@@ -940,26 +940,26 @@
         "q": "Ställ klockan på 13:35",
         "a": "Fråga någon som vet om ditt svar stämmer"
       },
-      "kreativ": {
+      "orange": {
         "q": "Rita en triangel med en sida på 2 cm.",
         "a": "Fråga någon som vet om det stämmer"
       }
     },
     {
       "level": 1,
-      "addition": {
+      "blue": {
         "q": "20 + 20 = ?",
         "a": "40"
       },
-      "subtraktion": {
+      "pink": {
         "q": "84 − 13 = ?",
         "a": "71"
       },
-      "multiplikation": {
+      "yellow": {
         "q": "2 × 7 = ?",
         "a": "14"
       },
-      "division": {
+      "green": {
         "q": "30 ÷ 6 = ?",
         "a": "5"
       },
@@ -967,26 +967,26 @@
         "q": "Hur många minuter är tre kvart?",
         "a": "45"
       },
-      "kreativ": {
+      "orange": {
         "q": "Gör ett cirkeldiagram av olika färger på dina kläder.",
         "a": "Fråga någon som vet om det stämmer."
       }
     },
     {
       "level": 1,
-      "addition": {
+      "blue": {
         "q": "33 + 50 = ?",
         "a": "83"
       },
-      "subtraktion": {
+      "pink": {
         "q": "96 − 47 = ?",
         "a": "49"
       },
-      "multiplikation": {
+      "yellow": {
         "q": "3 × 6 = ?",
         "a": "18"
       },
-      "division": {
+      "green": {
         "q": "42 ÷ 6 = ?",
         "a": "7"
       },
@@ -994,26 +994,26 @@
         "q": "Hur många sekunder går det på två minuter?",
         "a": "120"
       },
-      "kreativ": {
+      "orange": {
         "q": "Rita två olika typer av diagram.",
         "a": "T.ex. linjediagram, stapeldiagram och cirkeldiagram."
       }
     },
     {
       "level": 1,
-      "addition": {
+      "blue": {
         "q": "28 + 70 = ?",
         "a": "98"
       },
-      "subtraktion": {
+      "pink": {
         "q": "79 − 30 = ?",
         "a": "49"
       },
-      "multiplikation": {
+      "yellow": {
         "q": "4 × 7 = ?",
         "a": "28"
       },
-      "division": {
+      "green": {
         "q": "90 ÷ 9 = ?",
         "a": "10"
       },
@@ -1021,26 +1021,26 @@
         "q": "Ställ klockan på 19:40",
         "a": "Fråga någon som vet om ditt svar stämmer"
       },
-      "kreativ": {
+      "orange": {
         "q": "Rita en cirkel med tre lika stora delar.",
         "a": "Fråga någon som vet om det stämmer"
       }
     },
     {
       "level": 1,
-      "addition": {
+      "blue": {
         "q": "50 + 50 = ?",
         "a": "100"
       },
-      "subtraktion": {
+      "pink": {
         "q": "77 − 66 = ?",
         "a": "11"
       },
-      "multiplikation": {
+      "yellow": {
         "q": "6 × 3 = ?",
         "a": "18"
       },
-      "division": {
+      "green": {
         "q": "32 ÷ 4 = ?",
         "a": "8"
       },
@@ -1048,26 +1048,26 @@
         "q": "Hur många minuter går det på 1 timme?",
         "a": "60"
       },
-      "kreativ": {
+      "orange": {
         "q": "Gör 8 + 5 upphopp",
         "a": "13 upphopp genomförda"
       }
     },
     {
       "level": 1,
-      "addition": {
+      "blue": {
         "q": "10 + 70 = ?",
         "a": "80"
       },
-      "subtraktion": {
+      "pink": {
         "q": "33 − 21 = ?",
         "a": "12"
       },
-      "multiplikation": {
+      "yellow": {
         "q": "9 × 6 = ?",
         "a": "54"
       },
-      "division": {
+      "green": {
         "q": "36 ÷ 3 = ?",
         "a": "12"
       },
@@ -1075,26 +1075,26 @@
         "q": "Hur många dagar har januari?",
         "a": "31"
       },
-      "kreativ": {
+      "orange": {
         "q": "Rita ett linjediagram med två uppgångar och en nedgång.",
         "a": "Fråga någon som vet om det stämmer."
       }
     },
     {
       "level": 1,
-      "addition": {
+      "blue": {
         "q": "12 + 12 = ?",
         "a": "24"
       },
-      "subtraktion": {
+      "pink": {
         "q": "68 − 20 = ?",
         "a": "48"
       },
-      "multiplikation": {
+      "yellow": {
         "q": "8 × 3 = ?",
         "a": "24"
       },
-      "division": {
+      "green": {
         "q": "72 ÷ 6 = ?",
         "a": "12"
       },
@@ -1102,26 +1102,26 @@
         "q": "Hur många sekunder är 1 minut och 20 sekunder?",
         "a": "80"
       },
-      "kreativ": {
+      "orange": {
         "q": "Gör 7 + 6 armhävningar",
         "a": "13 armhävningar genomförda"
       }
     },
     {
       "level": 1,
-      "addition": {
+      "blue": {
         "q": "40 + 40 = ?",
         "a": "80"
       },
-      "subtraktion": {
+      "pink": {
         "q": "65 − 20 = ?",
         "a": "45"
       },
-      "multiplikation": {
+      "yellow": {
         "q": "7 × 5 = ?",
         "a": "35"
       },
-      "division": {
+      "green": {
         "q": "27 ÷ 9 = ?",
         "a": "3"
       },
@@ -1129,26 +1129,26 @@
         "q": "Ställ klockan på 11:20",
         "a": "Fråga någon som vet om ditt svar stämmer"
       },
-      "kreativ": {
+      "orange": {
         "q": "Mät dina fötter och kolla om de är lika långa.",
         "a": "Fråga någon som vet om du gjort rätt."
       }
     },
     {
       "level": 1,
-      "addition": {
+      "blue": {
         "q": "17 + 22 = ?",
         "a": "39"
       },
-      "subtraktion": {
+      "pink": {
         "q": "90 − 52 = ?",
         "a": "38"
       },
-      "multiplikation": {
+      "yellow": {
         "q": "5 × 5 = ?",
         "a": "25"
       },
-      "division": {
+      "green": {
         "q": "28 ÷ 7 = ?",
         "a": "4"
       },
@@ -1156,26 +1156,26 @@
         "q": "Hur många minuter är det från 15:10 till 15:55?",
         "a": "45"
       },
-      "kreativ": {
+      "orange": {
         "q": "Gör en tabell över hur många svarta, gröna och gula saker du ser.",
         "a": "Fråga någon som vet om det stämmer"
       }
     },
     {
       "level": 1,
-      "addition": {
+      "blue": {
         "q": "20 + 18 = ?",
         "a": "38"
       },
-      "subtraktion": {
+      "pink": {
         "q": "73 − 63 = ?",
         "a": "10"
       },
-      "multiplikation": {
+      "yellow": {
         "q": "9 × 4 = ?",
         "a": "36"
       },
-      "division": {
+      "green": {
         "q": "48 ÷ 6 = ?",
         "a": "8"
       },
@@ -1183,26 +1183,26 @@
         "q": "Visa tjugo över och tjugo i tre på klockan.",
         "a": "Fråga någon som vet om det stämmer"
       },
-      "kreativ": {
+      "orange": {
         "q": "Hur långt är din tumnagel i millimeter? Mät med linjal.",
         "a": "Fråga någon som vet om det stämmer"
       }
     },
     {
       "level": 1,
-      "addition": {
+      "blue": {
         "q": "36 + 10 = ?",
         "a": "46"
       },
-      "subtraktion": {
+      "pink": {
         "q": "74 − 67 = ?",
         "a": "7"
       },
-      "multiplikation": {
+      "yellow": {
         "q": "8 × 2 = ?",
         "a": "16"
       },
-      "division": {
+      "green": {
         "q": "64 ÷ 8 = ?",
         "a": "8"
       },
@@ -1210,26 +1210,26 @@
         "q": "Hur många dygn går det på ett år?",
         "a": "365 (skottår = 366)."
       },
-      "kreativ": {
+      "orange": {
         "q": "Gör 7 + 6 utfall",
         "a": "13 utfall genomförda"
       }
     },
     {
       "level": 1,
-      "addition": {
+      "blue": {
         "q": "41 + 5 = ?",
         "a": "46"
       },
-      "subtraktion": {
+      "pink": {
         "q": "88 − 78 = ?",
         "a": "10"
       },
-      "multiplikation": {
+      "yellow": {
         "q": "6 × 5 = ?",
         "a": "30"
       },
-      "division": {
+      "green": {
         "q": "18 ÷ 3 = ?",
         "a": "6"
       },
@@ -1237,26 +1237,26 @@
         "q": "Ställ klockan på 15:45",
         "a": "Fråga någon som vet om ditt svar stämmer"
       },
-      "kreativ": {
+      "orange": {
         "q": "Hur långt är ditt ringfinger? Mät med linjal.",
         "a": "Fråga någon som vet om det stämmer"
       }
     },
     {
       "level": 1,
-      "addition": {
+      "blue": {
         "q": "15 + 45 = ?",
         "a": "60"
       },
-      "subtraktion": {
+      "pink": {
         "q": "65 − 8 = ?",
         "a": "57"
       },
-      "multiplikation": {
+      "yellow": {
         "q": "4 × 6 = ?",
         "a": "24"
       },
-      "division": {
+      "green": {
         "q": "42 ÷ 7 = ?",
         "a": "6"
       },
@@ -1264,26 +1264,26 @@
         "q": "Hur många dagar har februari ett skottår?",
         "a": "29"
       },
-      "kreativ": {
+      "orange": {
         "q": "Gör 8 + 2 upphopp",
         "a": "10 upphopp genomförda"
       }
     },
     {
       "level": 1,
-      "addition": {
+      "blue": {
         "q": "67 + 9 = ?",
         "a": "76"
       },
-      "subtraktion": {
+      "pink": {
         "q": "59 − 8 = ?",
         "a": "51"
       },
-      "multiplikation": {
+      "yellow": {
         "q": "3 × 7 = ?",
         "a": "21"
       },
-      "division": {
+      "green": {
         "q": "49 ÷ 7 = ?",
         "a": "7"
       },
@@ -1291,26 +1291,26 @@
         "q": "Hur många veckor består ett år av?",
         "a": "52"
       },
-      "kreativ": {
+      "orange": {
         "q": "Rita två olika sätt att visa talet 10 med bilder",
         "a": "Fråga någon som vet om det stämmer"
       }
     },
     {
       "level": 1,
-      "addition": {
+      "blue": {
         "q": "30 + 8 = ?",
         "a": "38"
       },
-      "subtraktion": {
+      "pink": {
         "q": "93 − 4 = ?",
         "a": "89"
       },
-      "multiplikation": {
+      "yellow": {
         "q": "9 × 2 = ?",
         "a": "18"
       },
-      "division": {
+      "green": {
         "q": "81 ÷ 9 = ?",
         "a": "9"
       },
@@ -1318,26 +1318,26 @@
         "q": "Ställ klockan på 20:30",
         "a": "Fråga någon som vet om ditt svar stämmer"
       },
-      "kreativ": {
+      "orange": {
         "q": "Rita ett symmetriskt mönster",
         "a": "Fråga någon som vet om det stämmer"
       }
     },
     {
       "level": 1,
-      "addition": {
+      "blue": {
         "q": "33 + 7 = ?",
         "a": "40"
       },
-      "subtraktion": {
+      "pink": {
         "q": "92 − 36 = ?",
         "a": "56"
       },
-      "multiplikation": {
+      "yellow": {
         "q": "7 × 7 = ?",
         "a": "49"
       },
-      "division": {
+      "green": {
         "q": "45 ÷ 5 = ?",
         "a": "9"
       },
@@ -1345,26 +1345,26 @@
         "q": "Skriv din födelsedag på två olika sätt.",
         "a": "T.ex. 6/10 2015 eller 2015-10-06"
       },
-      "kreativ": {
+      "orange": {
         "q": "Rita ett mönster som upprepas tre gånger",
         "a": "Fråga någon som vet om det stämmer"
       }
     },
     {
       "level": 1,
-      "addition": {
+      "blue": {
         "q": "28 + 17 = ?",
         "a": "45"
       },
-      "subtraktion": {
+      "pink": {
         "q": "58 − 19 = ?",
         "a": "39"
       },
-      "multiplikation": {
+      "yellow": {
         "q": "6 × 7 = ?",
         "a": "42"
       },
-      "division": {
+      "green": {
         "q": "72 ÷ 8 = ?",
         "a": "9"
       },
@@ -1372,26 +1372,26 @@
         "q": "Ställ klockan på 09:45",
         "a": "Fråga någon som vet om ditt svar stämmer"
       },
-      "kreativ": {
+      "orange": {
         "q": "Gör 9 + 6 upphopp",
         "a": "15 upphopp genomförda"
       }
     },
     {
       "level": 1,
-      "addition": {
+      "blue": {
         "q": "19 + 7 = ?",
         "a": "26"
       },
-      "subtraktion": {
+      "pink": {
         "q": "87 − 33 = ?",
         "a": "54"
       },
-      "multiplikation": {
+      "yellow": {
         "q": "8 × 3 = ?",
         "a": "24"
       },
-      "division": {
+      "green": {
         "q": "56 ÷ 7 = ?",
         "a": "8"
       },
@@ -1399,26 +1399,26 @@
         "q": "Hur många minuter går det på 8 timmar?",
         "a": "480"
       },
-      "kreativ": {
+      "orange": {
         "q": "Rita en cirkel och en triangel",
         "a": "◯ △"
       }
     },
     {
       "level": 1,
-      "addition": {
+      "blue": {
         "q": "19 + 5 = ?",
         "a": "24"
       },
-      "subtraktion": {
+      "pink": {
         "q": "75 − 7 = ?",
         "a": "68"
       },
-      "multiplikation": {
+      "yellow": {
         "q": "4 × 5 = ?",
         "a": "20"
       },
-      "division": {
+      "green": {
         "q": "63 ÷ 9 = ?",
         "a": "7"
       },
@@ -1426,26 +1426,26 @@
         "q": "Ställ klockan på 16:10",
         "a": "Fråga någon som vet om ditt svar stämmer"
       },
-      "kreativ": {
+      "orange": {
         "q": "Gör 7 + 8 situps",
         "a": "15 situps genomförda"
       }
     },
     {
       "level": 1,
-      "addition": {
+      "blue": {
         "q": "22 + 18 = ?",
         "a": "40"
       },
-      "subtraktion": {
+      "pink": {
         "q": "63 − 10 = ?",
         "a": "53"
       },
-      "multiplikation": {
+      "yellow": {
         "q": "3 × 8 = ?",
         "a": "24"
       },
-      "division": {
+      "green": {
         "q": "25 ÷ 5 = ?",
         "a": "5"
       },
@@ -1453,26 +1453,26 @@
         "q": "Hur många minuter är det från 13:15 till 13:45?",
         "a": "30"
       },
-      "kreativ": {
+      "orange": {
         "q": "Rita en cirkel med diametern 2 cm. Använd linjal.",
         "a": "Fråga någon som vet om det stämmer"
       }
     },
     {
       "level": 1,
-      "addition": {
+      "blue": {
         "q": "32 + 9 = ?",
         "a": "41"
       },
-      "subtraktion": {
+      "pink": {
         "q": "90 − 6 = ?",
         "a": "84"
       },
-      "multiplikation": {
+      "yellow": {
         "q": "7 × 8 = ?",
         "a": "56"
       },
-      "division": {
+      "green": {
         "q": "30 ÷ 6 = ?",
         "a": "5"
       },
@@ -1480,26 +1480,26 @@
         "q": "Ställ klockan på tjugo över fyra.",
         "a": "Fråga någon som vet om det stämmer"
       },
-      "kreativ": {
+      "orange": {
         "q": "Rita ett hus där dörren är 3 cm lång.",
         "a": "Fråga någon som vet om det stämmer"
       }
     },
     {
       "level": 1,
-      "addition": {
+      "blue": {
         "q": "41 + 4 = ?",
         "a": "45"
       },
-      "subtraktion": {
+      "pink": {
         "q": "86 − 28 = ?",
         "a": "58"
       },
-      "multiplikation": {
+      "yellow": {
         "q": "9 × 4 = ?",
         "a": "36"
       },
-      "division": {
+      "green": {
         "q": "45 ÷ 9 = ?",
         "a": "5"
       },
@@ -1507,26 +1507,26 @@
         "q": "Ställ klockan på fem i nio.",
         "a": "Fråga någon som vet om ditt svar stämmer"
       },
-      "kreativ": {
+      "orange": {
         "q": "Rita ett hjärta som är 6 cm högt.",
         "a": "Fråga någon som vet om det stämmer"
       }
     },
     {
       "level": 1,
-      "addition": {
+      "blue": {
         "q": "38 + 13 = ?",
         "a": "51"
       },
-      "subtraktion": {
+      "pink": {
         "q": "67 − 7 = ?",
         "a": "60"
       },
-      "multiplikation": {
+      "yellow": {
         "q": "6 × 8 = ?",
         "a": "48"
       },
-      "division": {
+      "green": {
         "q": "72 ÷ 9 = ?",
         "a": "8"
       },
@@ -1534,26 +1534,26 @@
         "q": "Hur många sekunder går det på en halv minut?",
         "a": "30"
       },
-      "kreativ": {
+      "orange": {
         "q": "Gör 10 + 5 upphopp",
         "a": "15 upphopp genomförda"
       }
     },
     {
       "level": 1,
-      "addition": {
+      "blue": {
         "q": "17 + 8 = ?",
         "a": "25"
       },
-      "subtraktion": {
+      "pink": {
         "q": "95 − 20 = ?",
         "a": "75"
       },
-      "multiplikation": {
+      "yellow": {
         "q": "8 × 2 = ?",
         "a": "16"
       },
-      "division": {
+      "green": {
         "q": "28 ÷ 4 = ?",
         "a": "7"
       },
@@ -1561,26 +1561,26 @@
         "q": "Hur skrivs kvart över två på eftermiddagen digitalt?",
         "a": "14:15"
       },
-      "kreativ": {
+      "orange": {
         "q": "Rita ett ansikte med en mun som är 2 cm bred.",
         "a": "Fråga någon som vet om det stämmer"
       }
     },
     {
       "level": 1,
-      "addition": {
+      "blue": {
         "q": "18 + 9 = ?",
         "a": "27"
       },
-      "subtraktion": {
+      "pink": {
         "q": "64 − 27 = ?",
         "a": "37"
       },
-      "multiplikation": {
+      "yellow": {
         "q": "6 × 4 = ?",
         "a": "24"
       },
-      "division": {
+      "green": {
         "q": "32 ÷ 8 = ?",
         "a": "4"
       },
@@ -1588,26 +1588,26 @@
         "q": "Vad är klockan 15 minuter efter 10:20?",
         "a": "10:35"
       },
-      "kreativ": {
+      "orange": {
         "q": "Rita en triangel där en sida är 4 cm. Mät med linjal.",
         "a": "Fråga någon som vet om det stämmer"
       }
     },
     {
       "level": 1,
-      "addition": {
+      "blue": {
         "q": "21 + 16 = ?",
         "a": "37"
       },
-      "subtraktion": {
+      "pink": {
         "q": "75 − 28 = ?",
         "a": "47"
       },
-      "multiplikation": {
+      "yellow": {
         "q": "7 × 6 = ?",
         "a": "42"
       },
-      "division": {
+      "green": {
         "q": "45 ÷ 5 = ?",
         "a": "9"
       },
@@ -1615,26 +1615,26 @@
         "q": "Hur många minuter är 1 timme och 20 minuter?",
         "a": "80"
       },
-      "kreativ": {
+      "orange": {
         "q": "Rita en kvadrat där varje sida är 3 cm.",
         "a": "Fråga någon som vet om det stämmer"
       }
     },
     {
       "level": 1,
-      "addition": {
+      "blue": {
         "q": "24 + 15 = ?",
         "a": "39"
       },
-      "subtraktion": {
+      "pink": {
         "q": "83 − 36 = ?",
         "a": "47"
       },
-      "multiplikation": {
+      "yellow": {
         "q": "8 × 3 = ?",
         "a": "24"
       },
-      "division": {
+      "green": {
         "q": "63 ÷ 9 = ?",
         "a": "7"
       },
@@ -1642,26 +1642,26 @@
         "q": "Vad är klockan 10 minuter före 14:00?",
         "a": "13:50"
       },
-      "kreativ": {
+      "orange": {
         "q": "Rita en cirkel och dela den i två lika stora delar.",
         "a": "Fråga någon som vet om det stämmer"
       }
     },
     {
       "level": 1,
-      "addition": {
+      "blue": {
         "q": "13 + 26 = ?",
         "a": "39"
       },
-      "subtraktion": {
+      "pink": {
         "q": "71 − 29 = ?",
         "a": "42"
       },
-      "multiplikation": {
+      "yellow": {
         "q": "9 × 4 = ?",
         "a": "36"
       },
-      "division": {
+      "green": {
         "q": "54 ÷ 6 = ?",
         "a": "9"
       },
@@ -1669,26 +1669,26 @@
         "q": "Hur många sekunder är 4 minuter?",
         "a": "240"
       },
-      "kreativ": {
+      "orange": {
         "q": "Rita en rektangel som är 2 cm bred och 5 cm lång.",
         "a": "Fråga någon som vet om det stämmer"
       }
     },
     {
       "level": 1,
-      "addition": {
+      "blue": {
         "q": "27 + 18 = ?",
         "a": "45"
       },
-      "subtraktion": {
+      "pink": {
         "q": "92 − 44 = ?",
         "a": "48"
       },
-      "multiplikation": {
+      "yellow": {
         "q": "5 × 7 = ?",
         "a": "35"
       },
-      "division": {
+      "green": {
         "q": "36 ÷ 4 = ?",
         "a": "9"
       },
@@ -1696,26 +1696,26 @@
         "q": "Vad är klockan 30 minuter efter 07:10?",
         "a": "07:40"
       },
-      "kreativ": {
+      "orange": {
         "q": "Rita två olika trianglar.",
         "a": "Fråga någon som vet om de är olika"
       }
     },
     {
       "level": 1,
-      "addition": {
+      "blue": {
         "q": "19 + 22 = ?",
         "a": "41"
       },
-      "subtraktion": {
+      "pink": {
         "q": "68 − 24 = ?",
         "a": "44"
       },
-      "multiplikation": {
+      "yellow": {
         "q": "4 × 8 = ?",
         "a": "32"
       },
-      "division": {
+      "green": {
         "q": "72 ÷ 9 = ?",
         "a": "8"
       },
@@ -1723,26 +1723,26 @@
         "q": "Hur många minuter går det på 4 timmar?",
         "a": "240"
       },
-      "kreativ": {
+      "orange": {
         "q": "Rita en cirkel och markera mitten.",
         "a": "Fråga någon som vet om det stämmer"
       }
     },
     {
       "level": 1,
-      "addition": {
+      "blue": {
         "q": "32 + 11 = ?",
         "a": "43"
       },
-      "subtraktion": {
+      "pink": {
         "q": "84 − 39 = ?",
         "a": "45"
       },
-      "multiplikation": {
+      "yellow": {
         "q": "6 × 7 = ?",
         "a": "42"
       },
-      "division": {
+      "green": {
         "q": "27 ÷ 9 = ?",
         "a": "3"
       },
@@ -1750,26 +1750,26 @@
         "q": "Vad är klockan 25 minuter efter 12:30?",
         "a": "12:55"
       },
-      "kreativ": {
+      "orange": {
         "q": "Rita en triangel och markera alla hörn.",
         "a": "3 hörn"
       }
     },
     {
       "level": 1,
-      "addition": {
+      "blue": {
         "q": "14 + 28 = ?",
         "a": "42"
       },
-      "subtraktion": {
+      "pink": {
         "q": "93 − 48 = ?",
         "a": "45"
       },
-      "multiplikation": {
+      "yellow": {
         "q": "3 × 9 = ?",
         "a": "27"
       },
-      "division": {
+      "green": {
         "q": "56 ÷ 7 = ?",
         "a": "8"
       },
@@ -1777,26 +1777,26 @@
         "q": "Hur många sekunder är 1 minut och 30 sekunder?",
         "a": "90"
       },
-      "kreativ": {
+      "orange": {
         "q": "Rita en kvadrat och rita båda diagonalerna.",
         "a": "Fråga någon som vet om det stämmer"
       }
     },
     {
       "level": 1,
-      "addition": {
+      "blue": {
         "q": "17 + 24 = ?",
         "a": "41"
       },
-      "subtraktion": {
+      "pink": {
         "q": "79 − 33 = ?",
         "a": "46"
       },
-      "multiplikation": {
+      "yellow": {
         "q": "7 × 3 = ?",
         "a": "21"
       },
-      "division": {
+      "green": {
         "q": "48 ÷ 6 = ?",
         "a": "8"
       },
@@ -1804,26 +1804,26 @@
         "q": "Vad är klockan 20 minuter före 16:00?",
         "a": "15:40"
       },
-      "kreativ": {
+      "orange": {
         "q": "Rita en figur med exakt 5 hörn.",
         "a": "Fråga någon som vet om det stämmer"
       }
     },
     {
       "level": 1,
-      "addition": {
+      "blue": {
         "q": "23 + 18 = ?",
         "a": "41"
       },
-      "subtraktion": {
+      "pink": {
         "q": "66 − 19 = ?",
         "a": "47"
       },
-      "multiplikation": {
+      "yellow": {
         "q": "8 × 5 = ?",
         "a": "40"
       },
-      "division": {
+      "green": {
         "q": "24 ÷ 3 = ?",
         "a": "8"
       },
@@ -1831,26 +1831,26 @@
         "q": "Hur många minuter är 2 timmar och 10 minuter?",
         "a": "130"
       },
-      "kreativ": {
+      "orange": {
         "q": "Rita en rektangel och räkna hur många hörn den har.",
         "a": "4"
       }
     },
     {
       "level": 1,
-      "addition": {
+      "blue": {
         "q": "15 + 29 = ?",
         "a": "44"
       },
-      "subtraktion": {
+      "pink": {
         "q": "87 − 41 = ?",
         "a": "46"
       },
-      "multiplikation": {
+      "yellow": {
         "q": "9 × 2 = ?",
         "a": "18"
       },
-      "division": {
+      "green": {
         "q": "18 ÷ 3 = ?",
         "a": "6"
       },
@@ -1858,26 +1858,26 @@
         "q": "Vad är klockan 45 minuter efter 09:15?",
         "a": "10:00"
       },
-      "kreativ": {
+      "orange": {
         "q": "Rita tre olika fyrhörningar.",
         "a": "Fråga någon som vet om det stämmer"
       }
     },
     {
       "level": 1,
-      "addition": {
+      "blue": {
         "q": "28 + 16 = ?",
         "a": "44"
       },
-      "subtraktion": {
+      "pink": {
         "q": "74 − 29 = ?",
         "a": "45"
       },
-      "multiplikation": {
+      "yellow": {
         "q": "4 × 6 = ?",
         "a": "24"
       },
-      "division": {
+      "green": {
         "q": "64 ÷ 8 = ?",
         "a": "8"
       },
@@ -1885,26 +1885,26 @@
         "q": "Hur många sekunder är 5 minuter?",
         "a": "300"
       },
-      "kreativ": {
+      "orange": {
         "q": "Rita en cirkel och dela den i fyra lika delar.",
         "a": "Fråga någon som vet om det stämmer"
       }
     },
     {
       "level": 1,
-      "addition": {
+      "blue": {
         "q": "26 + 9 = ?",
         "a": "35"
       },
-      "subtraktion": {
+      "pink": {
         "q": "82 − 3 = ?",
         "a": "79"
       },
-      "multiplikation": {
+      "yellow": {
         "q": "5 × 6 = ?",
         "a": "30"
       },
-      "division": {
+      "green": {
         "q": "81 ÷ 9 = ?",
         "a": "9"
       },
@@ -1912,26 +1912,26 @@
         "q": "Vad är klockan 35 minuter efter 11:20?",
         "a": "11:55"
       },
-      "kreativ": {
+      "orange": {
         "q": "Rita en kvadrat och mät en sida i centimeter.",
         "a": "Fråga någon som vet om det stämmer"
       }
     },
     {
       "level": 1,
-      "addition": {
+      "blue": {
         "q": "31 + 7 = ?",
         "a": "38"
       },
-      "subtraktion": {
+      "pink": {
         "q": "90 − 5 = ?",
         "a": "85"
       },
-      "multiplikation": {
+      "yellow": {
         "q": "7 × 4 = ?",
         "a": "28"
       },
-      "division": {
+      "green": {
         "q": "30 ÷ 6 = ?",
         "a": "5"
       },
@@ -1939,26 +1939,26 @@
         "q": "Hur många minuter går det på ett halvt dygn?",
         "a": "720"
       },
-      "kreativ": {
+      "orange": {
         "q": "Rita en triangel där alla sidor är lika långa.",
         "a": "Fråga någon som vet om det stämmer"
       }
     },
     {
       "level": 1,
-      "addition": {
+      "blue": {
         "q": "20 + 34 = ?",
         "a": "54"
       },
-      "subtraktion": {
+      "pink": {
         "q": "78 − 8 = ?",
         "a": "70"
       },
-      "multiplikation": {
+      "yellow": {
         "q": "6 × 8 = ?",
         "a": "48"
       },
-      "division": {
+      "green": {
         "q": "40 ÷ 5 = ?",
         "a": "8"
       },
@@ -1966,26 +1966,26 @@
         "q": "Vad är klockan 15 minuter före 18:10?",
         "a": "17:55"
       },
-      "kreativ": {
+      "orange": {
         "q": "Rita en figur med minst 6 hörn.",
         "a": "Fråga någon som vet om det stämmer"
       }
     },
     {
       "level": 2,
-      "addition": {
+      "blue": {
         "q": "86 + 47 = ?",
         "a": "133"
       },
-      "subtraktion": {
+      "pink": {
         "q": "185 − 96 = ?",
         "a": "89"
       },
-      "multiplikation": {
+      "yellow": {
         "q": "11 × 7 = ?",
         "a": "77"
       },
-      "division": {
+      "green": {
         "q": "96 ÷ 12 = ?",
         "a": "8"
       },
@@ -1993,26 +1993,26 @@
         "q": "Hur många minuter går det på 3 timmar?",
         "a": "180"
       },
-      "kreativ": {
+      "orange": {
         "q": "Rita en linje som är 10 cm lång och markera mitten.",
         "a": "Mitten är på 5 cm."
       }
     },
     {
       "level": 2,
-      "addition": {
+      "blue": {
         "q": "74 + 38 = ?",
         "a": "112"
       },
-      "subtraktion": {
+      "pink": {
         "q": "210 − 85 = ?",
         "a": "125"
       },
-      "multiplikation": {
+      "yellow": {
         "q": "12 × 6 = ?",
         "a": "72"
       },
-      "division": {
+      "green": {
         "q": "132 ÷ 11 = ?",
         "a": "12"
       },
@@ -2020,26 +2020,26 @@
         "q": "Ställ klockan på 13:25",
         "a": "Fråga någon som vet om ditt svar stämmer"
       },
-      "kreativ": {
+      "orange": {
         "q": "Gör 11 + 2 benböj",
         "a": "13 benböj genomförda"
       }
     },
     {
       "level": 2,
-      "addition": {
+      "blue": {
         "q": "95 + 26 = ?",
         "a": "121"
       },
-      "subtraktion": {
+      "pink": {
         "q": "178 − 64 = ?",
         "a": "114"
       },
-      "multiplikation": {
+      "yellow": {
         "q": "9 × 9 = ?",
         "a": "81"
       },
-      "division": {
+      "green": {
         "q": "144 ÷ 9 = ?",
         "a": "16"
       },
@@ -2047,26 +2047,26 @@
         "q": "Hur många sekunder går det på 7 minuter?",
         "a": "420"
       },
-      "kreativ": {
+      "orange": {
         "q": "Rita en kvadrat",
         "a": "□"
       }
     },
     {
       "level": 2,
-      "addition": {
+      "blue": {
         "q": "63 + 58 = ?",
         "a": "121"
       },
-      "subtraktion": {
+      "pink": {
         "q": "230 − 98 = ?",
         "a": "132"
       },
-      "multiplikation": {
+      "yellow": {
         "q": "8 × 11 = ?",
         "a": "88"
       },
-      "division": {
+      "green": {
         "q": "168 ÷ 12 = ?",
         "a": "14"
       },
@@ -2074,26 +2074,26 @@
         "q": "Vad är klockan 35 minuter efter 10:50?",
         "a": "11:25"
       },
-      "kreativ": {
+      "orange": {
         "q": "Rita en cirkel och en kvadrat",
         "a": "◯ □"
       }
     },
     {
       "level": 2,
-      "addition": {
+      "blue": {
         "q": "54 + 77 = ?",
         "a": "131"
       },
-      "subtraktion": {
+      "pink": {
         "q": "205 − 87 = ?",
         "a": "118"
       },
-      "multiplikation": {
+      "yellow": {
         "q": "7 × 12 = ?",
         "a": "84"
       },
-      "division": {
+      "green": {
         "q": "108 ÷ 6 = ?",
         "a": "18"
       },
@@ -2101,26 +2101,26 @@
         "q": "Hur många minuter är det från 14:25 till 15:05?",
         "a": "40"
       },
-      "kreativ": {
+      "orange": {
         "q": "Gör 10 + 8 armhävningar",
         "a": "18 armhävningar genomförda"
       }
     },
     {
       "level": 2,
-      "addition": {
+      "blue": {
         "q": "69 + 39 = ?",
         "a": "108"
       },
-      "subtraktion": {
+      "pink": {
         "q": "198 − 59 = ?",
         "a": "139"
       },
-      "multiplikation": {
+      "yellow": {
         "q": "6 × 11 = ?",
         "a": "66"
       },
-      "division": {
+      "green": {
         "q": "132 ÷ 4 = ?",
         "a": "33"
       },
@@ -2128,26 +2128,26 @@
         "q": "Ställ klockan på 07:55",
         "a": "Fråga någon som vet om ditt svar stämmer"
       },
-      "kreativ": {
+      "orange": {
         "q": "Rita en romb",
         "a": "◇"
       }
     },
     {
       "level": 2,
-      "addition": {
+      "blue": {
         "q": "87 + 16 = ?",
         "a": "103"
       },
-      "subtraktion": {
+      "pink": {
         "q": "240 − 156 = ?",
         "a": "84"
       },
-      "multiplikation": {
+      "yellow": {
         "q": "12 × 12 = ?",
         "a": "144"
       },
-      "division": {
+      "green": {
         "q": "180 ÷ 10 = ?",
         "a": "18"
       },
@@ -2155,26 +2155,26 @@
         "q": "Hur många timmar går det på två dygn?",
         "a": "48"
       },
-      "kreativ": {
+      "orange": {
         "q": "Rita en hexagon",
         "a": "⬣"
       }
     },
     {
       "level": 2,
-      "addition": {
+      "blue": {
         "q": "58 + 67 = ?",
         "a": "125"
       },
-      "subtraktion": {
+      "pink": {
         "q": "320 − 145 = ?",
         "a": "175"
       },
-      "multiplikation": {
+      "yellow": {
         "q": "5 × 14 = ?",
         "a": "70"
       },
-      "division": {
+      "green": {
         "q": "154 ÷ 11 = ?",
         "a": "14"
       },
@@ -2182,26 +2182,26 @@
         "q": "Vad är klockan 25 minuter före 18:10?",
         "a": "17:45"
       },
-      "kreativ": {
+      "orange": {
         "q": "Gör 9 + 7 situps",
         "a": "16 situps genomförda"
       }
     },
     {
       "level": 2,
-      "addition": {
+      "blue": {
         "q": "77 + 34 = ?",
         "a": "111"
       },
-      "subtraktion": {
+      "pink": {
         "q": "260 − 129 = ?",
         "a": "131"
       },
-      "multiplikation": {
+      "yellow": {
         "q": "15 × 6 = ?",
         "a": "90"
       },
-      "division": {
+      "green": {
         "q": "96 ÷ 3 = ?",
         "a": "32"
       },
@@ -2209,26 +2209,26 @@
         "q": "Ställ klockan på 21:40",
         "a": "Fråga någon som vet om ditt svar stämmer"
       },
-      "kreativ": {
+      "orange": {
         "q": "Rita ett parallellogram",
         "a": "▱"
       }
     },
     {
       "level": 2,
-      "addition": {
+      "blue": {
         "q": "91 + 29 = ?",
         "a": "120"
       },
-      "subtraktion": {
+      "pink": {
         "q": "305 − 167 = ?",
         "a": "138"
       },
-      "multiplikation": {
+      "yellow": {
         "q": "9 × 13 = ?",
         "a": "117"
       },
-      "division": {
+      "green": {
         "q": "210 ÷ 14 = ?",
         "a": "15"
       },
@@ -2236,26 +2236,26 @@
         "q": "Hur många sekunder är 9 minuter och 30 sekunder?",
         "a": "570"
       },
-      "kreativ": {
+      "orange": {
         "q": "Rita en pentagon",
         "a": "⬠"
       }
     },
     {
       "level": 2,
-      "addition": {
+      "blue": {
         "q": "64 + 48 = ?",
         "a": "112"
       },
-      "subtraktion": {
+      "pink": {
         "q": "190 − 75 = ?",
         "a": "115"
       },
-      "multiplikation": {
+      "yellow": {
         "q": "11 × 11 = ?",
         "a": "121"
       },
-      "division": {
+      "green": {
         "q": "225 ÷ 9 = ?",
         "a": "25"
       },
@@ -2263,26 +2263,26 @@
         "q": "Vad är klockan 18 minuter efter 09:42?",
         "a": "10:00"
       },
-      "kreativ": {
+      "orange": {
         "q": "Gör 12 + 6 upphopp",
         "a": "18 upphopp genomförda"
       }
     },
     {
       "level": 2,
-      "addition": {
+      "blue": {
         "q": "76 + 27 = ?",
         "a": "103"
       },
-      "subtraktion": {
+      "pink": {
         "q": "410 − 248 = ?",
         "a": "162"
       },
-      "multiplikation": {
+      "yellow": {
         "q": "14 × 7 = ?",
         "a": "98"
       },
-      "division": {
+      "green": {
         "q": "156 ÷ 12 = ?",
         "a": "13"
       },
@@ -2290,26 +2290,26 @@
         "q": "Ställ klockan på 06:35",
         "a": "Fråga någon som vet om ditt svar stämmer"
       },
-      "kreativ": {
+      "orange": {
         "q": "Rita en rektangel",
         "a": "▭"
       }
     },
     {
       "level": 2,
-      "addition": {
+      "blue": {
         "q": "83 + 45 = ?",
         "a": "128"
       },
-      "subtraktion": {
+      "pink": {
         "q": "288 − 129 = ?",
         "a": "159"
       },
-      "multiplikation": {
+      "yellow": {
         "q": "16 × 5 = ?",
         "a": "80"
       },
-      "division": {
+      "green": {
         "q": "189 ÷ 9 = ?",
         "a": "21"
       },
@@ -2317,26 +2317,26 @@
         "q": "Hur många minuter är det från 11:10 till 11:55?",
         "a": "45"
       },
-      "kreativ": {
+      "orange": {
         "q": "Gör 10 + 9 tåhävningar",
         "a": "19 tåhävningar genomförda"
       }
     },
     {
       "level": 2,
-      "addition": {
+      "blue": {
         "q": "98 + 33 = ?",
         "a": "131"
       },
-      "subtraktion": {
+      "pink": {
         "q": "412 − 278 = ?",
         "a": "134"
       },
-      "multiplikation": {
+      "yellow": {
         "q": "12 × 8 = ?",
         "a": "96"
       },
-      "division": {
+      "green": {
         "q": "252 ÷ 14 = ?",
         "a": "18"
       },
@@ -2344,26 +2344,26 @@
         "q": "Ställ klockan på 12:50",
         "a": "Fråga någon som vet om ditt svar stämmer"
       },
-      "kreativ": {
+      "orange": {
         "q": "Rita en stjärna",
         "a": "☆"
       }
     },
     {
       "level": 2,
-      "addition": {
+      "blue": {
         "q": "72 + 56 = ?",
         "a": "128"
       },
-      "subtraktion": {
+      "pink": {
         "q": "301 − 169 = ?",
         "a": "132"
       },
-      "multiplikation": {
+      "yellow": {
         "q": "13 × 4 = ?",
         "a": "52"
       },
-      "division": {
+      "green": {
         "q": "144 ÷ 8 = ?",
         "a": "18"
       },
@@ -2371,26 +2371,26 @@
         "q": "Hur många sekunder går det på 12 minuter?",
         "a": "720"
       },
-      "kreativ": {
+      "orange": {
         "q": "Rita ett mönster A-A-B-B-A",
         "a": "Fråga någon som vet om det stämmer"
       }
     },
     {
       "level": 2,
-      "addition": {
+      "blue": {
         "q": "67 + 44 = ?",
         "a": "111"
       },
-      "subtraktion": {
+      "pink": {
         "q": "260 − 119 = ?",
         "a": "141"
       },
-      "multiplikation": {
+      "yellow": {
         "q": "7 × 13 = ?",
         "a": "91"
       },
-      "division": {
+      "green": {
         "q": "300 ÷ 20 = ?",
         "a": "15"
       },
@@ -2398,26 +2398,26 @@
         "q": "Vad är klockan 50 minuter efter 08:15?",
         "a": "09:05"
       },
-      "kreativ": {
+      "orange": {
         "q": "Gör 11 + 8 planka (sekunder)",
         "a": "19 sekunder genomförda"
       }
     },
     {
       "level": 2,
-      "addition": {
+      "blue": {
         "q": "84 + 29 = ?",
         "a": "113"
       },
-      "subtraktion": {
+      "pink": {
         "q": "375 − 186 = ?",
         "a": "189"
       },
-      "multiplikation": {
+      "yellow": {
         "q": "15 × 9 = ?",
         "a": "135"
       },
-      "division": {
+      "green": {
         "q": "225 ÷ 15 = ?",
         "a": "15"
       },
@@ -2425,26 +2425,26 @@
         "q": "Ställ klockan på 05:15",
         "a": "Fråga någon som vet om ditt svar stämmer"
       },
-      "kreativ": {
+      "orange": {
         "q": "Rita en figur med sex hörn",
         "a": "Fråga någon som vet om det stämmer"
       }
     },
     {
       "level": 2,
-      "addition": {
+      "blue": {
         "q": "93 + 14 = ?",
         "a": "107"
       },
-      "subtraktion": {
+      "pink": {
         "q": "450 − 207 = ?",
         "a": "243"
       },
-      "multiplikation": {
+      "yellow": {
         "q": "11 × 12 = ?",
         "a": "132"
       },
-      "division": {
+      "green": {
         "q": "168 ÷ 7 = ?",
         "a": "24"
       },
@@ -2452,26 +2452,26 @@
         "q": "Hur många minuter går det på ett halvt dygn?",
         "a": "720"
       },
-      "kreativ": {
+      "orange": {
         "q": "Gör 14 + 9 situps",
         "a": "23 situps genomförda"
       }
     },
     {
       "level": 2,
-      "addition": {
+      "blue": {
         "q": "66 + 57 = ?",
         "a": "123"
       },
-      "subtraktion": {
+      "pink": {
         "q": "520 − 245 = ?",
         "a": "275"
       },
-      "multiplikation": {
+      "yellow": {
         "q": "10 × 13 = ?",
         "a": "130"
       },
-      "division": {
+      "green": {
         "q": "196 ÷ 14 = ?",
         "a": "14"
       },
@@ -2479,26 +2479,26 @@
         "q": "Vad är klockan 15 minuter före 22:00?",
         "a": "21:45"
       },
-      "kreativ": {
+      "orange": {
         "q": "Rita en cirkel och dela den i fyra lika delar",
         "a": "Fråga någon som vet om det stämmer"
       }
     },
     {
       "level": 2,
-      "addition": {
+      "blue": {
         "q": "79 + 23 = ?",
         "a": "102"
       },
-      "subtraktion": {
+      "pink": {
         "q": "405 − 276 = ?",
         "a": "129"
       },
-      "multiplikation": {
+      "yellow": {
         "q": "14 × 8 = ?",
         "a": "112"
       },
-      "division": {
+      "green": {
         "q": "288 ÷ 12 = ?",
         "a": "24"
       },
@@ -2506,26 +2506,26 @@
         "q": "Ställ klockan på 00:35",
         "a": "Fråga någon som vet om ditt svar stämmer"
       },
-      "kreativ": {
+      "orange": {
         "q": "Gör 12 + 7 upphopp",
         "a": "19 upphopp genomförda"
       }
     },
     {
       "level": 2,
-      "addition": {
+      "blue": {
         "q": "88 + 38 = ?",
         "a": "126"
       },
-      "subtraktion": {
+      "pink": {
         "q": "312 − 128 = ?",
         "a": "184"
       },
-      "multiplikation": {
+      "yellow": {
         "q": "9 × 14 = ?",
         "a": "126"
       },
-      "division": {
+      "green": {
         "q": "360 ÷ 15 = ?",
         "a": "24"
       },
@@ -2533,26 +2533,26 @@
         "q": "Hur många sekunder går det på ett dygn?",
         "a": "86400"
       },
-      "kreativ": {
+      "orange": {
         "q": "Rita en kvadrat och en triangel",
         "a": "□ △"
       }
     },
     {
       "level": 2,
-      "addition": {
+      "blue": {
         "q": "73 + 34 = ?",
         "a": "107"
       },
-      "subtraktion": {
+      "pink": {
         "q": "498 − 207 = ?",
         "a": "291"
       },
-      "multiplikation": {
+      "yellow": {
         "q": "16 × 6 = ?",
         "a": "96"
       },
-      "division": {
+      "green": {
         "q": "270 ÷ 9 = ?",
         "a": "30"
       },
@@ -2560,26 +2560,26 @@
         "q": "Vad är klockan 32 minuter efter 06:28?",
         "a": "07:00"
       },
-      "kreativ": {
+      "orange": {
         "q": "Gör 13 + 6 benböj",
         "a": "19 benböj genomförda"
       }
     },
     {
       "level": 2,
-      "addition": {
+      "blue": {
         "q": "97 + 17 = ?",
         "a": "114"
       },
-      "subtraktion": {
+      "pink": {
         "q": "650 − 398 = ?",
         "a": "252"
       },
-      "multiplikation": {
+      "yellow": {
         "q": "12 × 9 = ?",
         "a": "108"
       },
-      "division": {
+      "green": {
         "q": "420 ÷ 7 = ?",
         "a": "60"
       },
@@ -2587,26 +2587,26 @@
         "q": "Ställ klockan på 18:45",
         "a": "Fråga någon som vet om ditt svar stämmer"
       },
-      "kreativ": {
+      "orange": {
         "q": "Rita en polygon med fem sidor",
         "a": "Fråga någon som vet om det stämmer"
       }
     },
     {
       "level": 2,
-      "addition": {
+      "blue": {
         "q": "68 + 59 = ?",
         "a": "127"
       },
-      "subtraktion": {
+      "pink": {
         "q": "720 − 365 = ?",
         "a": "355"
       },
-      "multiplikation": {
+      "yellow": {
         "q": "11 × 15 = ?",
         "a": "165"
       },
-      "division": {
+      "green": {
         "q": "288 ÷ 8 = ?",
         "a": "36"
       },
@@ -2614,26 +2614,26 @@
         "q": "Hur många minuter går det på 9 timmar?",
         "a": "540"
       },
-      "kreativ": {
+      "orange": {
         "q": "Gör 15 + 6 tåhävningar",
         "a": "21 tåhävningar genomförda"
       }
     },
     {
       "level": 2,
-      "addition": {
+      "blue": {
         "q": "84 + 41 = ?",
         "a": "125"
       },
-      "subtraktion": {
+      "pink": {
         "q": "512 − 299 = ?",
         "a": "213"
       },
-      "multiplikation": {
+      "yellow": {
         "q": "13 × 7 = ?",
         "a": "91"
       },
-      "division": {
+      "green": {
         "q": "390 ÷ 13 = ?",
         "a": "30"
       },
@@ -2641,26 +2641,26 @@
         "q": "Vad är klockan 14 minuter före 03:00?",
         "a": "02:46"
       },
-      "kreativ": {
+      "orange": {
         "q": "Rita en cirkel och en romb",
         "a": "◯ ◇"
       }
     },
     {
       "level": 2,
-      "addition": {
+      "blue": {
         "q": "79 + 47 = ?",
         "a": "126"
       },
-      "subtraktion": {
+      "pink": {
         "q": "640 − 255 = ?",
         "a": "385"
       },
-      "multiplikation": {
+      "yellow": {
         "q": "12 × 7 = ?",
         "a": "84"
       },
-      "division": {
+      "green": {
         "q": "420 ÷ 12 = ?",
         "a": "35"
       },
@@ -2668,26 +2668,26 @@
         "q": "Ställ klockan på 04:10",
         "a": "Fråga någon som vet om ditt svar stämmer"
       },
-      "kreativ": {
+      "orange": {
         "q": "Gör 14 + 8 situps",
         "a": "22 situps genomförda"
       }
     },
     {
       "level": 2,
-      "addition": {
+      "blue": {
         "q": "92 + 19 = ?",
         "a": "111"
       },
-      "subtraktion": {
+      "pink": {
         "q": "705 − 468 = ?",
         "a": "237"
       },
-      "multiplikation": {
+      "yellow": {
         "q": "9 × 16 = ?",
         "a": "144"
       },
-      "division": {
+      "green": {
         "q": "252 ÷ 7 = ?",
         "a": "36"
       },
@@ -2695,26 +2695,26 @@
         "q": "Hur många sekunder är 2 minuter och 45 sekunder?",
         "a": "165"
       },
-      "kreativ": {
+      "orange": {
         "q": "Rita en kvadrat och en pentagon",
         "a": "□ ⬠"
       }
     },
     {
       "level": 2,
-      "addition": {
+      "blue": {
         "q": "88 + 33 = ?",
         "a": "121"
       },
-      "subtraktion": {
+      "pink": {
         "q": "580 − 226 = ?",
         "a": "354"
       },
-      "multiplikation": {
+      "yellow": {
         "q": "15 × 3 = ?",
         "a": "45"
       },
-      "division": {
+      "green": {
         "q": "336 ÷ 16 = ?",
         "a": "21"
       },
@@ -2722,26 +2722,26 @@
         "q": "Vad är klockan 23 minuter efter 22:37?",
         "a": "23:00"
       },
-      "kreativ": {
+      "orange": {
         "q": "Gör 11 + 10 upphopp",
         "a": "21 upphopp genomförda"
       }
     },
     {
       "level": 2,
-      "addition": {
+      "blue": {
         "q": "71 + 58 = ?",
         "a": "129"
       },
-      "subtraktion": {
+      "pink": {
         "q": "468 − 139 = ?",
         "a": "329"
       },
-      "multiplikation": {
+      "yellow": {
         "q": "10 × 14 = ?",
         "a": "140"
       },
-      "division": {
+      "green": {
         "q": "384 ÷ 12 = ?",
         "a": "32"
       },
@@ -2749,26 +2749,26 @@
         "q": "Ställ klockan på 17:20",
         "a": "Fråga någon som vet om ditt svar stämmer"
       },
-      "kreativ": {
+      "orange": {
         "q": "Rita en triangel och en cirkel",
         "a": "△ ◯"
       }
     },
     {
       "level": 2,
-      "addition": {
+      "blue": {
         "q": "63 + 69 = ?",
         "a": "132"
       },
-      "subtraktion": {
+      "pink": {
         "q": "725 − 367 = ?",
         "a": "358"
       },
-      "multiplikation": {
+      "yellow": {
         "q": "11 × 8 = ?",
         "a": "88"
       },
-      "division": {
+      "green": {
         "q": "540 ÷ 15 = ?",
         "a": "36"
       },
@@ -2776,26 +2776,26 @@
         "q": "Hur många minuter är det från 05:45 till 06:30?",
         "a": "45"
       },
-      "kreativ": {
+      "orange": {
         "q": "Gör 13 + 9 benböj",
         "a": "22 benböj genomförda"
       }
     },
     {
       "level": 2,
-      "addition": {
+      "blue": {
         "q": "84 + 52 = ?",
         "a": "136"
       },
-      "subtraktion": {
+      "pink": {
         "q": "900 − 478 = ?",
         "a": "422"
       },
-      "multiplikation": {
+      "yellow": {
         "q": "12 × 5 = ?",
         "a": "60"
       },
-      "division": {
+      "green": {
         "q": "420 ÷ 6 = ?",
         "a": "70"
       },
@@ -2803,26 +2803,26 @@
         "q": "Vad är klockan 11 minuter före 01:00?",
         "a": "00:49"
       },
-      "kreativ": {
+      "orange": {
         "q": "Rita tre figurer som tillsammans bildar talet 15",
         "a": "Fråga någon som vet om det stämmer"
       }
     },
     {
       "level": 2,
-      "addition": {
+      "blue": {
         "q": "77 + 29 = ?",
         "a": "106"
       },
-      "subtraktion": {
+      "pink": {
         "q": "660 − 505 = ?",
         "a": "155"
       },
-      "multiplikation": {
+      "yellow": {
         "q": "16 × 4 = ?",
         "a": "64"
       },
-      "division": {
+      "green": {
         "q": "735 ÷ 15 = ?",
         "a": "49"
       },
@@ -2830,26 +2830,26 @@
         "q": "Ställ klockan på 02:45",
         "a": "Fråga någon som vet om ditt svar stämmer"
       },
-      "kreativ": {
+      "orange": {
         "q": "Gör 12 + 11 jämfotahopp",
         "a": "23 jämfotahopp genomförda"
       }
     },
     {
       "level": 2,
-      "addition": {
+      "blue": {
         "q": "96 + 25 = ?",
         "a": "121"
       },
-      "subtraktion": {
+      "pink": {
         "q": "845 − 467 = ?",
         "a": "378"
       },
-      "multiplikation": {
+      "yellow": {
         "q": "9 × 12 = ?",
         "a": "108"
       },
-      "division": {
+      "green": {
         "q": "672 ÷ 14 = ?",
         "a": "48"
       },
@@ -2857,26 +2857,26 @@
         "q": "Hur många sekunder är 1 minut och 15 sekunder?",
         "a": "75"
       },
-      "kreativ": {
+      "orange": {
         "q": "Rita ett rutnät 3×3 och fyll med tal 1–9",
         "a": "Fråga någon som vet om det stämmer"
       }
     },
     {
       "level": 2,
-      "addition": {
+      "blue": {
         "q": "89 + 41 = ?",
         "a": "130"
       },
-      "subtraktion": {
+      "pink": {
         "q": "930 − 588 = ?",
         "a": "342"
       },
-      "multiplikation": {
+      "yellow": {
         "q": "14 × 9 = ?",
         "a": "126"
       },
-      "division": {
+      "green": {
         "q": "512 ÷ 8 = ?",
         "a": "64"
       },
@@ -2884,26 +2884,26 @@
         "q": "Vad är klockan 17 minuter efter 23:43?",
         "a": "24:00"
       },
-      "kreativ": {
+      "orange": {
         "q": "Gör 9 + 14 utfall",
         "a": "23 utfall genomförda"
       }
     },
     {
       "level": 2,
-      "addition": {
+      "blue": {
         "q": "78 + 53 = ?",
         "a": "131"
       },
-      "subtraktion": {
+      "pink": {
         "q": "1000 − 638 = ?",
         "a": "362"
       },
-      "multiplikation": {
+      "yellow": {
         "q": "15 × 7 = ?",
         "a": "105"
       },
-      "division": {
+      "green": {
         "q": "324 ÷ 12 = ?",
         "a": "27"
       },
@@ -2911,26 +2911,26 @@
         "q": "Ställ klockan på 10:05",
         "a": "Fråga någon som vet om ditt svar stämmer"
       },
-      "kreativ": {
+      "orange": {
         "q": "Rita en kvadrat och dela den i fyra lika delar",
         "a": "Fråga någon som vet om det stämmer"
       }
     },
     {
       "level": 2,
-      "addition": {
+      "blue": {
         "q": "67 + 68 = ?",
         "a": "135"
       },
-      "subtraktion": {
+      "pink": {
         "q": "750 − 493 = ?",
         "a": "257"
       },
-      "multiplikation": {
+      "yellow": {
         "q": "13 × 9 = ?",
         "a": "117"
       },
-      "division": {
+      "green": {
         "q": "225 ÷ 5 = ?",
         "a": "45"
       },
@@ -2938,26 +2938,26 @@
         "q": "Hur många minuter går det på 15 timmar?",
         "a": "900"
       },
-      "kreativ": {
+      "orange": {
         "q": "Gör 10 + 12 planka (sekunder)",
         "a": "22 sekunder genomförda"
       }
     },
     {
       "level": 2,
-      "addition": {
+      "blue": {
         "q": "88 + 22 = ?",
         "a": "110"
       },
-      "subtraktion": {
+      "pink": {
         "q": "820 − 506 = ?",
         "a": "314"
       },
-      "multiplikation": {
+      "yellow": {
         "q": "12 × 4 = ?",
         "a": "48"
       },
-      "division": {
+      "green": {
         "q": "480 ÷ 12 = ?",
         "a": "40"
       },
@@ -2965,26 +2965,26 @@
         "q": "Vad är klockan 26 minuter före 09:00?",
         "a": "08:34"
       },
-      "kreativ": {
+      "orange": {
         "q": "Rita en triangel och en romb",
         "a": "△ ◇"
       }
     },
     {
       "level": 2,
-      "addition": {
+      "blue": {
         "q": "79 + 31 = ?",
         "a": "110"
       },
-      "subtraktion": {
+      "pink": {
         "q": "912 − 457 = ?",
         "a": "455"
       },
-      "multiplikation": {
+      "yellow": {
         "q": "9 × 15 = ?",
         "a": "135"
       },
-      "division": {
+      "green": {
         "q": "576 ÷ 9 = ?",
         "a": "64"
       },
@@ -2992,26 +2992,26 @@
         "q": "Ställ klockan på 23:25",
         "a": "Fråga någon som vet om ditt svar stämmer"
       },
-      "kreativ": {
+      "orange": {
         "q": "Gör 16 + 7 tåhävningar",
         "a": "23 tåhävningar genomförda"
       }
     },
     {
       "level": 2,
-      "addition": {
+      "blue": {
         "q": "97 + 29 = ?",
         "a": "126"
       },
-      "subtraktion": {
+      "pink": {
         "q": "680 − 295 = ?",
         "a": "385"
       },
-      "multiplikation": {
+      "yellow": {
         "q": "11 × 6 = ?",
         "a": "66"
       },
-      "division": {
+      "green": {
         "q": "300 ÷ 25 = ?",
         "a": "12"
       },
@@ -3019,26 +3019,26 @@
         "q": "Hur många sekunder är 3 minuter och 5 sekunder?",
         "a": "185"
       },
-      "kreativ": {
+      "orange": {
         "q": "Rita en cirkel och markera diameter",
         "a": "Fråga någon som vet om det stämmer"
       }
     },
     {
       "level": 2,
-      "addition": {
+      "blue": {
         "q": "86 + 18 = ?",
         "a": "104"
       },
-      "subtraktion": {
+      "pink": {
         "q": "745 − 322 = ?",
         "a": "423"
       },
-      "multiplikation": {
+      "yellow": {
         "q": "14 × 6 = ?",
         "a": "84"
       },
-      "division": {
+      "green": {
         "q": "420 ÷ 21 = ?",
         "a": "20"
       },
@@ -3046,26 +3046,26 @@
         "q": "Vad är klockan 33 minuter efter 04:27?",
         "a": "05:00"
       },
-      "kreativ": {
+      "orange": {
         "q": "Gör 12 + 12 situps",
         "a": "24 situps genomförda"
       }
     },
     {
       "level": 2,
-      "addition": {
+      "blue": {
         "q": "58 + 88 = ?",
         "a": "146"
       },
-      "subtraktion": {
+      "pink": {
         "q": "990 − 603 = ?",
         "a": "387"
       },
-      "multiplikation": {
+      "yellow": {
         "q": "13 × 8 = ?",
         "a": "104"
       },
-      "division": {
+      "green": {
         "q": "840 ÷ 12 = ?",
         "a": "70"
       },
@@ -3073,26 +3073,26 @@
         "q": "Ställ klockan på 03:10",
         "a": "Fråga någon som vet om ditt svar stämmer"
       },
-      "kreativ": {
+      "orange": {
         "q": "Rita en rektangel och en triangel",
         "a": "▭ △"
       }
     },
     {
       "level": 2,
-      "addition": {
+      "blue": {
         "q": "77 + 36 = ?",
         "a": "113"
       },
-      "subtraktion": {
+      "pink": {
         "q": "888 − 429 = ?",
         "a": "459"
       },
-      "multiplikation": {
+      "yellow": {
         "q": "15 × 8 = ?",
         "a": "120"
       },
-      "division": {
+      "green": {
         "q": "540 ÷ 18 = ?",
         "a": "30"
       },
@@ -3100,26 +3100,26 @@
         "q": "Hur många minuter är det från 19:40 till 20:25?",
         "a": "45"
       },
-      "kreativ": {
+      "orange": {
         "q": "Gör 11 + 13 upphopp",
         "a": "24 upphopp genomförda"
       }
     },
     {
       "level": 2,
-      "addition": {
+      "blue": {
         "q": "69 + 72 = ?",
         "a": "141"
       },
-      "subtraktion": {
+      "pink": {
         "q": "840 − 377 = ?",
         "a": "463"
       },
-      "multiplikation": {
+      "yellow": {
         "q": "12 × 3 = ?",
         "a": "36"
       },
-      "division": {
+      "green": {
         "q": "660 ÷ 15 = ?",
         "a": "44"
       },
@@ -3127,26 +3127,26 @@
         "q": "Ställ klockan på 01:35",
         "a": "Fråga någon som vet om ditt svar stämmer"
       },
-      "kreativ": {
+      "orange": {
         "q": "Rita en kvadrat och en romb",
         "a": "□ ◇"
       }
     },
     {
       "level": 2,
-      "addition": {
+      "blue": {
         "q": "95 + 18 = ?",
         "a": "113"
       },
-      "subtraktion": {
+      "pink": {
         "q": "920 − 548 = ?",
         "a": "372"
       },
-      "multiplikation": {
+      "yellow": {
         "q": "9 × 11 = ?",
         "a": "99"
       },
-      "division": {
+      "green": {
         "q": "960 ÷ 12 = ?",
         "a": "80"
       },
@@ -3154,26 +3154,26 @@
         "q": "Hur många sekunder går det på 15 minuter?",
         "a": "900"
       },
-      "kreativ": {
+      "orange": {
         "q": "Gör 14 + 12 tåhävningar",
         "a": "26 tåhävningar genomförda"
       }
     },
     {
       "level": 2,
-      "addition": {
+      "blue": {
         "q": "83 + 62 = ?",
         "a": "145"
       },
-      "subtraktion": {
+      "pink": {
         "q": "705 − 236 = ?",
         "a": "469"
       },
-      "multiplikation": {
+      "yellow": {
         "q": "11 × 7 = ?",
         "a": "77"
       },
-      "division": {
+      "green": {
         "q": "1 008 ÷ 12 = ?",
         "a": "84"
       },
@@ -3181,26 +3181,26 @@
         "q": "Ställ klockan på 09:05",
         "a": "Fråga någon som vet om ditt svar stämmer"
       },
-      "kreativ": {
+      "orange": {
         "q": "Rita två sätt att visa talet 20 med bilder",
         "a": "Fråga någon som vet om det stämmer"
       }
     },
     {
       "level": 2,
-      "addition": {
+      "blue": {
         "q": "78 + 49 = ?",
         "a": "127"
       },
-      "subtraktion": {
+      "pink": {
         "q": "1 000 − 642 = ?",
         "a": "358"
       },
-      "multiplikation": {
+      "yellow": {
         "q": "14 × 5 = ?",
         "a": "70"
       },
-      "division": {
+      "green": {
         "q": "1 260 ÷ 14 = ?",
         "a": "90"
       },
@@ -3208,26 +3208,26 @@
         "q": "Hur många minuter är det från 00:50 till 01:30?",
         "a": "40"
       },
-      "kreativ": {
+      "orange": {
         "q": "Gör 18 + 7 situps",
         "a": "25 situps genomförda"
       }
     },
     {
       "level": 2,
-      "addition": {
+      "blue": {
         "q": "66 + 66 = ?",
         "a": "132"
       },
-      "subtraktion": {
+      "pink": {
         "q": "875 − 419 = ?",
         "a": "456"
       },
-      "multiplikation": {
+      "yellow": {
         "q": "13 × 6 = ?",
         "a": "78"
       },
-      "division": {
+      "green": {
         "q": "1 008 ÷ 16 = ?",
         "a": "63"
       },
@@ -3235,26 +3235,26 @@
         "q": "Ställ klockan på 16:55",
         "a": "Fråga någon som vet om ditt svar stämmer"
       },
-      "kreativ": {
+      "orange": {
         "q": "Rita ett upprepat mönster B-A-A-B",
         "a": "Fråga någon som vet om det stämmer"
       }
     },
     {
       "level": 2,
-      "addition": {
+      "blue": {
         "q": "59 + 88 = ?",
         "a": "147"
       },
-      "subtraktion": {
+      "pink": {
         "q": "930 − 471 = ?",
         "a": "459"
       },
-      "multiplikation": {
+      "yellow": {
         "q": "12 × 9 = ?",
         "a": "108"
       },
-      "division": {
+      "green": {
         "q": "1 050 ÷ 21 = ?",
         "a": "50"
       },
@@ -3262,26 +3262,26 @@
         "q": "Hur många minuter går det på 2 dygn?",
         "a": "2880"
       },
-      "kreativ": {
+      "orange": {
         "q": "Gör 9 + 17 upphopp",
         "a": "26 upphopp genomförda"
       }
     },
     {
       "level": 2,
-      "addition": {
+      "blue": {
         "q": "87 + 28 = ?",
         "a": "115"
       },
-      "subtraktion": {
+      "pink": {
         "q": "760 − 389 = ?",
         "a": "371"
       },
-      "multiplikation": {
+      "yellow": {
         "q": "10 × 15 = ?",
         "a": "150"
       },
-      "division": {
+      "green": {
         "q": "1 188 ÷ 11 = ?",
         "a": "108"
       },
@@ -3289,26 +3289,26 @@
         "q": "Ställ klockan på 07:25",
         "a": "Fråga någon som vet om ditt svar stämmer"
       },
-      "kreativ": {
+      "orange": {
         "q": "Rita en pentagon och en cirkel",
         "a": "⬠ ◯"
       }
     },
     {
       "level": 2,
-      "addition": {
+      "blue": {
         "q": "99 + 33 = ?",
         "a": "132"
       },
-      "subtraktion": {
+      "pink": {
         "q": "888 − 299 = ?",
         "a": "589"
       },
-      "multiplikation": {
+      "yellow": {
         "q": "9 × 10 = ?",
         "a": "90"
       },
-      "division": {
+      "green": {
         "q": "864 ÷ 12 = ?",
         "a": "72"
       },
@@ -3316,26 +3316,26 @@
         "q": "Hur många sekunder går det på 20 minuter?",
         "a": "1200"
       },
-      "kreativ": {
+      "orange": {
         "q": "Gör 20 + 5 tåhävningar",
         "a": "25 tåhävningar genomförda"
       }
     },
     {
       "level": 2,
-      "addition": {
+      "blue": {
         "q": "82 + 44 = ?",
         "a": "126"
       },
-      "subtraktion": {
+      "pink": {
         "q": "945 − 478 = ?",
         "a": "467"
       },
-      "multiplikation": {
+      "yellow": {
         "q": "15 × 11 = ?",
         "a": "165"
       },
-      "division": {
+      "green": {
         "q": "1 050 ÷ 10 = ?",
         "a": "105"
       },
@@ -3343,26 +3343,26 @@
         "q": "Ställ klockan på 11:40",
         "a": "Fråga någon som vet om ditt svar stämmer"
       },
-      "kreativ": {
+      "orange": {
         "q": "Rita en sexhörning och markera en sida",
         "a": "Fråga någon som vet om det stämmer"
       }
     },
     {
       "level": 2,
-      "addition": {
+      "blue": {
         "q": "73 + 35 = ?",
         "a": "108"
       },
-      "subtraktion": {
+      "pink": {
         "q": "999 − 612 = ?",
         "a": "387"
       },
-      "multiplikation": {
+      "yellow": {
         "q": "14 × 4 = ?",
         "a": "56"
       },
-      "division": {
+      "green": {
         "q": "924 ÷ 7 = ?",
         "a": "132"
       },
@@ -3370,26 +3370,26 @@
         "q": "Vad är klockan 9 minuter före 18:00?",
         "a": "17:51"
       },
-      "kreativ": {
+      "orange": {
         "q": "Gör 17 + 9 situps",
         "a": "26 situps genomförda"
       }
     },
     {
       "level": 3,
-      "addition": {
+      "blue": {
         "q": "512 + 389 = ?",
         "a": "901"
       },
-      "subtraktion": {
+      "pink": {
         "q": "1500 − 736 = ?",
         "a": "764"
       },
-      "multiplikation": {
+      "yellow": {
         "q": "17 × 19 = ?",
         "a": "323"
       },
-      "division": {
+      "green": {
         "q": "756 ÷ 18 = ?",
         "a": "42"
       },
@@ -3397,26 +3397,26 @@
         "q": "Ställ klockan på 06:20",
         "a": "Fråga någon som vet om ditt svar stämmer"
       },
-      "kreativ": {
+      "orange": {
         "q": "Rita en hexagon",
         "a": "⬣"
       }
     },
     {
       "level": 3,
-      "addition": {
+      "blue": {
         "q": "678 + 245 = ?",
         "a": "923"
       },
-      "subtraktion": {
+      "pink": {
         "q": "980 − 467 = ?",
         "a": "513"
       },
-      "multiplikation": {
+      "yellow": {
         "q": "24 × 17 = ?",
         "a": "408"
       },
-      "division": {
+      "green": {
         "q": "630 ÷ 9 = ?",
         "a": "70"
       },
@@ -3424,26 +3424,26 @@
         "q": "Hur många minuter går det på 12 timmar?",
         "a": "720"
       },
-      "kreativ": {
+      "orange": {
         "q": "Gör 18 + 14 armhävningar",
         "a": "32 armhävningar genomförda"
       }
     },
     {
       "level": 3,
-      "addition": {
+      "blue": {
         "q": "436 + 567 = ?",
         "a": "1003"
       },
-      "subtraktion": {
+      "pink": {
         "q": "1200 − 815 = ?",
         "a": "385"
       },
-      "multiplikation": {
+      "yellow": {
         "q": "13 × 18 = ?",
         "a": "234"
       },
-      "division": {
+      "green": {
         "q": "864 ÷ 16 = ?",
         "a": "54"
       },
@@ -3451,26 +3451,26 @@
         "q": "Vad är klockan 37 minuter efter 09:23?",
         "a": "10:00"
       },
-      "kreativ": {
+      "orange": {
         "q": "Rita en cirkel",
         "a": "◯"
       }
     },
     {
       "level": 3,
-      "addition": {
+      "blue": {
         "q": "754 + 189 = ?",
         "a": "943"
       },
-      "subtraktion": {
+      "pink": {
         "q": "875 − 439 = ?",
         "a": "436"
       },
-      "multiplikation": {
+      "yellow": {
         "q": "16 × 15 = ?",
         "a": "240"
       },
-      "division": {
+      "green": {
         "q": "672 ÷ 14 = ?",
         "a": "48"
       },
@@ -3478,26 +3478,26 @@
         "q": "Hur många sekunder är 5 minuter och 45 sekunder?",
         "a": "345"
       },
-      "kreativ": {
+      "orange": {
         "q": "Rita en kvadrat",
         "a": "□"
       }
     },
     {
       "level": 3,
-      "addition": {
+      "blue": {
         "q": "325 + 488 = ?",
         "a": "813"
       },
-      "subtraktion": {
+      "pink": {
         "q": "1400 − 599 = ?",
         "a": "801"
       },
-      "multiplikation": {
+      "yellow": {
         "q": "22 × 11 = ?",
         "a": "242"
       },
-      "division": {
+      "green": {
         "q": "990 ÷ 9 = ?",
         "a": "110"
       },
@@ -3505,26 +3505,26 @@
         "q": "Hur många minuter är det från 13:40 till 15:05?",
         "a": "85"
       },
-      "kreativ": {
+      "orange": {
         "q": "Gör 20 + 15 benböj",
         "a": "35 benböj genomförda"
       }
     },
     {
       "level": 3,
-      "addition": {
+      "blue": {
         "q": "907 + 86 = ?",
         "a": "993"
       },
-      "subtraktion": {
+      "pink": {
         "q": "725 − 389 = ?",
         "a": "336"
       },
-      "multiplikation": {
+      "yellow": {
         "q": "27 × 12 = ?",
         "a": "324"
       },
-      "division": {
+      "green": {
         "q": "924 ÷ 22 = ?",
         "a": "42"
       },
@@ -3532,26 +3532,26 @@
         "q": "Ställ klockan på 17:35",
         "a": "Fråga någon som vet om ditt svar stämmer"
       },
-      "kreativ": {
+      "orange": {
         "q": "Rita en romb",
         "a": "◇"
       }
     },
     {
       "level": 3,
-      "addition": {
+      "blue": {
         "q": "640 + 375 = ?",
         "a": "1015"
       },
-      "subtraktion": {
+      "pink": {
         "q": "2000 − 1234 = ?",
         "a": "766"
       },
-      "multiplikation": {
+      "yellow": {
         "q": "18 × 18 = ?",
         "a": "324"
       },
-      "division": {
+      "green": {
         "q": "1280 ÷ 16 = ?",
         "a": "80"
       },
@@ -3559,26 +3559,26 @@
         "q": "Vad är klockan 28 minuter före 18:10?",
         "a": "17:42"
       },
-      "kreativ": {
+      "orange": {
         "q": "Rita en rektangel",
         "a": "▭"
       }
     },
     {
       "level": 3,
-      "addition": {
+      "blue": {
         "q": "298 + 703 = ?",
         "a": "1001"
       },
-      "subtraktion": {
+      "pink": {
         "q": "1600 − 955 = ?",
         "a": "645"
       },
-      "multiplikation": {
+      "yellow": {
         "q": "14 × 14 = ?",
         "a": "196"
       },
-      "division": {
+      "green": {
         "q": "1872 ÷ 24 = ?",
         "a": "78"
       },
@@ -3586,26 +3586,26 @@
         "q": "Hur många minuter går det på 1 och en halv timme?",
         "a": "90"
       },
-      "kreativ": {
+      "orange": {
         "q": "Gör 22 + 9 situps",
         "a": "31 situps genomförda"
       }
     },
     {
       "level": 3,
-      "addition": {
+      "blue": {
         "q": "456 + 544 = ?",
         "a": "1000"
       },
-      "subtraktion": {
+      "pink": {
         "q": "1300 − 777 = ?",
         "a": "523"
       },
-      "multiplikation": {
+      "yellow": {
         "q": "21 × 12 = ?",
         "a": "252"
       },
-      "division": {
+      "green": {
         "q": "1540 ÷ 22 = ?",
         "a": "70"
       },
@@ -3613,26 +3613,26 @@
         "q": "Hur många sekunder går det på 9 minuter?",
         "a": "540"
       },
-      "kreativ": {
+      "orange": {
         "q": "Rita en stjärna",
         "a": "☆"
       }
     },
     {
       "level": 3,
-      "addition": {
+      "blue": {
         "q": "812 + 199 = ?",
         "a": "1011"
       },
-      "subtraktion": {
+      "pink": {
         "q": "1450 − 688 = ?",
         "a": "762"
       },
-      "multiplikation": {
+      "yellow": {
         "q": "25 × 16 = ?",
         "a": "400"
       },
-      "division": {
+      "green": {
         "q": "1350 ÷ 15 = ?",
         "a": "90"
       },
@@ -3640,26 +3640,26 @@
         "q": "Ställ klockan på 23:10",
         "a": "Fråga någon som vet om ditt svar stämmer"
       },
-      "kreativ": {
+      "orange": {
         "q": "Rita ett parallellogram",
         "a": "▱"
       }
     },
     {
       "level": 3,
-      "addition": {
+      "blue": {
         "q": "693 + 208 = ?",
         "a": "901"
       },
-      "subtraktion": {
+      "pink": {
         "q": "1725 − 849 = ?",
         "a": "876"
       },
-      "multiplikation": {
+      "yellow": {
         "q": "19 × 13 = ?",
         "a": "247"
       },
-      "division": {
+      "green": {
         "q": "2310 ÷ 21 = ?",
         "a": "110"
       },
@@ -3667,26 +3667,26 @@
         "q": "Hur många minuter är det från 07:25 till 08:10?",
         "a": "45"
       },
-      "kreativ": {
+      "orange": {
         "q": "Rita en pentagon",
         "a": "⬠"
       }
     },
     {
       "level": 3,
-      "addition": {
+      "blue": {
         "q": "577 + 326 = ?",
         "a": "903"
       },
-      "subtraktion": {
+      "pink": {
         "q": "1670 − 942 = ?",
         "a": "728"
       },
-      "multiplikation": {
+      "yellow": {
         "q": "23 × 11 = ?",
         "a": "253"
       },
-      "division": {
+      "green": {
         "q": "1768 ÷ 8 = ?",
         "a": "221"
       },
@@ -3694,26 +3694,26 @@
         "q": "Vad är klockan 50 minuter efter 05:10?",
         "a": "06:00"
       },
-      "kreativ": {
+      "orange": {
         "q": "Gör 18 + 17 upphopp",
         "a": "35 upphopp genomförda"
       }
     },
     {
       "level": 3,
-      "addition": {
+      "blue": {
         "q": "468 + 554 = ?",
         "a": "1022"
       },
-      "subtraktion": {
+      "pink": {
         "q": "1390 − 628 = ?",
         "a": "762"
       },
-      "multiplikation": {
+      "yellow": {
         "q": "26 × 14 = ?",
         "a": "364"
       },
-      "division": {
+      "green": {
         "q": "2016 ÷ 14 = ?",
         "a": "144"
       },
@@ -3721,26 +3721,26 @@
         "q": "Hur många sekunder är 12 minuter och 20 sekunder?",
         "a": "740"
       },
-      "kreativ": {
+      "orange": {
         "q": "Rita en kvadrat och en cirkel",
         "a": "□ ◯"
       }
     },
     {
       "level": 3,
-      "addition": {
+      "blue": {
         "q": "725 + 318 = ?",
         "a": "1043"
       },
-      "subtraktion": {
+      "pink": {
         "q": "2100 − 1257 = ?",
         "a": "843"
       },
-      "multiplikation": {
+      "yellow": {
         "q": "18 × 17 = ?",
         "a": "306"
       },
-      "division": {
+      "green": {
         "q": "1785 ÷ 15 = ?",
         "a": "119"
       },
@@ -3748,26 +3748,26 @@
         "q": "Ställ klockan på 04:45",
         "a": "Fråga någon som vet om ditt svar stämmer"
       },
-      "kreativ": {
+      "orange": {
         "q": "Rita en triangel",
         "a": "△"
       }
     },
     {
       "level": 3,
-      "addition": {
+      "blue": {
         "q": "689 + 412 = ?",
         "a": "1101"
       },
-      "subtraktion": {
+      "pink": {
         "q": "1560 − 684 = ?",
         "a": "876"
       },
-      "multiplikation": {
+      "yellow": {
         "q": "28 × 12 = ?",
         "a": "336"
       },
-      "division": {
+      "green": {
         "q": "1456 ÷ 13 = ?",
         "a": "112"
       },
@@ -3775,26 +3775,26 @@
         "q": "Hur många minuter går det på 2 dygn?",
         "a": "2880"
       },
-      "kreativ": {
+      "orange": {
         "q": "Gör 25 + 8 tåhävningar",
         "a": "33 tåhävningar genomförda"
       }
     },
     {
       "level": 3,
-      "addition": {
+      "blue": {
         "q": "845 + 257 = ?",
         "a": "1102"
       },
-      "subtraktion": {
+      "pink": {
         "q": "1900 − 1045 = ?",
         "a": "855"
       },
-      "multiplikation": {
+      "yellow": {
         "q": "29 × 11 = ?",
         "a": "319"
       },
-      "division": {
+      "green": {
         "q": "2880 ÷ 24 = ?",
         "a": "120"
       },
@@ -3802,26 +3802,26 @@
         "q": "Vad är klockan 65 minuter före 13:30?",
         "a": "12:25"
       },
-      "kreativ": {
+      "orange": {
         "q": "Rita en romb och en triangel",
         "a": "◇ △"
       }
     },
     {
       "level": 3,
-      "addition": {
+      "blue": {
         "q": "903 + 198 = ?",
         "a": "1101"
       },
-      "subtraktion": {
+      "pink": {
         "q": "1750 − 927 = ?",
         "a": "823"
       },
-      "multiplikation": {
+      "yellow": {
         "q": "24 × 15 = ?",
         "a": "360"
       },
-      "division": {
+      "green": {
         "q": "2145 ÷ 11 = ?",
         "a": "195"
       },
@@ -3829,26 +3829,26 @@
         "q": "Hur många sekunder går det på 1 timme?",
         "a": "3600"
       },
-      "kreativ": {
+      "orange": {
         "q": "Rita en rektangel och en kvadrat",
         "a": "▭ □"
       }
     },
     {
       "level": 3,
-      "addition": {
+      "blue": {
         "q": "764 + 349 = ?",
         "a": "1113"
       },
-      "subtraktion": {
+      "pink": {
         "q": "2200 − 1427 = ?",
         "a": "773"
       },
-      "multiplikation": {
+      "yellow": {
         "q": "31 × 14 = ?",
         "a": "434"
       },
-      "division": {
+      "green": {
         "q": "2070 ÷ 18 = ?",
         "a": "115"
       },
@@ -3856,26 +3856,26 @@
         "q": "Ställ klockan på 12:35",
         "a": "Fråga någon som vet om ditt svar stämmer"
       },
-      "kreativ": {
+      "orange": {
         "q": "Gör 16 + 19 upphopp",
         "a": "35 upphopp genomförda"
       }
     },
     {
       "level": 3,
-      "addition": {
+      "blue": {
         "q": "577 + 548 = ?",
         "a": "1125"
       },
-      "subtraktion": {
+      "pink": {
         "q": "2050 − 1276 = ?",
         "a": "774"
       },
-      "multiplikation": {
+      "yellow": {
         "q": "27 × 13 = ?",
         "a": "351"
       },
-      "division": {
+      "green": {
         "q": "2520 ÷ 14 = ?",
         "a": "180"
       },
@@ -3883,26 +3883,26 @@
         "q": "Vad är klockan 75 minuter efter 21:10?",
         "a": "22:25"
       },
-      "kreativ": {
+      "orange": {
         "q": "Rita en pentagon och en romb",
         "a": "⬠ ◇"
       }
     },
     {
       "level": 3,
-      "addition": {
+      "blue": {
         "q": "915 + 210 = ?",
         "a": "1125"
       },
-      "subtraktion": {
+      "pink": {
         "q": "2400 − 1688 = ?",
         "a": "712"
       },
-      "multiplikation": {
+      "yellow": {
         "q": "32 × 15 = ?",
         "a": "480"
       },
-      "division": {
+      "green": {
         "q": "2700 ÷ 18 = ?",
         "a": "150"
       },
@@ -3910,26 +3910,26 @@
         "q": "Hur många minuter är det från 05:42 till 06:30?",
         "a": "48"
       },
-      "kreativ": {
+      "orange": {
         "q": "Rita en cirkel och markera en radie",
         "a": "Fråga någon som vet om det stämmer"
       }
     },
     {
       "level": 3,
-      "addition": {
+      "blue": {
         "q": "688 + 438 = ?",
         "a": "1126"
       },
-      "subtraktion": {
+      "pink": {
         "q": "1780 − 1024 = ?",
         "a": "756"
       },
-      "multiplikation": {
+      "yellow": {
         "q": "33 × 12 = ?",
         "a": "396"
       },
-      "division": {
+      "green": {
         "q": "3360 ÷ 28 = ?",
         "a": "120"
       },
@@ -3937,26 +3937,26 @@
         "q": "Ställ klockan på 02:20",
         "a": "Fråga någon som vet om ditt svar stämmer"
       },
-      "kreativ": {
+      "orange": {
         "q": "Gör 21 + 14 situps",
         "a": "35 situps genomförda"
       }
     },
     {
       "level": 3,
-      "addition": {
+      "blue": {
         "q": "793 + 334 = ?",
         "a": "1127"
       },
-      "subtraktion": {
+      "pink": {
         "q": "2310 − 1278 = ?",
         "a": "1032"
       },
-      "multiplikation": {
+      "yellow": {
         "q": "34 × 11 = ?",
         "a": "374"
       },
-      "division": {
+      "green": {
         "q": "1890 ÷ 9 = ?",
         "a": "210"
       },
@@ -3964,26 +3964,26 @@
         "q": "Hur många sekunder är 7 minuter och 35 sekunder?",
         "a": "455"
       },
-      "kreativ": {
+      "orange": {
         "q": "Rita en kvadrat och en triangel",
         "a": "□ △"
       }
     },
     {
       "level": 3,
-      "addition": {
+      "blue": {
         "q": "934 + 196 = ?",
         "a": "1130"
       },
-      "subtraktion": {
+      "pink": {
         "q": "1505 − 688 = ?",
         "a": "817"
       },
-      "multiplikation": {
+      "yellow": {
         "q": "29 × 13 = ?",
         "a": "377"
       },
-      "division": {
+      "green": {
         "q": "2640 ÷ 11 = ?",
         "a": "240"
       },
@@ -3991,26 +3991,26 @@
         "q": "Vad är klockan 90 minuter före 18:30?",
         "a": "17:00"
       },
-      "kreativ": {
+      "orange": {
         "q": "Rita en stjärna och en cirkel",
         "a": "☆ ◯"
       }
     },
     {
       "level": 3,
-      "addition": {
+      "blue": {
         "q": "865 + 268 = ?",
         "a": "1133"
       },
-      "subtraktion": {
+      "pink": {
         "q": "2600 − 1742 = ?",
         "a": "858"
       },
-      "multiplikation": {
+      "yellow": {
         "q": "35 × 14 = ?",
         "a": "490"
       },
-      "division": {
+      "green": {
         "q": "2100 ÷ 25 = ?",
         "a": "84"
       },
@@ -4018,26 +4018,26 @@
         "q": "Ställ klockan på 18:25",
         "a": "Fråga någon som vet om ditt svar stämmer"
       },
-      "kreativ": {
+      "orange": {
         "q": "Gör 19 + 16 upphopp",
         "a": "35 upphopp genomförda"
       }
     },
     {
       "level": 3,
-      "addition": {
+      "blue": {
         "q": "744 + 390 = ?",
         "a": "1134"
       },
-      "subtraktion": {
+      "pink": {
         "q": "1740 − 986 = ?",
         "a": "754"
       },
-      "multiplikation": {
+      "yellow": {
         "q": "36 × 13 = ?",
         "a": "468"
       },
-      "division": {
+      "green": {
         "q": "3300 ÷ 22 = ?",
         "a": "150"
       },
@@ -4045,26 +4045,26 @@
         "q": "Hur många minuter går det på 3 dygn?",
         "a": "4320"
       },
-      "kreativ": {
+      "orange": {
         "q": "Rita en parallellogram och en romb",
         "a": "▱ ◇"
       }
     },
     {
       "level": 3,
-      "addition": {
+      "blue": {
         "q": "592 + 544 = ?",
         "a": "1136"
       },
-      "subtraktion": {
+      "pink": {
         "q": "2205 − 1096 = ?",
         "a": "1109"
       },
-      "multiplikation": {
+      "yellow": {
         "q": "37 × 12 = ?",
         "a": "444"
       },
-      "division": {
+      "green": {
         "q": "3528 ÷ 21 = ?",
         "a": "168"
       },
@@ -4072,26 +4072,26 @@
         "q": "Vad är klockan 25 minuter efter 22:50?",
         "a": "23:15"
       },
-      "kreativ": {
+      "orange": {
         "q": "Rita en hexagon och en kvadrat",
         "a": "⬣ □"
       }
     },
     {
       "level": 3,
-      "addition": {
+      "blue": {
         "q": "799 + 338 = ?",
         "a": "1137"
       },
-      "subtraktion": {
+      "pink": {
         "q": "1880 − 947 = ?",
         "a": "933"
       },
-      "multiplikation": {
+      "yellow": {
         "q": "38 × 11 = ?",
         "a": "418"
       },
-      "division": {
+      "green": {
         "q": "2736 ÷ 16 = ?",
         "a": "171"
       },
@@ -4099,26 +4099,26 @@
         "q": "Ställ klockan på 09:05",
         "a": "Fråga någon som vet om ditt svar stämmer"
       },
-      "kreativ": {
+      "orange": {
         "q": "Gör 18 + 17 situps",
         "a": "35 situps genomförda"
       }
     },
     {
       "level": 3,
-      "addition": {
+      "blue": {
         "q": "671 + 468 = ?",
         "a": "1139"
       },
-      "subtraktion": {
+      "pink": {
         "q": "1950 − 818 = ?",
         "a": "1132"
       },
-      "multiplikation": {
+      "yellow": {
         "q": "39 × 12 = ?",
         "a": "468"
       },
-      "division": {
+      "green": {
         "q": "1440 ÷ 9 = ?",
         "a": "160"
       },
@@ -4126,26 +4126,26 @@
         "q": "Hur många sekunder går det på 2 timmar och 5 minuter?",
         "a": "7500"
       },
-      "kreativ": {
+      "orange": {
         "q": "Rita en cirkel och en romb",
         "a": "◯ ◇"
       }
     },
     {
       "level": 3,
-      "addition": {
+      "blue": {
         "q": "948 + 192 = ?",
         "a": "1140"
       },
-      "subtraktion": {
+      "pink": {
         "q": "2100 − 989 = ?",
         "a": "1111"
       },
-      "multiplikation": {
+      "yellow": {
         "q": "28 × 19 = ?",
         "a": "532"
       },
-      "division": {
+      "green": {
         "q": "2176 ÷ 17 = ?",
         "a": "128"
       },
@@ -4153,26 +4153,26 @@
         "q": "Vad är klockan 40 minuter före 00:30?",
         "a": "23:50"
       },
-      "kreativ": {
+      "orange": {
         "q": "Rita en triangel och en parallellogram",
         "a": "△ ▱"
       }
     },
     {
       "level": 3,
-      "addition": {
+      "blue": {
         "q": "675 + 466 = ?",
         "a": "1141"
       },
-      "subtraktion": {
+      "pink": {
         "q": "2400 − 1257 = ?",
         "a": "1143"
       },
-      "multiplikation": {
+      "yellow": {
         "q": "27 × 16 = ?",
         "a": "432"
       },
-      "division": {
+      "green": {
         "q": "3024 ÷ 21 = ?",
         "a": "144"
       },
@@ -4180,26 +4180,26 @@
         "q": "Ställ klockan på 15:55",
         "a": "Fråga någon som vet om ditt svar stämmer"
       },
-      "kreativ": {
+      "orange": {
         "q": "Gör 17 + 18 upphopp",
         "a": "35 upphopp genomförda"
       }
     },
     {
       "level": 3,
-      "addition": {
+      "blue": {
         "q": "719 + 423 = ?",
         "a": "1142"
       },
-      "subtraktion": {
+      "pink": {
         "q": "2250 − 1107 = ?",
         "a": "1143"
       },
-      "multiplikation": {
+      "yellow": {
         "q": "26 × 17 = ?",
         "a": "442"
       },
-      "division": {
+      "green": {
         "q": "3960 ÷ 22 = ?",
         "a": "180"
       },
@@ -4207,26 +4207,26 @@
         "q": "Hur många minuter är det från 16:35 till 18:00?",
         "a": "85"
       },
-      "kreativ": {
+      "orange": {
         "q": "Rita en kvadrat och en pentagon",
         "a": "□ ⬠"
       }
     },
     {
       "level": 3,
-      "addition": {
+      "blue": {
         "q": "594 + 549 = ?",
         "a": "1143"
       },
-      "subtraktion": {
+      "pink": {
         "q": "2600 − 1457 = ?",
         "a": "1143"
       },
-      "multiplikation": {
+      "yellow": {
         "q": "25 × 19 = ?",
         "a": "475"
       },
-      "division": {
+      "green": {
         "q": "3600 ÷ 24 = ?",
         "a": "150"
       },
@@ -4234,26 +4234,26 @@
         "q": "Vad är klockan 95 minuter efter 20:50?",
         "a": "22:25"
       },
-      "kreativ": {
+      "orange": {
         "q": "Rita en stjärna och en kvadrat",
         "a": "☆ □"
       }
     },
     {
       "level": 3,
-      "addition": {
+      "blue": {
         "q": "568 + 576 = ?",
         "a": "1144"
       },
-      "subtraktion": {
+      "pink": {
         "q": "2750 − 1606 = ?",
         "a": "1144"
       },
-      "multiplikation": {
+      "yellow": {
         "q": "24 × 18 = ?",
         "a": "432"
       },
-      "division": {
+      "green": {
         "q": "2280 ÷ 15 = ?",
         "a": "152"
       },
@@ -4261,26 +4261,26 @@
         "q": "Ställ klockan på 10:50",
         "a": "Fråga någon som vet om ditt svar stämmer"
       },
-      "kreativ": {
+      "orange": {
         "q": "Gör 12 + 23 planka (sekunder)",
         "a": "35 sekunder genomförda"
       }
     },
     {
       "level": 3,
-      "addition": {
+      "blue": {
         "q": "588 + 557 = ?",
         "a": "1145"
       },
-      "subtraktion": {
+      "pink": {
         "q": "2900 − 1755 = ?",
         "a": "1145"
       },
-      "multiplikation": {
+      "yellow": {
         "q": "23 × 19 = ?",
         "a": "437"
       },
-      "division": {
+      "green": {
         "q": "4200 ÷ 28 = ?",
         "a": "150"
       },
@@ -4288,26 +4288,26 @@
         "q": "Hur många sekunder är 10 minuter och 30 sekunder?",
         "a": "630"
       },
-      "kreativ": {
+      "orange": {
         "q": "Rita en cirkel och en parallellogram",
         "a": "◯ ▱"
       }
     },
     {
       "level": 3,
-      "addition": {
+      "blue": {
         "q": "714 + 432 = ?",
         "a": "1146"
       },
-      "subtraktion": {
+      "pink": {
         "q": "3050 − 1904 = ?",
         "a": "1146"
       },
-      "multiplikation": {
+      "yellow": {
         "q": "22 × 18 = ?",
         "a": "396"
       },
-      "division": {
+      "green": {
         "q": "3420 ÷ 19 = ?",
         "a": "180"
       },
@@ -4315,26 +4315,26 @@
         "q": "Vad är klockan 125 minuter före 14:05?",
         "a": "12:00"
       },
-      "kreativ": {
+      "orange": {
         "q": "Rita en romb och en cirkel",
         "a": "◇ ◯"
       }
     },
     {
       "level": 3,
-      "addition": {
+      "blue": {
         "q": "733 + 414 = ?",
         "a": "1147"
       },
-      "subtraktion": {
+      "pink": {
         "q": "3200 − 2053 = ?",
         "a": "1147"
       },
-      "multiplikation": {
+      "yellow": {
         "q": "21 × 19 = ?",
         "a": "399"
       },
-      "division": {
+      "green": {
         "q": "5400 ÷ 30 = ?",
         "a": "180"
       },
@@ -4342,26 +4342,26 @@
         "q": "Ställ klockan på 05:15",
         "a": "Fråga någon som vet om ditt svar stämmer"
       },
-      "kreativ": {
+      "orange": {
         "q": "Gör 17 + 18 situps",
         "a": "35 situps genomförda"
       }
     },
     {
       "level": 3,
-      "addition": {
+      "blue": {
         "q": "566 + 582 = ?",
         "a": "1148"
       },
-      "subtraktion": {
+      "pink": {
         "q": "3350 − 2202 = ?",
         "a": "1148"
       },
-      "multiplikation": {
+      "yellow": {
         "q": "34 × 17 = ?",
         "a": "578"
       },
-      "division": {
+      "green": {
         "q": "2880 ÷ 18 = ?",
         "a": "160"
       },
@@ -4369,26 +4369,26 @@
         "q": "Hur många minuter går det på 5 timmar och 20 minuter?",
         "a": "320"
       },
-      "kreativ": {
+      "orange": {
         "q": "Rita en kvadrat och en rektangel",
         "a": "□ ▭"
       }
     },
     {
       "level": 3,
-      "addition": {
+      "blue": {
         "q": "579 + 570 = ?",
         "a": "1149"
       },
-      "subtraktion": {
+      "pink": {
         "q": "3500 − 2351 = ?",
         "a": "1149"
       },
-      "multiplikation": {
+      "yellow": {
         "q": "33 × 15 = ?",
         "a": "495"
       },
-      "division": {
+      "green": {
         "q": "5040 ÷ 28 = ?",
         "a": "180"
       },
@@ -4396,26 +4396,26 @@
         "q": "Vad är klockan 155 minuter efter 09:25?",
         "a": "12:00"
       },
-      "kreativ": {
+      "orange": {
         "q": "Rita en hexagon och en triangel",
         "a": "⬣ △"
       }
     },
     {
       "level": 3,
-      "addition": {
+      "blue": {
         "q": "574 + 576 = ?",
         "a": "1150"
       },
-      "subtraktion": {
+      "pink": {
         "q": "3650 − 2500 = ?",
         "a": "1150"
       },
-      "multiplikation": {
+      "yellow": {
         "q": "32 × 18 = ?",
         "a": "576"
       },
-      "division": {
+      "green": {
         "q": "2880 ÷ 24 = ?",
         "a": "120"
       },
@@ -4423,26 +4423,26 @@
         "q": "Ställ klockan på 21:50",
         "a": "Fråga någon som vet om ditt svar stämmer"
       },
-      "kreativ": {
+      "orange": {
         "q": "Gör 22 + 13 upphopp",
         "a": "35 upphopp genomförda"
       }
     },
     {
       "level": 3,
-      "addition": {
+      "blue": {
         "q": "583 + 568 = ?",
         "a": "1151"
       },
-      "subtraktion": {
+      "pink": {
         "q": "3800 − 2649 = ?",
         "a": "1151"
       },
-      "multiplikation": {
+      "yellow": {
         "q": "31 × 16 = ?",
         "a": "496"
       },
-      "division": {
+      "green": {
         "q": "4320 ÷ 24 = ?",
         "a": "180"
       },
@@ -4450,26 +4450,26 @@
         "q": "Hur många sekunder går det på 3 timmar?",
         "a": "10800"
       },
-      "kreativ": {
+      "orange": {
         "q": "Rita en cirkel och tre strålar ut från mitten",
         "a": "Fråga någon som vet om det stämmer"
       }
     },
     {
       "level": 3,
-      "addition": {
+      "blue": {
         "q": "596 + 556 = ?",
         "a": "1152"
       },
-      "subtraktion": {
+      "pink": {
         "q": "3950 − 2798 = ?",
         "a": "1152"
       },
-      "multiplikation": {
+      "yellow": {
         "q": "30 × 16 = ?",
         "a": "480"
       },
-      "division": {
+      "green": {
         "q": "3240 ÷ 18 = ?",
         "a": "180"
       },
@@ -4477,26 +4477,26 @@
         "q": "Ställ klockan på 00:40",
         "a": "Fråga någon som vet om ditt svar stämmer"
       },
-      "kreativ": {
+      "orange": {
         "q": "Gör 12 + 23 tåhävningar",
         "a": "35 tåhävningar genomförda"
       }
     },
     {
       "level": 3,
-      "addition": {
+      "blue": {
         "q": "577 + 576 = ?",
         "a": "1153"
       },
-      "subtraktion": {
+      "pink": {
         "q": "4100 − 2947 = ?",
         "a": "1153"
       },
-      "multiplikation": {
+      "yellow": {
         "q": "29 × 16 = ?",
         "a": "464"
       },
-      "division": {
+      "green": {
         "q": "3600 ÷ 20 = ?",
         "a": "180"
       },
@@ -4504,26 +4504,26 @@
         "q": "Vad är klockan 85 minuter före 05:25?",
         "a": "04:00"
       },
-      "kreativ": {
+      "orange": {
         "q": "Rita en kvadrat och tre diagonaler",
         "a": "Fråga någon som vet om det stämmer"
       }
     },
     {
       "level": 3,
-      "addition": {
+      "blue": {
         "q": "571 + 583 = ?",
         "a": "1154"
       },
-      "subtraktion": {
+      "pink": {
         "q": "4250 − 3096 = ?",
         "a": "1154"
       },
-      "multiplikation": {
+      "yellow": {
         "q": "28 × 16 = ?",
         "a": "448"
       },
-      "division": {
+      "green": {
         "q": "2520 ÷ 14 = ?",
         "a": "180"
       },
@@ -4531,26 +4531,26 @@
         "q": "Hur många minuter går det på 6 timmar och 15 minuter?",
         "a": "375"
       },
-      "kreativ": {
+      "orange": {
         "q": "Rita en stjärna och en parallellogram",
         "a": "☆ ▱"
       }
     },
     {
       "level": 3,
-      "addition": {
+      "blue": {
         "q": "568 + 587 = ?",
         "a": "1155"
       },
-      "subtraktion": {
+      "pink": {
         "q": "4400 − 3245 = ?",
         "a": "1155"
       },
-      "multiplikation": {
+      "yellow": {
         "q": "27 × 18 = ?",
         "a": "486"
       },
-      "division": {
+      "green": {
         "q": "2160 ÷ 12 = ?",
         "a": "180"
       },
@@ -4558,26 +4558,26 @@
         "q": "Ställ klockan på 08:10",
         "a": "Fråga någon som vet om ditt svar stämmer"
       },
-      "kreativ": {
+      "orange": {
         "q": "Gör 20 + 15 situps",
         "a": "35 situps genomförda"
       }
     },
     {
       "level": 3,
-      "addition": {
+      "blue": {
         "q": "559 + 597 = ?",
         "a": "1156"
       },
-      "subtraktion": {
+      "pink": {
         "q": "4550 − 3394 = ?",
         "a": "1156"
       },
-      "multiplikation": {
+      "yellow": {
         "q": "26 × 18 = ?",
         "a": "468"
       },
-      "division": {
+      "green": {
         "q": "1980 ÷ 11 = ?",
         "a": "180"
       },
@@ -4585,26 +4585,26 @@
         "q": "Vad är klockan 200 minuter efter 20:40?",
         "a": "00:00"
       },
-      "kreativ": {
+      "orange": {
         "q": "Rita en hexagon och markera två sidor",
         "a": "⬣"
       }
     },
     {
       "level": 3,
-      "addition": {
+      "blue": {
         "q": "548 + 609 = ?",
         "a": "1157"
       },
-      "subtraktion": {
+      "pink": {
         "q": "4700 − 3543 = ?",
         "a": "1157"
       },
-      "multiplikation": {
+      "yellow": {
         "q": "25 × 18 = ?",
         "a": "450"
       },
-      "division": {
+      "green": {
         "q": "3600 ÷ 20 = ?",
         "a": "180"
       },
@@ -4612,26 +4612,26 @@
         "q": "Hur många sekunder är 15 minuter och 30 sekunder?",
         "a": "930"
       },
-      "kreativ": {
+      "orange": {
         "q": "Rita en cirkel och en kvadrat",
         "a": "◯ □"
       }
     },
     {
       "level": 3,
-      "addition": {
+      "blue": {
         "q": "612 + 549 = ?",
         "a": "1161"
       },
-      "subtraktion": {
+      "pink": {
         "q": "4800 − 3641 = ?",
         "a": "1159"
       },
-      "multiplikation": {
+      "yellow": {
         "q": "24 × 21 = ?",
         "a": "504"
       },
-      "division": {
+      "green": {
         "q": "3240 ÷ 18 = ?",
         "a": "180"
       },
@@ -4639,26 +4639,26 @@
         "q": "Ställ klockan på 14:25",
         "a": "Fråga någon som vet om ditt svar stämmer"
       },
-      "kreativ": {
+      "orange": {
         "q": "Gör 22 + 13 armhävningar",
         "a": "35 armhävningar genomförda"
       }
     },
     {
       "level": 3,
-      "addition": {
+      "blue": {
         "q": "735 + 427 = ?",
         "a": "1162"
       },
-      "subtraktion": {
+      "pink": {
         "q": "4975 − 3813 = ?",
         "a": "1162"
       },
-      "multiplikation": {
+      "yellow": {
         "q": "27 × 17 = ?",
         "a": "459"
       },
-      "division": {
+      "green": {
         "q": "2070 ÷ 9 = ?",
         "a": "230"
       },
@@ -4666,26 +4666,26 @@
         "q": "Hur många minuter går det på 7 timmar och 40 minuter?",
         "a": "460"
       },
-      "kreativ": {
+      "orange": {
         "q": "Rita en cirkel och två diagonaler i en kvadrat",
         "a": "Fråga någon som vet om det stämmer"
       }
     },
     {
       "level": 3,
-      "addition": {
+      "blue": {
         "q": "594 + 569 = ?",
         "a": "1163"
       },
-      "subtraktion": {
+      "pink": {
         "q": "5120 − 3957 = ?",
         "a": "1163"
       },
-      "multiplikation": {
+      "yellow": {
         "q": "23 × 22 = ?",
         "a": "506"
       },
-      "division": {
+      "green": {
         "q": "4140 ÷ 18 = ?",
         "a": "230"
       },
@@ -4693,26 +4693,26 @@
         "q": "Vad är klockan 55 minuter före 09:50?",
         "a": "08:55"
       },
-      "kreativ": {
+      "orange": {
         "q": "Gör 18 + 17 benböj",
         "a": "35 benböj genomförda"
       }
     },
     {
       "level": 3,
-      "addition": {
+      "blue": {
         "q": "821 + 343 = ?",
         "a": "1164"
       },
-      "subtraktion": {
+      "pink": {
         "q": "4200 − 3036 = ?",
         "a": "1164"
       },
-      "multiplikation": {
+      "yellow": {
         "q": "28 × 18 = ?",
         "a": "504"
       },
-      "division": {
+      "green": {
         "q": "2530 ÷ 11 = ?",
         "a": "230"
       },
@@ -4720,26 +4720,26 @@
         "q": "Ställ klockan på 05:40",
         "a": "Fråga någon som vet om ditt svar stämmer"
       },
-      "kreativ": {
+      "orange": {
         "q": "Rita en kvadrat och markera en diagonal",
         "a": "Fråga någon som vet om det stämmer"
       }
     },
     {
       "level": 3,
-      "addition": {
+      "blue": {
         "q": "577 + 588 = ?",
         "a": "1165"
       },
-      "subtraktion": {
+      "pink": {
         "q": "5395 − 4230 = ?",
         "a": "1165"
       },
-      "multiplikation": {
+      "yellow": {
         "q": "35 × 14 = ?",
         "a": "490"
       },
-      "division": {
+      "green": {
         "q": "2760 ÷ 12 = ?",
         "a": "230"
       },
@@ -4747,26 +4747,26 @@
         "q": "Hur många sekunder går det på 12 minuter och 50 sekunder?",
         "a": "770"
       },
-      "kreativ": {
+      "orange": {
         "q": "Gör 19 + 16 situps",
         "a": "35 situps genomförda"
       }
     },
     {
       "level": 3,
-      "addition": {
+      "blue": {
         "q": "948 + 218 = ?",
         "a": "1166"
       },
-      "subtraktion": {
+      "pink": {
         "q": "6000 − 4834 = ?",
         "a": "1166"
       },
-      "multiplikation": {
+      "yellow": {
         "q": "29 × 17 = ?",
         "a": "493"
       },
-      "division": {
+      "green": {
         "q": "5060 ÷ 22 = ?",
         "a": "230"
       },
@@ -4774,26 +4774,26 @@
         "q": "Ställ klockan på 00:15",
         "a": "Fråga någon som vet om ditt svar stämmer"
       },
-      "kreativ": {
+      "orange": {
         "q": "Rita en romb och markera två diagonaler",
         "a": "◇"
       }
     },
     {
       "level": 3,
-      "addition": {
+      "blue": {
         "q": "589 + 578 = ?",
         "a": "1167"
       },
-      "subtraktion": {
+      "pink": {
         "q": "6700 − 5533 = ?",
         "a": "1167"
       },
-      "multiplikation": {
+      "yellow": {
         "q": "31 × 13 = ?",
         "a": "403"
       },
-      "division": {
+      "green": {
         "q": "4140 ÷ 18 = ?",
         "a": "230"
       },
@@ -4801,26 +4801,26 @@
         "q": "Hur många minuter är det från 22:35 till 23:50?",
         "a": "75"
       },
-      "kreativ": {
+      "orange": {
         "q": "Gör 20 + 15 tåhävningar",
         "a": "35 tåhävningar genomförda"
       }
     },
     {
       "level": 3,
-      "addition": {
+      "blue": {
         "q": "773 + 395 = ?",
         "a": "1168"
       },
-      "subtraktion": {
+      "pink": {
         "q": "6900 − 5732 = ?",
         "a": "1168"
       },
-      "multiplikation": {
+      "yellow": {
         "q": "27 × 19 = ?",
         "a": "513"
       },
-      "division": {
+      "green": {
         "q": "2760 ÷ 12 = ?",
         "a": "230"
       },
@@ -4828,26 +4828,26 @@
         "q": "Ställ klockan på 11:35",
         "a": "Fråga någon som vet om ditt svar stämmer"
       },
-      "kreativ": {
+      "orange": {
         "q": "Rita tre former som tillsammans visar talet 18",
         "a": "Fråga någon som vet om det stämmer"
       }
     },
     {
       "level": 3,
-      "addition": {
+      "blue": {
         "q": "639 + 530 = ?",
         "a": "1169"
       },
-      "subtraktion": {
+      "pink": {
         "q": "7150 − 5981 = ?",
         "a": "1169"
       },
-      "multiplikation": {
+      "yellow": {
         "q": "22 × 23 = ?",
         "a": "506"
       },
-      "division": {
+      "green": {
         "q": "2990 ÷ 13 = ?",
         "a": "230"
       },
@@ -4855,26 +4855,26 @@
         "q": "Hur många sekunder går det på 18 minuter?",
         "a": "1080"
       },
-      "kreativ": {
+      "orange": {
         "q": "Gör 16 + 19 upphopp",
         "a": "35 upphopp genomförda"
       }
     },
     {
       "level": 3,
-      "addition": {
+      "blue": {
         "q": "752 + 418 = ?",
         "a": "1170"
       },
-      "subtraktion": {
+      "pink": {
         "q": "7310 − 6140 = ?",
         "a": "1170"
       },
-      "multiplikation": {
+      "yellow": {
         "q": "18 × 26 = ?",
         "a": "468"
       },
-      "division": {
+      "green": {
         "q": "5060 ÷ 22 = ?",
         "a": "230"
       },
@@ -4882,26 +4882,26 @@
         "q": "‘Kvart över två’ – hur visas det på dagen och natten på en digital klocka?",
         "a": "Fråga någon som vet om ditt svar stämmer"
       },
-      "kreativ": {
+      "orange": {
         "q": "Rita en pentagon och markera en sida",
         "a": "⬠"
       }
     },
     {
       "level": 3,
-      "addition": {
+      "blue": {
         "q": "592 + 579 = ?",
         "a": "1171"
       },
-      "subtraktion": {
+      "pink": {
         "q": "7450 − 6279 = ?",
         "a": "1171"
       },
-      "multiplikation": {
+      "yellow": {
         "q": "21 × 19 = ?",
         "a": "399"
       },
-      "division": {
+      "green": {
         "q": "2760 ÷ 12 = ?",
         "a": "230"
       },
@@ -4909,26 +4909,26 @@
         "q": "Hur många minuter går det på 9 timmar och 31 minuter?",
         "a": "571"
       },
-      "kreativ": {
+      "orange": {
         "q": "Gör 14 + 21 sekunder väggsitt",
         "a": "35 sekunder genomförda"
       }
     },
     {
       "level": 3,
-      "addition": {
+      "blue": {
         "q": "955 + 217 = ?",
         "a": "1172"
       },
-      "subtraktion": {
+      "pink": {
         "q": "7800 − 6628 = ?",
         "a": "1172"
       },
-      "multiplikation": {
+      "yellow": {
         "q": "32 × 14 = ?",
         "a": "448"
       },
-      "division": {
+      "green": {
         "q": "4600 ÷ 20 = ?",
         "a": "230"
       },
@@ -4936,26 +4936,26 @@
         "q": "Ställ klockan på 04:05",
         "a": "Fråga någon som vet om ditt svar stämmer"
       },
-      "kreativ": {
+      "orange": {
         "q": "Rita en hexagon och markera två hörn",
         "a": "⬣"
       }
     },
     {
       "level": 3,
-      "addition": {
+      "blue": {
         "q": "594 + 579 = ?",
         "a": "1173"
       },
-      "subtraktion": {
+      "pink": {
         "q": "7920 − 6747 = ?",
         "a": "1173"
       },
-      "multiplikation": {
+      "yellow": {
         "q": "33 × 13 = ?",
         "a": "429"
       },
-      "division": {
+      "green": {
         "q": "5060 ÷ 22 = ?",
         "a": "230"
       },
@@ -4963,26 +4963,26 @@
         "q": "Hur många sekunder är 4 minuter och 35 sekunder?",
         "a": "275"
       },
-      "kreativ": {
+      "orange": {
         "q": "Gör 3 + 15 upphopp",
         "a": "18 upphopp genomförda"
       }
     },
     {
       "level": 3,
-      "addition": {
+      "blue": {
         "q": "886 + 288 = ?",
         "a": "1174"
       },
-      "subtraktion": {
+      "pink": {
         "q": "8100 − 6926 = ?",
         "a": "1174"
       },
-      "multiplikation": {
+      "yellow": {
         "q": "34 × 12 = ?",
         "a": "408"
       },
-      "division": {
+      "green": {
         "q": "4140 ÷ 18 = ?",
         "a": "230"
       },
@@ -4990,26 +4990,26 @@
         "q": "Ställ klockan på 13:50",
         "a": "Fråga någon som vet om ditt svar stämmer"
       },
-      "kreativ": {
+      "orange": {
         "q": "Rita en parallellogram och markera en höjd",
         "a": "▱"
       }
     },
     {
       "level": 3,
-      "addition": {
+      "blue": {
         "q": "596 + 579 = ?",
         "a": "1175"
       },
-      "subtraktion": {
+      "pink": {
         "q": "8250 − 7075 = ?",
         "a": "1175"
       },
-      "multiplikation": {
+      "yellow": {
         "q": "26 × 19 = ?",
         "a": "494"
       },
-      "division": {
+      "green": {
         "q": "2530 ÷ 11 = ?",
         "a": "230"
       },
@@ -5017,26 +5017,26 @@
         "q": "Hur många minuter är det från 03:25 till 04:40?",
         "a": "75"
       },
-      "kreativ": {
+      "orange": {
         "q": "Gör 21 + 14 situps",
         "a": "35 situps genomförda"
       }
     },
     {
       "level": 3,
-      "addition": {
+      "blue": {
         "q": "978 + 198 = ?",
         "a": "1176"
       },
-      "subtraktion": {
+      "pink": {
         "q": "8400 − 7224 = ?",
         "a": "1176"
       },
-      "multiplikation": {
+      "yellow": {
         "q": "28 × 21 = ?",
         "a": "588"
       },
-      "division": {
+      "green": {
         "q": "5060 ÷ 22 = ?",
         "a": "230"
       },
@@ -5044,26 +5044,26 @@
         "q": "Ställ klockan på 21:10",
         "a": "Fråga någon som vet om ditt svar stämmer"
       },
-      "kreativ": {
+      "orange": {
         "q": "Rita en kvadrat och en hexagon",
         "a": "□ ⬣"
       }
     },
     {
       "level": 3,
-      "addition": {
+      "blue": {
         "q": "597 + 580 = ?",
         "a": "1177"
       },
-      "subtraktion": {
+      "pink": {
         "q": "8560 − 7383 = ?",
         "a": "1177"
       },
-      "multiplikation": {
+      "yellow": {
         "q": "25 × 23 = ?",
         "a": "575"
       },
-      "division": {
+      "green": {
         "q": "4600 ÷ 20 = ?",
         "a": "230"
       },
@@ -5071,26 +5071,26 @@
         "q": "Hur många sekunder går det på 25 minuter?",
         "a": "1500"
       },
-      "kreativ": {
+      "orange": {
         "q": "Gör 18 + 17 upphopp",
         "a": "35 upphopp genomförda"
       }
     },
     {
       "level": 3,
-      "addition": {
+      "blue": {
         "q": "771 + 407 = ?",
         "a": "1178"
       },
-      "subtraktion": {
+      "pink": {
         "q": "8700 − 7522 = ?",
         "a": "1178"
       },
-      "multiplikation": {
+      "yellow": {
         "q": "24 × 19 = ?",
         "a": "456"
       },
-      "division": {
+      "green": {
         "q": "2990 ÷ 13 = ?",
         "a": "230"
       },
@@ -5098,26 +5098,26 @@
         "q": "Ställ klockan på 08:45",
         "a": "Fråga någon som vet om ditt svar stämmer"
       },
-      "kreativ": {
+      "orange": {
         "q": "Rita två olika figurer som båda har 4 hörn",
         "a": "Fråga någon som vet om det stämmer"
       }
     },
     {
       "level": 3,
-      "addition": {
+      "blue": {
         "q": "598 + 580 = ?",
         "a": "1178"
       },
-      "subtraktion": {
+      "pink": {
         "q": "8850 − 7671 = ?",
         "a": "1179"
       },
-      "multiplikation": {
+      "yellow": {
         "q": "36 × 14 = ?",
         "a": "504"
       },
-      "division": {
+      "green": {
         "q": "3450 ÷ 15 = ?",
         "a": "230"
       },
@@ -5125,26 +5125,26 @@
         "q": "Hur många minuter går det på 4 timmar och 50 minuter?",
         "a": "290"
       },
-      "kreativ": {
+      "orange": {
         "q": "Gör 14 + 21 sekunder planka",
         "a": "35 sekunder genomförda"
       }
     },
     {
       "level": 3,
-      "addition": {
+      "blue": {
         "q": "999 + 180 = ?",
         "a": "1179"
       },
-      "subtraktion": {
+      "pink": {
         "q": "9020 − 7841 = ?",
         "a": "1179"
       },
-      "multiplikation": {
+      "yellow": {
         "q": "22 × 24 = ?",
         "a": "528"
       },
-      "division": {
+      "green": {
         "q": "2530 ÷ 11 = ?",
         "a": "230"
       },
@@ -5152,26 +5152,26 @@
         "q": "Ställ klockan på 03:35",
         "a": "Fråga någon som vet om ditt svar stämmer"
       },
-      "kreativ": {
+      "orange": {
         "q": "Rita en stjärna och markera ett hörn",
         "a": "☆"
       }
     },
     {
       "level": 3,
-      "addition": {
+      "blue": {
         "q": "599 + 581 = ?",
         "a": "1180"
       },
-      "subtraktion": {
+      "pink": {
         "q": "9200 − 8020 = ?",
         "a": "1180"
       },
-      "multiplikation": {
+      "yellow": {
         "q": "34 × 15 = ?",
         "a": "510"
       },
-      "division": {
+      "green": {
         "q": "4140 ÷ 18 = ?",
         "a": "230"
       },
@@ -5179,26 +5179,26 @@
         "q": "Hur många sekunder är 11 minuter och 40 sekunder?",
         "a": "700"
       },
-      "kreativ": {
+      "orange": {
         "q": "Gör 20 + 15 situps",
         "a": "35 situps genomförda"
       }
     },
     {
       "level": 3,
-      "addition": {
+      "blue": {
         "q": "600 + 581 = ?",
         "a": "1181"
       },
-      "subtraktion": {
+      "pink": {
         "q": "9405 − 8224 = ?",
         "a": "1181"
       },
-      "multiplikation": {
+      "yellow": {
         "q": "33 × 16 = ?",
         "a": "528"
       },
-      "division": {
+      "green": {
         "q": "4600 ÷ 20 = ?",
         "a": "230"
       },
@@ -5206,26 +5206,26 @@
         "q": "Ställ klockan på 18:50",
         "a": "Fråga någon som vet om ditt svar stämmer"
       },
-      "kreativ": {
+      "orange": {
         "q": "Rita en cirkel och markera diameter",
         "a": "Fråga någon som vet om det stämmer"
       }
     },
     {
       "level": 3,
-      "addition": {
+      "blue": {
         "q": "601 + 581 = ?",
         "a": "1182"
       },
-      "subtraktion": {
+      "pink": {
         "q": "9550 − 8368 = ?",
         "a": "1182"
       },
-      "multiplikation": {
+      "yellow": {
         "q": "29 × 18 = ?",
         "a": "522"
       },
-      "division": {
+      "green": {
         "q": "2990 ÷ 13 = ?",
         "a": "230"
       },
@@ -5233,26 +5233,26 @@
         "q": "Hur många minuter är det från 23:40 till 00:35?",
         "a": "55"
       },
-      "kreativ": {
+      "orange": {
         "q": "Gör 22 + 13 upphopp",
         "a": "35 upphopp genomförda"
       }
     },
     {
       "level": 3,
-      "addition": {
+      "blue": {
         "q": "602 + 581 = ?",
         "a": "1183"
       },
-      "subtraktion": {
+      "pink": {
         "q": "9720 − 8537 = ?",
         "a": "1183"
       },
-      "multiplikation": {
+      "yellow": {
         "q": "28 × 17 = ?",
         "a": "476"
       },
-      "division": {
+      "green": {
         "q": "4600 ÷ 20 = ?",
         "a": "230"
       },
@@ -5260,26 +5260,26 @@
         "q": "Ställ klockan på 07:20",
         "a": "Fråga någon som vet om ditt svar stämmer"
       },
-      "kreativ": {
+      "orange": {
         "q": "Rita en kvadrat och markera en sida",
         "a": "□"
       }
     },
     {
       "level": 3,
-      "addition": {
+      "blue": {
         "q": "603 + 581 = ?",
         "a": "1184"
       },
-      "subtraktion": {
+      "pink": {
         "q": "9895 − 8711 = ?",
         "a": "1184"
       },
-      "multiplikation": {
+      "yellow": {
         "q": "27 × 17 = ?",
         "a": "459"
       },
-      "division": {
+      "green": {
         "q": "5060 ÷ 22 = ?",
         "a": "230"
       },
@@ -5287,26 +5287,26 @@
         "q": "Hur många sekunder går det på 6 timmar?",
         "a": "21600"
       },
-      "kreativ": {
+      "orange": {
         "q": "Gör 18 + 17 tåhävningar",
         "a": "35 tåhävningar genomförda"
       }
     },
     {
       "level": 3,
-      "addition": {
+      "blue": {
         "q": "604 + 581 = ?",
         "a": "1185"
       },
-      "subtraktion": {
+      "pink": {
         "q": "10 050 − 8870 = ?",
         "a": "1180"
       },
-      "multiplikation": {
+      "yellow": {
         "q": "26 × 16 = ?",
         "a": "416"
       },
-      "division": {
+      "green": {
         "q": "4140 ÷ 18 = ?",
         "a": "230"
       },
@@ -5314,26 +5314,26 @@
         "q": "Ställ klockan på 16:45",
         "a": "Fråga någon som vet om ditt svar stämmer"
       },
-      "kreativ": {
+      "orange": {
         "q": "Rita en romb och markera ett hörn",
         "a": "◇"
       }
     },
     {
       "level": 3,
-      "addition": {
+      "blue": {
         "q": "605 + 581 = ?",
         "a": "1186"
       },
-      "subtraktion": {
+      "pink": {
         "q": "10 200 − 9014 = ?",
         "a": "1186"
       },
-      "multiplikation": {
+      "yellow": {
         "q": "25 × 21 = ?",
         "a": "525"
       },
-      "division": {
+      "green": {
         "q": "2990 ÷ 13 = ?",
         "a": "230"
       },
@@ -5341,26 +5341,26 @@
         "q": "Hur många minuter går det på 10 timmar och 30 minuter?",
         "a": "630"
       },
-      "kreativ": {
+      "orange": {
         "q": "Gör 14 + 21 sekunder balans på ett ben",
         "a": "35 sekunder genomförda"
       }
     },
     {
       "level": 3,
-      "addition": {
+      "blue": {
         "q": "606 + 581 = ?",
         "a": "1187"
       },
-      "subtraktion": {
+      "pink": {
         "q": "10 365 − 9178 = ?",
         "a": "1187"
       },
-      "multiplikation": {
+      "yellow": {
         "q": "24 × 22 = ?",
         "a": "528"
       },
-      "division": {
+      "green": {
         "q": "4600 ÷ 20 = ?",
         "a": "230"
       },
@@ -5368,26 +5368,26 @@
         "q": "Ställ klockan på 09:25",
         "a": "Fråga någon som vet om ditt svar stämmer"
       },
-      "kreativ": {
+      "orange": {
         "q": "Rita en cirkel och en triangel",
         "a": "◯ △"
       }
     },
     {
       "level": 3,
-      "addition": {
+      "blue": {
         "q": "607 + 581 = ?",
         "a": "1188"
       },
-      "subtraktion": {
+      "pink": {
         "q": "10 520 − 9329 = ?",
         "a": "1191"
       },
-      "multiplikation": {
+      "yellow": {
         "q": "23 × 23 = ?",
         "a": "529"
       },
-      "division": {
+      "green": {
         "q": "5060 ÷ 22 = ?",
         "a": "230"
       },
@@ -5395,26 +5395,26 @@
         "q": "Hur många sekunder är 9 minuter och 25 sekunder?",
         "a": "565"
       },
-      "kreativ": {
+      "orange": {
         "q": "Gör 20 + 15 utfall",
         "a": "35 utfall genomförda"
       }
     },
     {
       "level": 3,
-      "addition": {
+      "blue": {
         "q": "608 + 581 = ?",
         "a": "1189"
       },
-      "subtraktion": {
+      "pink": {
         "q": "10 680 − 9491 = ?",
         "a": "1189"
       },
-      "multiplikation": {
+      "yellow": {
         "q": "22 × 24 = ?",
         "a": "528"
       },
-      "division": {
+      "green": {
         "q": "2530 ÷ 11 = ?",
         "a": "230"
       },
@@ -5422,26 +5422,26 @@
         "q": "Ställ klockan på 12:05",
         "a": "Fråga någon som vet om ditt svar stämmer"
       },
-      "kreativ": {
+      "orange": {
         "q": "Rita en stjärna och en romb",
         "a": "☆ ◇"
       }
     },
     {
       "level": 3,
-      "addition": {
+      "blue": {
         "q": "609 + 581 = ?",
         "a": "1190"
       },
-      "subtraktion": {
+      "pink": {
         "q": "10 830 − 9640 = ?",
         "a": "1190"
       },
-      "multiplikation": {
+      "yellow": {
         "q": "21 × 25 = ?",
         "a": "525"
       },
-      "division": {
+      "green": {
         "q": "4140 ÷ 18 = ?",
         "a": "230"
       },
@@ -5449,26 +5449,26 @@
         "q": "Hur många minuter är det från 10:48 till 12:00?",
         "a": "72"
       },
-      "kreativ": {
+      "orange": {
         "q": "Gör 18 + 17 planka (sekunder)",
         "a": "35 sekunder genomförda"
       }
     },
     {
       "level": 3,
-      "addition": {
+      "blue": {
         "q": "610 + 581 = ?",
         "a": "1191"
       },
-      "subtraktion": {
+      "pink": {
         "q": "10 990 − 9799 = ?",
         "a": "1191"
       },
-      "multiplikation": {
+      "yellow": {
         "q": "20 × 26 = ?",
         "a": "520"
       },
-      "division": {
+      "green": {
         "q": "2990 ÷ 13 = ?",
         "a": "230"
       },
@@ -5476,26 +5476,26 @@
         "q": "Ställ klockan på 22:35",
         "a": "Fråga någon som vet om ditt svar stämmer"
       },
-      "kreativ": {
+      "orange": {
         "q": "Rita en pentagon och en parallellogram",
         "a": "⬠ ▱"
       }
     },
     {
       "level": 3,
-      "addition": {
+      "blue": {
         "q": "611 + 581 = ?",
         "a": "1192"
       },
-      "subtraktion": {
+      "pink": {
         "q": "11 140 − 9948 = ?",
         "a": "1192"
       },
-      "multiplikation": {
+      "yellow": {
         "q": "19 × 27 = ?",
         "a": "513"
       },
-      "division": {
+      "green": {
         "q": "4600 ÷ 20 = ?",
         "a": "230"
       },
@@ -5503,26 +5503,26 @@
         "q": "Hur många sekunder går det på 45 minuter?",
         "a": "2700"
       },
-      "kreativ": {
+      "orange": {
         "q": "Gör 21 + 14 upphopp",
         "a": "35 upphopp genomförda"
       }
     },
     {
       "level": 3,
-      "addition": {
+      "blue": {
         "q": "612 + 581 = ?",
         "a": "1193"
       },
-      "subtraktion": {
+      "pink": {
         "q": "11 300 − 10 107 = ?",
         "a": "1193"
       },
-      "multiplikation": {
+      "yellow": {
         "q": "18 × 28 = ?",
         "a": "504"
       },
-      "division": {
+      "green": {
         "q": "5060 ÷ 22 = ?",
         "a": "230"
       },
@@ -5530,26 +5530,26 @@
         "q": "Ställ klockan på 01:10",
         "a": "Fråga någon som vet om ditt svar stämmer"
       },
-      "kreativ": {
+      "orange": {
         "q": "Rita en kvadrat och en cirkel",
         "a": "□ ◯"
       }
     },
     {
       "level": 3,
-      "addition": {
+      "blue": {
         "q": "613 + 581 = ?",
         "a": "1194"
       },
-      "subtraktion": {
+      "pink": {
         "q": "11 430 − 10 236 = ?",
         "a": "1194"
       },
-      "multiplikation": {
+      "yellow": {
         "q": "17 × 29 = ?",
         "a": "493"
       },
-      "division": {
+      "green": {
         "q": "4140 ÷ 18 = ?",
         "a": "230"
       },
@@ -5557,26 +5557,26 @@
         "q": "Hur många minuter går det på 13 timmar och 5 minuter?",
         "a": "785"
       },
-      "kreativ": {
+      "orange": {
         "q": "Gör 14 + 21 sekunder hopprep (luft)",
         "a": "35 sekunder genomförda"
       }
     },
     {
       "level": 3,
-      "addition": {
+      "blue": {
         "q": "614 + 581 = ?",
         "a": "1195"
       },
-      "subtraktion": {
+      "pink": {
         "q": "11 580 − 10 385 = ?",
         "a": "1195"
       },
-      "multiplikation": {
+      "yellow": {
         "q": "16 × 31 = ?",
         "a": "496"
       },
-      "division": {
+      "green": {
         "q": "2530 ÷ 11 = ?",
         "a": "230"
       },
@@ -5584,26 +5584,26 @@
         "q": "Ställ klockan på 10:15",
         "a": "Fråga någon som vet om ditt svar stämmer"
       },
-      "kreativ": {
+      "orange": {
         "q": "Rita en hexagon och en triangel",
         "a": "⬣ △"
       }
     },
     {
       "level": 3,
-      "addition": {
+      "blue": {
         "q": "615 + 581 = ?",
         "a": "1196"
       },
-      "subtraktion": {
+      "pink": {
         "q": "11 740 − 10 544 = ?",
         "a": "1196"
       },
-      "multiplikation": {
+      "yellow": {
         "q": "15 × 33 = ?",
         "a": "495"
       },
-      "division": {
+      "green": {
         "q": "2990 ÷ 13 = ?",
         "a": "230"
       },
@@ -5611,26 +5611,26 @@
         "q": "Hur många sekunder är 13 minuter och 20 sekunder?",
         "a": "800"
       },
-      "kreativ": {
+      "orange": {
         "q": "Gör 20 + 15 benböj",
         "a": "35 benböj genomförda"
       }
     },
     {
       "level": 3,
-      "addition": {
+      "blue": {
         "q": "616 + 581 = ?",
         "a": "1197"
       },
-      "subtraktion": {
+      "pink": {
         "q": "11 900 − 10 703 = ?",
         "a": "1197"
       },
-      "multiplikation": {
+      "yellow": {
         "q": "14 × 36 = ?",
         "a": "504"
       },
-      "division": {
+      "green": {
         "q": "4600 ÷ 20 = ?",
         "a": "230"
       },
@@ -5638,26 +5638,26 @@
         "q": "Ställ klockan på 19:55",
         "a": "Fråga någon som vet om ditt svar stämmer"
       },
-      "kreativ": {
+      "orange": {
         "q": "Rita en parallellogram och en kvadrat",
         "a": "▱ □"
       }
     },
     {
       "level": 3,
-      "addition": {
+      "blue": {
         "q": "617 + 581 = ?",
         "a": "1198"
       },
-      "subtraktion": {
+      "pink": {
         "q": "12 060 − 10 862 = ?",
         "a": "1198"
       },
-      "multiplikation": {
+      "yellow": {
         "q": "13 × 38 = ?",
         "a": "494"
       },
-      "division": {
+      "green": {
         "q": "5060 ÷ 22 = ?",
         "a": "230"
       },
@@ -5665,26 +5665,26 @@
         "q": "Hur många minuter är det från 06:22 till 07:35?",
         "a": "73"
       },
-      "kreativ": {
+      "orange": {
         "q": "Gör 22 + 13 situps",
         "a": "35 situps genomförda"
       }
     },
     {
       "level": 3,
-      "addition": {
+      "blue": {
         "q": "618 + 581 = ?",
         "a": "1199"
       },
-      "subtraktion": {
+      "pink": {
         "q": "12 220 − 11 021 = ?",
         "a": "1199"
       },
-      "multiplikation": {
+      "yellow": {
         "q": "12 × 42 = ?",
         "a": "504"
       },
-      "division": {
+      "green": {
         "q": "2530 ÷ 11 = ?",
         "a": "230"
       },
@@ -5692,26 +5692,26 @@
         "q": "Ställ klockan på 02:55",
         "a": "Fråga någon som vet om ditt svar stämmer"
       },
-      "kreativ": {
+      "orange": {
         "q": "Rita en cirkel och två parallella linjer",
         "a": "Fråga någon som vet om det stämmer"
       }
     },
     {
       "level": 3,
-      "addition": {
+      "blue": {
         "q": "620 + 580 = ?",
         "a": "1200"
       },
-      "subtraktion": {
+      "pink": {
         "q": "12 380 − 11 180 = ?",
         "a": "1200"
       },
-      "multiplikation": {
+      "yellow": {
         "q": "30 × 40 = ?",
         "a": "1200"
       },
-      "division": {
+      "green": {
         "q": "2760 ÷ 12 = ?",
         "a": "230"
       },
@@ -5719,26 +5719,26 @@
         "q": "‘Kvart i sju’ – hur visas det på dagen och natten på en digital klocka?",
         "a": "Fråga någon som vet om ditt svar stämmer"
       },
-      "kreativ": {
+      "orange": {
         "q": "Gör 17 + 18 tåhävningar",
         "a": "35 tåhävningar genomförda"
       }
     },
     {
       "level": 3,
-      "addition": {
+      "blue": {
         "q": "621 + 580 = ?",
         "a": "1201"
       },
-      "subtraktion": {
+      "pink": {
         "q": "12 540 − 11 339 = ?",
         "a": "1201"
       },
-      "multiplikation": {
+      "yellow": {
         "q": "29 × 19 = ?",
         "a": "551"
       },
-      "division": {
+      "green": {
         "q": "5060 ÷ 22 = ?",
         "a": "230"
       },
@@ -5746,26 +5746,26 @@
         "q": "Hur många sekunder är 10 minuter och 5 sekunder?",
         "a": "605"
       },
-      "kreativ": {
+      "orange": {
         "q": "Rita en parallellogram och markera två sidor",
         "a": "▱"
       }
     },
     {
       "level": 3,
-      "addition": {
+      "blue": {
         "q": "622 + 580 = ?",
         "a": "1202"
       },
-      "subtraktion": {
+      "pink": {
         "q": "12 700 − 11 498 = ?",
         "a": "1202"
       },
-      "multiplikation": {
+      "yellow": {
         "q": "31 × 18 = ?",
         "a": "558"
       },
-      "division": {
+      "green": {
         "q": "4600 ÷ 20 = ?",
         "a": "230"
       },
@@ -5773,26 +5773,26 @@
         "q": "Ställ klockan på 10:40",
         "a": "Fråga någon som vet om ditt svar stämmer"
       },
-      "kreativ": {
+      "orange": {
         "q": "Gör 21 + 14 planka (sekunder)",
         "a": "35 sekunder genomförda"
       }
     },
     {
       "level": 3,
-      "addition": {
+      "blue": {
         "q": "623 + 580 = ?",
         "a": "1203"
       },
-      "subtraktion": {
+      "pink": {
         "q": "12 860 − 11 657 = ?",
         "a": "1203"
       },
-      "multiplikation": {
+      "yellow": {
         "q": "33 × 17 = ?",
         "a": "561"
       },
-      "division": {
+      "green": {
         "q": "2990 ÷ 13 = ?",
         "a": "230"
       },
@@ -5800,26 +5800,26 @@
         "q": "Hur många minuter är det från 12:18 till 13:40?",
         "a": "82"
       },
-      "kreativ": {
+      "orange": {
         "q": "Rita en cirkel och tre linjer genom centrum",
         "a": "Fråga någon som vet om det stämmer"
       }
     },
     {
       "level": 3,
-      "addition": {
+      "blue": {
         "q": "624 + 580 = ?",
         "a": "1204"
       },
-      "subtraktion": {
+      "pink": {
         "q": "13 010 − 11 806 = ?",
         "a": "1204"
       },
-      "multiplikation": {
+      "yellow": {
         "q": "24 × 25 = ?",
         "a": "600"
       },
-      "division": {
+      "green": {
         "q": "2760 ÷ 12 = ?",
         "a": "230"
       },
@@ -5827,26 +5827,26 @@
         "q": "Ställ klockan på 02:05",
         "a": "Fråga någon som vet om ditt svar stämmer"
       },
-      "kreativ": {
+      "orange": {
         "q": "Gör 14 + 21 upphopp",
         "a": "35 upphopp genomförda"
       }
     },
     {
       "level": 3,
-      "addition": {
+      "blue": {
         "q": "625 + 580 = ?",
         "a": "1205"
       },
-      "subtraktion": {
+      "pink": {
         "q": "13 160 − 11 955 = ?",
         "a": "1205"
       },
-      "multiplikation": {
+      "yellow": {
         "q": "28 × 22 = ?",
         "a": "616"
       },
-      "division": {
+      "green": {
         "q": "5060 ÷ 22 = ?",
         "a": "230"
       },
@@ -5854,26 +5854,26 @@
         "q": "Hur många sekunder är 6 minuter och 40 sekunder?",
         "a": "400"
       },
-      "kreativ": {
+      "orange": {
         "q": "Rita ett mönster med triangel–kvadrat–triangel",
         "a": "△ □ △"
       }
     },
     {
       "level": 3,
-      "addition": {
+      "blue": {
         "q": "626 + 580 = ?",
         "a": "1206"
       },
-      "subtraktion": {
+      "pink": {
         "q": "13 335 − 12 129 = ?",
         "a": "1206"
       },
-      "multiplikation": {
+      "yellow": {
         "q": "27 × 23 = ?",
         "a": "621"
       },
-      "division": {
+      "green": {
         "q": "4140 ÷ 18 = ?",
         "a": "230"
       },
@@ -5881,26 +5881,26 @@
         "q": "Ställ klockan på 09:50",
         "a": "Fråga någon som vet om ditt svar stämmer"
       },
-      "kreativ": {
+      "orange": {
         "q": "Gör 20 + 15 situps",
         "a": "35 situps genomförda"
       }
     },
     {
       "level": 3,
-      "addition": {
+      "blue": {
         "q": "627 + 580 = ?",
         "a": "1207"
       },
-      "subtraktion": {
+      "pink": {
         "q": "13 500 − 12 293 = ?",
         "a": "1207"
       },
-      "multiplikation": {
+      "yellow": {
         "q": "22 × 28 = ?",
         "a": "616"
       },
-      "division": {
+      "green": {
         "q": "2990 ÷ 13 = ?",
         "a": "230"
       },
@@ -5908,26 +5908,26 @@
         "q": "Hur många minuter är det från 04:45 till 06:10?",
         "a": "85"
       },
-      "kreativ": {
+      "orange": {
         "q": "Rita en hexagon och tre markeringar runt kanten",
         "a": "⬣"
       }
     },
     {
       "level": 3,
-      "addition": {
+      "blue": {
         "q": "628 + 580 = ?",
         "a": "1208"
       },
-      "subtraktion": {
+      "pink": {
         "q": "13 680 − 12 472 = ?",
         "a": "1208"
       },
-      "multiplikation": {
+      "yellow": {
         "q": "31 × 20 = ?",
         "a": "620"
       },
-      "division": {
+      "green": {
         "q": "4600 ÷ 20 = ?",
         "a": "230"
       },
@@ -5935,26 +5935,26 @@
         "q": "Ställ klockan på 13:05",
         "a": "Fråga någon som vet om ditt svar stämmer"
       },
-      "kreativ": {
+      "orange": {
         "q": "Gör 16 + 19 planka (sekunder)",
         "a": "35 sekunder genomförda"
       }
     },
     {
       "level": 3,
-      "addition": {
+      "blue": {
         "q": "629 + 580 = ?",
         "a": "1209"
       },
-      "subtraktion": {
+      "pink": {
         "q": "13 860 − 12 651 = ?",
         "a": "1209"
       },
-      "multiplikation": {
+      "yellow": {
         "q": "26 × 24 = ?",
         "a": "624"
       },
-      "division": {
+      "green": {
         "q": "5060 ÷ 22 = ?",
         "a": "230"
       },
@@ -5962,26 +5962,26 @@
         "q": "Hur många sekunder är 16 minuter och 20 sekunder?",
         "a": "980"
       },
-      "kreativ": {
+      "orange": {
         "q": "Rita ett rutnät med 4×4 rutor",
         "a": "Fråga någon som vet om det stämmer"
       }
     },
     {
       "level": 3,
-      "addition": {
+      "blue": {
         "q": "630 + 580 = ?",
         "a": "1210"
       },
-      "subtraktion": {
+      "pink": {
         "q": "14 020 − 12 810 = ?",
         "a": "1210"
       },
-      "multiplikation": {
+      "yellow": {
         "q": "18 × 35 = ?",
         "a": "630"
       },
-      "division": {
+      "green": {
         "q": "2990 ÷ 13 = ?",
         "a": "230"
       },
@@ -5989,7 +5989,7 @@
         "q": "Ställ klockan på 03:30",
         "a": "Fråga någon som vet om ditt svar stämmer"
       },
-      "kreativ": {
+      "orange": {
         "q": "Gör 18 + 17 utfall",
         "a": "35 utfall genomförda"
       }
@@ -6420,5 +6420,339 @@
       "text": "Otursmagnet – du tappar 2 mynt.",
       "coins": -2
     }
+  ],
+  "english": [
+
+  {
+    "level": 1,
+    "blue": {
+      "q": "Vad betyder 'schedule' på svenska?",
+      "a": "schema"
+    },
+    "pink": {
+      "q": "Vad betyder 'schema' på engelska?",
+      "a": "schedule"
+    },
+    "yellow": {
+      "q": "Fyll i rätt form (am / is / are): I ___ happy.",
+      "a": "am"
+    },
+    "purple": {
+      "q": "Skriv en mening med 'music'.",
+      "a": "T.ex. 'I like music'"
+    },
+    "green": {
+      "q": "Vilken mening är rätt?\n1) He play football\n2) He plays football",
+      "a": "2"
+    },
+    "orange": {
+      "q": "Visa hur du ser ut när du är 'happy'.",
+      "a": "Fråga någon som vet om det stämmer."
+    }
+  },
+
+  {
+    "level": 1,
+    "blue": {
+      "q": "Vad betyder 'chemistry' på svenska?",
+      "a": "kemi"
+    },
+    "pink": {
+      "q": "Vad betyder 'kemi' på engelska?",
+      "a": "chemistry"
+    },
+    "yellow": {
+      "q": "Fyll i rätt (have / has): She ___ a book.",
+      "a": "has"
+    },
+    "purple": {
+      "q": "Stava till 'jag läser böcker' på engelska.",
+      "a": "I read books"
+    },
+    "green": {
+      "q": "Vilken är rätt?\n1) I has a cat\n2) I have a cat",
+      "a": "2"
+    },
+    "orange": {
+      "q": "Säg och skriv: 'jag har en bok', 'de har en penna' på engelska.",
+      "a": "'I have a book' och 'They have a pen'."
+    }
+  },
+
+  {
+    "level": 1,
+    "blue": {
+      "q": "Vad betyder 'physics' på svenska?",
+      "a": "fysik"
+    },
+    "pink": {
+      "q": "Vad betyder 'fysik' på engelska?",
+      "a": "physics"
+    },
+    "yellow": {
+      "q": "Fyll i rätt (is / are): It ___ a dog.",
+      "a": "is"
+    },
+    "purple": {
+      "q": "Stava till 'hon spelar fotboll' på engelska.",
+      "a": "She plays football"
+    },
+    "green": {
+      "q": "Vilken mening är rätt?\n1) It are big\n2) It is big",
+      "a": "2"
+    },
+    "orange": {
+      "q": "Spela charader: visa 'play football'.",
+      "a": "Fråga någon som vet om det stämmer."
+    }
+  },
+
+  {
+    "level": 1,
+    "blue": {
+      "q": "Vad betyder 'music' på svenska?",
+      "a": "musik"
+    },
+    "pink": {
+      "q": "Vad betyder 'listen to music' på svenska?",
+      "a": "lyssna på musik"
+    },
+    "yellow": {
+      "q": "Fyll i rätt: They ___ happy.",
+      "a": "are"
+    },
+    "purple": {
+      "q": "Skriv en mening med 'play video games'.",
+      "a": "T.ex. 'I play video games'"
+    },
+    "green": {
+      "q": "Vilken är rätt?\n1) She plays music\n2) She play music",
+      "a": "1"
+    },
+    "orange": {
+      "q": "Säg: 'hon gillar musik' på engelska.",
+      "a": "She likes music"
+    }
+  },
+
+  {
+    "level": 1,
+    "blue": {
+      "q": "Skriv siffrorna 1–12 på engelska.",
+      "a": "one two three four five six seven eight nine ten eleven twelve"
+    },
+    "pink": {
+      "q": "Vad betyder 'between' på svenska?",
+      "a": "mellan"
+    },
+    "yellow": {
+      "q": "Fyll i rätt: I ___ 10 years old.",
+      "a": "am"
+    },
+    "purple": {
+      "q": "Skriv en mening med 'play floorball'.",
+      "a": "T.ex. 'I play floorball'"
+    },
+    "green": {
+      "q": "Vilken är rätt?\n1) I is a student\n2) I am a student",
+      "a": "2"
+    },
+    "orange": {
+      "q": "Spela charader: visa 'I am a student'.",
+      "a": "Fråga någon som vet om det stämmer."
+    }
+  },
+
+  {
+    "level": 1,
+    "blue": {
+      "q": "Vad betyder 'bread' på svenska?",
+      "a": "bröd"
+    },
+    "pink": {
+      "q": "Vad betyder 'pannkakor' på engelska?",
+      "a": "pancakes"
+    },
+    "yellow": {
+      "q": "Fyll i rätt (a / an): ___ apple",
+      "a": "an"
+    },
+    "purple": {
+      "q": "Skriv en mening med 'frukost' på engelska.",
+      "a": "T.ex. 'I eat breakfast'"
+    },
+    "green": {
+      "q": "Vilken är rätt?\n1) an orange\n2) a orange",
+      "a": "1"
+    },
+    "orange": {
+      "q": "Säg frukostord på engelska och förklara vad de betyder (minst 3).",
+      "a": "T.ex. bread, butter, cereal, knife, spoon, fork, pancakes."
+    }
+  },
+
+  {
+    "level": 1,
+    "blue": {
+      "q": "Vad betyder 'in' på svenska?",
+      "a": "i"
+    },
+    "pink": {
+      "q": "Vad betyder 'under' på engelska?",
+      "a": "under"
+    },
+    "yellow": {
+      "q": "Fyll i rätt: He ___ a cat.",
+      "a": "has"
+    },
+    "purple": {
+      "q": "Skriv en mening med 'listen to music'.",
+      "a": "T.ex. 'I listen to music'"
+    },
+    "green": {
+      "q": "Vilken är rätt?\n1) He have a dog\n2) He has a dog",
+      "a": "2"
+    },
+    "orange": {
+      "q": "Säg 'Jag har en hund' och 'Hon har en hund' på engelska.",
+      "a": "I have a dog. She has a dog. Notera skillnaden."
+    }
+  },
+
+  {
+    "level": 1,
+    "blue": {
+      "q": "Vad betyder 'hobbies' på svenska?",
+      "a": "hobbyer"
+    },
+    "pink": {
+      "q": "Vad betyder 'spela fotboll' på engelska?",
+      "a": "play football"
+    },
+    "yellow": {
+      "q": "Fyll i rätt: She ___ football every day.",
+      "a": "plays"
+    },
+    "purple": {
+      "q": "Skriv vad dina hobbyer är.",
+      "a": "T.ex. 'My hobbies are music and shopping'"
+    },
+    "green": {
+      "q": "Vilken är rätt?\n1) He plays football\n2) He play football",
+      "a": "1"
+    },
+    "orange": {
+      "q": "Spela charader: visa 'play video games'.",
+      "a": "Fråga någon som vet om det stämmer."
+    }
+  },
+    {
+    "level": 1,
+    "blue": {
+      "q": "Vad betyder 'on the table' på svenska?",
+      "a": "på bordet"
+    },
+    "pink": {
+      "q": "Vad betyder 'hunden sitter bredvid katten' på engelska?",
+      "a": "the dog sits beside the cat"
+    },
+    "yellow": {
+      "q": "Fyll i rätt: We live ___ Sweden",
+      "a": "in"
+    },
+    "purple": {
+      "q": "Rätta meningen: 'I are interested on music'",
+      "a": "I am interested in music"
+    },
+    "green": {
+      "q": "Vilken är rätt?\n1) The spoon are in the table.\n2) The spoon is on the table",
+      "a": "2"
+    },
+    "orange": {
+      "q": "Peka på något i rummet som är 'behind' respektive 'in front of' dig.",
+      "a": "Behind = bakom. In front of = framför. Fråga någon som vet om det stämmer."
+    }
+  },
+      {
+    "level": 1,
+    "blue": {
+      "q": "Vad betyder 'we sat around the table' på svenska?",
+      "a": "vi satt runt bordet"
+    },
+    "pink": {
+      "q": "Vad betyder 'de spelar innebandy' på engelska?",
+      "a": "they play floorball"
+    },
+    "yellow": {
+      "q": "Fyll i rätt: You ___ football every summer",
+      "a": "play"
+    },
+    "purple": {
+      "q": "Rätta meningen: 'I reads books every day.'",
+      "a": "I read books every day."
+    },
+    "green": {
+      "q": "Vilken är rätt?\n1) He likes chemistry. \n2) He like chemistry",
+      "a": "1"
+    },
+    "orange": {
+      "q": "Peka på något i rummet som är 'over' respektive 'under' dig.",
+      "a": "Over = över. Under = under. Fråga någon som vet om det stämmer."
+    }
+  },
+        {
+    "level": 1,
+    "blue": {
+      "q": "Vad betyder 'the cat is behind the sofa' på svenska?",
+      "a": "katten är bakom soffan"
+    },
+    "pink": {
+      "q": "Vad betyder 'bollen är i boxen' på engelska?",
+      "a": "they ball is in the box"
+    },
+    "yellow": {
+      "q": "Vad är en preposition?",
+      "a": "Ett ord som visar var något är eller var något finns i förhållande till något annat."
+    },
+    "purple": {
+      "q": "Rätta meningen: 'They likes to sing.'",
+      "a": "They like to sing."
+    },
+    "green": {
+      "q": "Vilken är rätt?\n1) We like physics. \n2) We likes physics",
+      "a": "1"
+    },
+    "orange": {
+      "q": "Peka på något i rummet som är 'between' två saker i rummet.",
+      "a": "Between = mellan. Fråga någon som vet om det stämmer."
+    }
+  },
+          {
+    "level": 1,
+    "blue": {
+      "q": "Vad betyder 'is' och 'are' på svenska?",
+      "a": "är"
+    },
+    "pink": {
+      "q": "Nämn tre olika typer av bestick på engelska?",
+      "a": "T.ex. spoon (sked), knife (kniv) och gaffel (fork)."
+    },
+    "yellow": {
+      "q": "Hur stavas flingor på engelska?",
+      "a": "Cereal"
+    },
+    "purple": {
+      "q": "Rätta meningen: 'You is playing music'",
+      "a": "You are playing music."
+    },
+    "green": {
+      "q": "Vilken är rätt?\n1) I speak swedish. \n2) I speak Swedish",
+      "a": "2. Språk skrivs alltid med stor bokstav på engelska, till skillnad från svenska."
+    },
+    "orange": {
+      "q": "När ska du använda 'an' istället för 'a' framför ord?",
+      "a": "'När ordet börjar med ett vokalljud (a, e, i, o, u-ljud)."
+    }
+  }
   ]
 }

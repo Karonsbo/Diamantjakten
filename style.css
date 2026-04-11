@@ -90,9 +90,7 @@ html, body {
 
   display: flex;
   align-items: center;
-  gap: 0.5 em;
-
-  
+  /*gap: 0.5em;*/
 }
 
 
@@ -112,12 +110,12 @@ html, body {
 }
 
 /* Färger per kategori */
-.triangle.addition       { border-bottom-color: #4da6ff; }
-.triangle.subtraktion    { border-bottom-color: #ff99cc; }
-.triangle.multiplikation { border-bottom-color: #ffe066; }
-.triangle.division       { border-bottom-color: #c299ff; }
-.triangle.klockan        { border-bottom-color: #99e699; }
-.triangle.kreativ        { border-bottom-color: #ffb366; }
+.triangle.blue       { border-bottom-color: #4da6ff; }
+.triangle.pink    { border-bottom-color: #ff99cc; }
+.triangle.yellow { border-bottom-color: #ffe066; }
+.triangle.purple       { border-bottom-color: #c299ff; }
+.triangle.green        { border-bottom-color: #99e699; }
+.triangle.orange        { border-bottom-color: #ffb366; }
 
 /* FRÅGETEXT */
 .row-card span {

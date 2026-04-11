@@ -18,8 +18,8 @@
 
     <div class="d-flex justify-content-center flex-wrap gap-3 mt-4">
       <!-- Matte är aktiv -->
-      <button class="btn btn-primary btn-lg" onclick="selectCategory('math')">Matte</button>
-      <!-- Andra kategorier inaktiva / grå -->
+      <button class="btn btn-secondary btn-lg category-btn" onclick="selectCategory('math', this)">Matte</button>
+      <button class="btn btn-secondary btn-lg category-btn" onclick="selectCategory('english', this)">Engelska</button>
       <button class="btn btn-secondary btn-lg" disabled>Historia</button>
       <button class="btn btn-secondary btn-lg" disabled>Biologi</button>
       <button class="btn btn-secondary btn-lg" disabled>Vetenskap</button>
@@ -35,33 +35,53 @@
   </div>
 
   <script>
-    let selectedCategory = null;
 
-    function selectCategory(cat) {
-      selectedCategory = cat;
-      const levelDiv = document.getElementById('levelSelect');
-      levelDiv.style.display = 'flex';
+let selectedCategory = null;
 
-      // Highlight the selected category button (optional)
-      document.querySelectorAll('.btn-lg').forEach(btn => btn.classList.remove('active'));
-      const activeBtn = document.querySelector(`.btn.btn-primary`);
-      if (activeBtn) activeBtn.classList.add('active');
+function selectCategory(cat, btnElement) {
+  selectedCategory = cat;
 
-      // Set up level buttons
+  // show level panel
+  const levelDiv = document.getElementById('levelSelect');
+  levelDiv.style.display = 'flex';
+
+  // reset ONLY category buttons
+  document.querySelectorAll('.category-btn').forEach(btn => {
+    btn.classList.remove('btn-primary', 'active');
+    btn.classList.add('btn-secondary');
+  });
+
+  // activate selected category
+  if (btnElement) {
+    btnElement.classList.remove('btn-secondary');
+    btnElement.classList.add('btn-primary', 'active');
+  }
+
+  // fetch available levels dynamically from JSON
+  fetch('questions.json')
+    .then(res => res.json())
+    .then(data => {
+      const categoryData = data[cat];
+
+      // extract available levels
+      const availableLevels = [
+        ...new Set(categoryData.map(item => item.level))
+      ];
+
+      // configure level buttons
       for (let lvl = 1; lvl <= 3; lvl++) {
         const lvlBtn = document.getElementById('level' + lvl);
-        lvlBtn.href = `card.html?category=${cat}&level=${lvl}`;
-        lvlBtn.onclick = function (e) {
-          e.preventDefault();
-          window.location.href = lvlBtn.href;
+
+        if (availableLevels.includes(lvl)) {
+          lvlBtn.style.display = "inline-block";
+          lvlBtn.href = `card.html?category=${cat}&level=${lvl}`;
+          lvlBtn.classList.remove("disabled");
+        } else {
+          lvlBtn.style.display = "none";
         }
       }
-    }
-
-    // Preselect Math when page loads
-    window.addEventListener('DOMContentLoaded', () => {
-      selectCategory('math'); // ✅ This calls the function AFTER it’s defined
     });
+}
   </script>
 
 </body>
