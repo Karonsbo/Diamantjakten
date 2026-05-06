@@ -396,7 +396,124 @@ function updateGameInfoLabel() {
   label.textContent = `${categoryText} · ${levelText}`;
 }
 
+// ================================
+// SPÅGUMMA MENU
+// ================================
+function showFortuneMenu() {
+  const menuDiv = document.getElementById('fortuneMenu');
+  const menuContent = document.getElementById('fortuneMenuContent');
+
+  // Clear previous content
+  menuContent.innerHTML = '';
+
+  // Load JSON
+  fetch('fortuneMenu.json')
+    .then(res => res.json())
+    .then(data => {
+      // Separate in-game and out-game items
+      const inGameItems = data.filter(item => item.type === 'in-game');
+      const outGameItems = data.filter(item => item.type === 'out-game');
+
+      // Add in-game subtitle
+      if (inGameItems.length > 0) {
+        const sub = document.createElement('h3');
+        sub.textContent = "Spelrelaterade föremål";
+        menuContent.appendChild(sub);
+
+        inGameItems.forEach(item => {
+          menuContent.appendChild(createMenuItem(item));
+        });
+      }
+
+      // Divider image
+      if (outGameItems.length > 0) {
+        const divider = document.createElement('div');
+        divider.className = 'menu-divider';
+        const dividerImg = document.createElement('img');
+        dividerImg.src = 'images/divider.png';
+        dividerImg.alt = 'divider';
+        divider.appendChild(dividerImg);
+        //menuContent.appendChild(divider);
+
+        // Subtitle
+        const sub2 = document.createElement('h3');
+        sub2.textContent = "Föremål utanför spelet";
+        menuContent.appendChild(sub2);
+
+        outGameItems.forEach(item => {
+          menuContent.appendChild(createMenuItem(item));
+        });
+      }
+
+      menuDiv.style.display = 'flex';
+    })
+    .catch(err => console.error('Error loading fortuneMenu.json:', err));
+}
+
+function createMenuItem(item) {
+  const row = document.createElement('div');
+  row.className = 'menu-item';
+  row.style.position = 'relative';
+
+  // Item image
+  const img = document.createElement('img');
+  img.src = item.image || 'images/placeholder.png';
+  img.alt = item.name;
+  row.appendChild(img);
+
+  // Info container
+  const info = document.createElement('div');
+  info.className = 'item-info';
+
+  const title = document.createElement('h4');
+  title.textContent = item.name;
+  info.appendChild(title);
+
+  const desc = document.createElement('p');
+  desc.textContent = item.description;
+  info.appendChild(desc);
+
+  if (item.level) {
+    const levelInfo = document.createElement('p');
+    levelInfo.style.fontStyle = 'italic';
+    levelInfo.style.fontSize = '0.85rem';
+    levelInfo.textContent = `Gäller nivå: ${item.level}`;
+    info.appendChild(levelInfo);
+  }
+
+  row.appendChild(info);
+
+  // Cost badge
+  const coins = item.cost?.coins ?? 0;
+  const diamonds = item.cost?.diamonds ?? 0;
+
+  if (coins > 0 || diamonds > 0) {
+    const costBadge = document.createElement('div');
+    costBadge.className = 'cost-badge';
+
+    const createCostItem = (src, amount) => {
+      const span = document.createElement('span');
+      span.className = 'cost-item';
+      span.innerHTML = `<img src="${src}" class="cost-icon"><span class="cost-number">×${amount}</span>`;
+      return span;
+    };
+
+    if (coins > 0) costBadge.appendChild(createCostItem('images/coin.png', coins));
+    if (diamonds > 0) costBadge.appendChild(createCostItem('images/gem.png', diamonds));
+
+    row.appendChild(costBadge);
+  }
+
+  return row;
+}
+
+// Close menu
+function closeFortuneMenu() {
+  document.getElementById('fortuneMenu').style.display = 'none';
+}
+
 // ===============================
 function goBack() {
   window.location.href = "index.html";
 }
+
